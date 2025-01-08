@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pi3 on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/tags/pi3/index.xml</link>
+    <description>Recent content in Pi3 on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Sun, 05 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pi3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Replied to:Re: Fired up!</title>
+      <link>http://localhost:1313/2017/11/05/replied-tore-fired-up/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2017/11/05/replied-tore-fired-up/</guid>
+      <description>&lt;p&gt;Syncthing looks pretty interesting. I’ll probably give it a shot for another project of mine. Thanks for the pointer.&lt;/p&gt;&#xA;&lt;p&gt;For the pi3 setup, one USB port supports both the keyboard and mouse, while another serves the hard disk, leaving two more ports free. I use an hdmi adapter for the screen. Once I get a better hang of using the raw power of the Ubuntu core, I’ll probably be able to put the pi3 to better use!&lt;/p&gt;&#xA;&lt;p&gt;in reply to: &lt;a href=&#34;https://www.philipbrewer.net/2017/11/05/re-fired-up/&#34;&gt;Re: Fired up!&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;I need to do this, although my brother wants me to use Syncthing. Our plan is to each sync to our own home server, and then sync our home servers to each other so that we have an off-site backup of our important data.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

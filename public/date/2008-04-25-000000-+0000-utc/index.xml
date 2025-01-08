@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2008-04-25 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/date/2008-04-25-000000-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2008-04-25 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Fri, 25 Apr 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/date/2008-04-25-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Heron&#39;s up there in the Servers!</title>
+      <link>http://localhost:1313/2008/04/25/the-herons-up-there-in-the-servers/</link>
+      <pubDate>Fri, 25 Apr 2008 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2008/04/25/the-herons-up-there-in-the-servers/</guid>
+      <description>&lt;p&gt;The Ubuntu family has now doled out their latest OS - Ubuntu 8.04 code named - Hardy Heron. This release is more than different when compared to it&amp;rsquo;s previous releases. Majorly because it&amp;rsquo;s got a Wubi installer which facilitates installation directly from a Windows platform. The OS gets installed on the same partition just like any other software application, thus relieving a linux noobie from all the hassles of partitioning a drive. It can also be uninstalled just like any other app. through the Add/ Remove programs. :-)&lt;/p&gt;&#xA;&lt;p&gt;Hardy Heron is a Long term Support ( LTS ) version. The Ubuntu community release LTS versions once in every two years and I belive this version is going to be supported till 2011 ! For server editions the support is for Five years! :-)&lt;/p&gt;&#xA;&lt;p&gt;Hardy comes in with the Firefox 3 ( Still in the Late stages of Beta ), Open Office 2.40 and the GIMP (2.4.5) . Early reviews suggest the OS is pretty stable and gels with a breeze in Windows.  Ubuntu 7.04 ( Gutsy Gibbon ) literally smirked at Vista. Wonder what Hardy has in store!&lt;/p&gt;&#xA;&lt;p&gt;Any reasons why you shouldn&amp;rsquo;t be giving this  a shot? :-)&lt;/p&gt;&#xA;&lt;p&gt;Rush and download it from here !&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

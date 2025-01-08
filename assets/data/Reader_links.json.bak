@@ -1,0 +1,17 @@
+{
+  "feeds": [
+    {
+      "name": "Rishikesh",
+      "url": "https://rishikeshs.com/index.xml"
+    },
+    {
+      "name": "Brakeshwar",
+      "url": "https://brajeshwar.com/feed.xml"
+    },
+    {
+      "name": "Buster Benson",
+      "url": "https://busterbenson.com/atom.xml"
+    }
+
+  ]
+} 

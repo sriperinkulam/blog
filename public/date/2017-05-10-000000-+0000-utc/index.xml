@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2017-05-10 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/date/2017-05-10-000000-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2017-05-10 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Wed, 10 May 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/date/2017-05-10-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reply to - It&#39;s alive</title>
+      <link>http://localhost:1313/2017/05/10/reply-to-its-alive/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2017/05/10/reply-to-its-alive/</guid>
+      <description>&lt;p&gt;I believe it might be something to do with the media endpoint. As a workaround, I use the dsgnwrks Instagram importer plugin which does a great job fetching posts from Instagram.&lt;/p&gt;&#xA;&lt;p&gt;Responding to &lt;a href=&#34;https://dougbeal.com/2017/05/05/its-alive/&#34;&gt;It’s Alive&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;I have WordPress with all the indie web fixings, using the SemPress theme. Not sure about viability. One important use case is Instagram crossposting here via OwnYourGram.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

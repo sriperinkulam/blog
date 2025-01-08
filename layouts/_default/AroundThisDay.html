@@ -1,0 +1,46 @@
+{{ define "main" }}
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+  <main>
+      {{ .Content }}
+
+<h2>{{ .Title }}</h2> 
+
+<p> This page lets me timetravel over the past years to see what I might have published around the current date. Sort of a nudge to read my own posts.
+</p>
+
+{{ $now := now }}  <!-- Get the current date and time -->
+{{ $today := $now.Format "2006-01-02" }}  <!-- Format today's date -->
+{{ $currentYear := $now.Year }}  <!-- Get the current year -->
+
+{{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+
+{{ range $year := seq $currentYear (sub $currentYear 30) }} <!-- Adjust the range as needed -->
+    {{ $targetDate := (printf "%d-%s" $year (now.Format "01-02")) | time }} <!-- Create the target date for the year -->
+    {{ $threeDaysBefore := $targetDate.AddDate 0 0 -3 }}  <!-- Three days before the target date -->
+    {{ $threeDaysAfter := $targetDate.AddDate 0 0 3 }}  <!-- Three days after the target date -->
+
+    {{ $filteredPages := where $pages "PublishDate" "ge" $threeDaysBefore }}
+    {{ $filteredPages = where $filteredPages "PublishDate" "le" $threeDaysAfter }}
+
+    {{ if $filteredPages }}
+        <h3 class="archive-year" id="{{ $year | urlize }}">{{ $year }}</h3>
+        <ul class="item-list">
+            {{ range sort $filteredPages "PublishDate" "desc" }}
+                <li><p>
+                    <strong><time datetime="{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" }}"></time>
+                    {{ .PublishDate.Format "Jan 02" }}</strong>: <a href="{{ .Permalink }}"><u>{{ .Title }}</u></a>
+                </p></li>
+            {{ end }}
+        </ul>
+    {{ end }}
+{{ end }}
+
+  </main>
+</div>
+</div>
+</div>
+
+{{end}}

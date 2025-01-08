@@ -1,0 +1,59 @@
+{{ define "main" }}
+<div class="container">
+    <h1>{{ .Title }}</h1>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+    <div id="map" class="responsive-map"></div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            // Check if Leaflet is loaded
+            if (typeof L === 'undefined') {
+                console.error("Leaflet library is not loaded.");
+                return;
+            }
+
+            // Initialize the map
+            var map = L.map('map').setView([20, 0], 2); // Center the map
+
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                maxZoom: 19,
+                attribution: '© OpenStreetMap'
+            }).addTo(map);
+
+            // Add your visited countries here
+            var countries = [
+                { name: "France", coords: [46.6034, 1.8883] },
+                { name: "Germany", coords: [51.1657, 10.4515] },
+                { name: "Italy", coords: [41.8719, 12.5674] },
+                { name: "Spain", coords: [40.4637, -3.7492] },
+                // Add more countries as needed
+            ];
+
+            countries.forEach(function(country) {
+                L.marker(country.coords).addTo(map)
+                    .bindPopup(country.name);
+            });
+        });
+    </script>
+</div>
+
+<style>
+    /* Responsive map styles */
+    .responsive-map {
+        width: 100%; /* Full width */
+        height: 60vh; /* Height relative to viewport height */
+        margin-top: 20px; /* Space above the map */
+        border: 1px solid #ccc; /* Optional: Add a border */
+        border-radius: 5px; /* Optional: Rounded corners */
+    }
+
+    /* Ensure the map resizes correctly */
+    #map {
+        width: 100%;
+        height: 100%;
+    }
+</style>
+{{ end }}

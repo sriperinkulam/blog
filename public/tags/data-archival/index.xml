@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data-Archival on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/tags/data-archival/index.xml</link>
+    <description>Recent content in Data-Archival on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/data-archival/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>March 4, 2021 21:05</title>
+      <link>http://localhost:1313/2021/03/04/march-4-2021-2105/</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2021/03/04/march-4-2021-2105/</guid>
+      <description>&lt;p&gt;A fascinating talk by Jonah Edwards to the Internet Archive staff. They manage ~200PB of data in-house!&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://archive.org/download/jonah-edwards-presentation/jonah-edwards-presentation&#34;&gt;https://archive.org/download/jonah-edwards-presentation/jonah-edwards-presentation&lt;/a&gt;_720p.mp4&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

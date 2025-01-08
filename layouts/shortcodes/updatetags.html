@@ -1,0 +1,30 @@
+<div class="updatetags">
+<H1>Updating tags with Sydication links</H1>
+<br>
+{{ $files := (readDir "assets/data/ExtData/feeds/") }}
+{{ $files := sort $files "Name" "desc" }}
+{{ $checklink := "https://srikanthperinkulam.com/2024/11/22/garmin-ported/"}}
+{{ range $files }}
+
+	{{ if and (eq (path.Ext .Name) ".json") (not (hasPrefix .Name "0000_")) }}
+	{{ $data := dict }}
+	{{ $p := printf "data/ExtData/feeds/%s" .Name }}
+
+	{{ with resources.Get $p }}
+	 {{ $data = . | transform.Unmarshal }}
+	{{ else }}
+	  {{ errorf "Unable to get resource %q" $p }}
+	{{ end }}
+
+        {{ range $key, $value := $data.links }}
+	        {{ range $value }}
+	  		{{ if (strings.Contains . $checklink) }}
+	    			<br> "THIS ONE?:" {{ $key }}
+	  		{{ end }}
+		{{ end }}
+        {{ end }}
+        
+{{ end }}
+	{{ end }}
+
+</div>

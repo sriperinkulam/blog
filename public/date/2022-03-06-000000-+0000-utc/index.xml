@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2022-03-06 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/date/2022-03-06-000000-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2022-03-06 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/date/2022-03-06-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022-03-06 00:00:00</title>
+      <link>http://localhost:1313/2022/03/06/tiny-troubles/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2022/03/06/tiny-troubles/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Imagepipe_9.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Of late, the NUC has been getting really hot. Core CPU temperatures were hitting the 80s despite the system being on literally no load. When I first bought it in mid-2020, I was aware that this lineage of tiny monsters were known for their &amp;lsquo;hot&amp;rsquo;ness and the fan being a bit loud.  Only over the last few months have I really seen this sudden spike in temperatures though.&lt;/p&gt;&#xA;&lt;p&gt;The first obvious step was to get rid of the plastic lid and get those aluminum heat-sinks. That helped a bit until yesterday when the temps shot to the 90s for no reason. A quick &lt;strong&gt;htop&lt;/strong&gt; run didn&amp;rsquo;t seem to show any processes that were hogging resources. Troubleshooting this a bit further, I figured I did run some apt updates a few days back that triggered Kernel updates. I might now have to get into the BIOS and see if any firmware updates are pending. As luck might have it though, the current keyboard that I have functions via Bluetooth only and I can&amp;rsquo;t quite use it to get into the BIOS. I do have an alternate keyboard, again Bluetooth but this one comes with a USB receiver - which I conveniently left in my tech black-box in MD! 🤦 Really hope M doesn&amp;rsquo;t forget bringing it!&lt;/p&gt;&#xA;&lt;p&gt;For now, I installed the &lt;strong&gt;cpupower-gui&lt;/strong&gt; tool and set the Governor to &amp;lsquo;powersave&amp;rsquo; mode. Does seem to have done the trick for now. I might have to open up the unit and see if it needs some deep cleaning with some compressed air. Sometime soon I guess!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/governor-1200x608.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

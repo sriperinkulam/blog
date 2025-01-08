@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2024-05 on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/month/2024-05/index.xml</link>
+    <description>Recent content in 2024-05 on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Thu, 23 May 2024 22:17:56 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/month/2024-05/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024-05-23 22:17:56</title>
+      <link>http://localhost:1313/2024/05/23/digital-photo-frame/</link>
+      <pubDate>Thu, 23 May 2024 22:17:56 -0600</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/05/23/digital-photo-frame/</guid>
+      <description>&lt;p&gt;Used the spare RPI3 I salvaged from the &lt;a href=&#34;https://srikanthperinkulam.com/posts/2024/05/nextcloudpi/&#34;&gt;NCP migration&lt;/a&gt; and made a decent digital photo frame. Ever since I consolidated all my photos, I’ve been wanting to setup a digital frame that would take us back in time on command. Some version of ‘On this day’ – but for photos. I think I have a solution that is close to what I had in mind. The photos are currently on a USB drive synced from my Nextcloud server via a cron job. I still need to work out how I choose what photos get displayed when. But so far, I am pretty happy with how this has turned out.&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Pipiol</title>
+      <link>http://localhost:1313/2024/05/18/pipiol/</link>
+      <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/05/18/pipiol/</guid>
+      <description>&lt;p&gt;S just got back from a week long camping trip in &lt;a href=&#34;https://pipiol.com/&#34;&gt;Pipiol&lt;/a&gt;. This is the first time she&amp;rsquo;s been away from M or me overnight and she seems to have handled it real well! Super proud of her! All credit goes to her school for prepping the class right from the very beginning of the school year.&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>2024-05-17 00:00:00</title>
+      <link>http://localhost:1313/2024/05/17/nextcloudpi/</link>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/05/17/nextcloudpi/</guid>
+      <description>&lt;p&gt;Last weekend I got a bit cocky and decided to upgrade the distro on the NextcloudPi. The upgrade seemed to go well until it threw a PHP error which got me going in circles. In hindsight, I&amp;rsquo;d setup automatic upgrades on NextcloudPi and Nextcloud, which seems to have conflicted with the actual distribution&amp;rsquo;s update. Now I did take a backup, but that didn&amp;rsquo;t quite sit well with the now upgraded system and the myriad PHP issues.&lt;/p&gt;&#xA;&lt;p&gt;Had enough of the band-aid fixes and decided to migrate the nextcloud server to a laptop that was just lying around unused. Decided to stick with the &lt;a href=&#34;https://github.com/nextcloud/nextcloudpi/&#34;&gt;NexcloudPi OS&lt;/a&gt; since it has served me super awesome over the last seven years. I did make sure the auto upgrades were disabled though! Also RSync is awesome!&lt;/p&gt;&#xA;&lt;p&gt;An added  bonus is that I now have a spare RPi3 to tinker with! Not quite &lt;a href=&#34;https://srikanthperinkulam.com/2024/04/14/pico-de-aguila/&#34;&gt;dumbing down&lt;/a&gt;, am I?&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microformats on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/tags/microformats/index.xml</link>
+    <description>Recent content in Microformats on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Fri, 30 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/microformats/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Squashing the bug</title>
+      <link>http://localhost:1313/2017/06/30/squashing-the-bug/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2017/06/30/squashing-the-bug/</guid>
+      <description>&lt;p&gt;Squashed a minor bug in my code for &amp;lsquo;favorite&amp;rsquo; posts. The post wasn&amp;rsquo;t getting marked up with Microformats when the content (response) was blank.&lt;/p&gt;&#xA;&lt;p&gt;The way it&amp;rsquo;s currently setup, I have just one workflow for all &amp;rsquo;types&amp;rsquo; of post (podcast, reply, like, repost, bookmark, read etc.) and looks like I missed a logic flow that &amp;rsquo;like&amp;rsquo; posts may not necessarily have a note from me. A quick conditional check and the workflow works like a charm!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Replied to:This year: active community members are blogging on</title>
+      <link>http://localhost:1313/2017/06/22/replied-tothis-year-active-community-members-are-blogging-on/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2017/06/22/replied-tothis-year-active-community-members-are-blogging-on/</guid>
+      <description>&lt;p&gt;Wow, didn&amp;rsquo;t realize this was 12 years in the making! Hats off for all the efforts!&lt;/p&gt;&#xA;&lt;p&gt;in reply to: &lt;a href=&#34;http://tantek.com/2017/171/t1/microformats-community-blogging&#34;&gt;This year: active community members are blogging on&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🎂 #microformats.org turned 12 today! This year: active community members are blogging on microformats.org&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

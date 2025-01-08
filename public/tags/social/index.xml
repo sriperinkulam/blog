@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/tags/social/index.xml</link>
+    <description>Recent content in Social on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Sun, 23 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/social/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022-01-23 00:00:00</title>
+      <link>http://localhost:1313/2022/01/23/january-23-2022-1445/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2022/01/23/january-23-2022-1445/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://micro.blog/Alligator&#34;&gt;@Alligator&lt;/a&gt; I&amp;rsquo;m glad I got most of my family off apple a few years ago.The ecosystem and apps are great but there&amp;rsquo;s so little room for fun tweaking. I&amp;rsquo;ve had my eyes on Dex and Ubuntu&amp;rsquo;s convergence for a while too. For now though, I&amp;rsquo;m happy with my modular workstation setup. Another stream of thought is to port the fam to a Snikket/XMPP/matrix ecosystem so we&amp;rsquo;re lesser dependent on external networks. That&amp;rsquo;s going to take a bit of planning and coaxing though untill the &lt;a href=&#34;https://matrix.org/bridges/&#34;&gt;matrix bridges&lt;/a&gt; are a bit more robust :).&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Discourse</title>
+      <link>http://localhost:1313/2017/04/06/discourse/</link>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2017/04/06/discourse/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.discourse.org/&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/logo.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/a&gt;Learn about Discourse, the 100% open source discussion platform built for the next decade of the Internet.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://www.discourse.org/&#34;&gt;Discourse&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

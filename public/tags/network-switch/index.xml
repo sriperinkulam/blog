@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network-Switch on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/tags/network-switch/index.xml</link>
+    <description>Recent content in Network-Switch on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Sun, 17 May 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/network-switch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Switched!</title>
+      <link>http://localhost:1313/2020/05/17/switched/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2020/05/17/switched/</guid>
+      <description>&lt;p&gt;So far I had all the micro-servers in the home network connected either to a LAN port or to an Orbi Satellite. This week I implemented a simple 8 port un-managed TP-Link switch into my &amp;lsquo;homelab&amp;rsquo;. Costed just about 18 bucks with a price-match from amazon and it has tremendously improved upload/download speeds! Also it&amp;rsquo;s pretty cool to visually see that the RPi3B+ boards are being throttled at 10/100Mbps while the RPi4 is rummaging at 1000Mbps.&lt;/p&gt;&#xA;&lt;p&gt;While at it, I re-purposed a few card-board boxes and built a bare bones stack. Ain&amp;rsquo;t pretty does absolutely does the job!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/20200517_030654-868x1200.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

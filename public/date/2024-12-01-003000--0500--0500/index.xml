@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2024-12-01 00:30:00 -0500 -0500 on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/date/2024-12-01-003000--0500--0500/index.xml</link>
+    <description>Recent content in 2024-12-01 00:30:00 -0500 -0500 on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Sun, 01 Dec 2024 00:30:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/date/2024-12-01-003000--0500--0500/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024-12-01 00:30:00</title>
+      <link>http://localhost:1313/2024/12/01/2024-12-01-003000/</link>
+      <pubDate>Sun, 01 Dec 2024 00:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/12/01/2024-12-01-003000/</guid>
+      <description>&lt;p&gt;Moved over the syndication links in my posts to post-meta. The syndication icon only shows up if a valid link is present in the FrontMatter of a post. Once micro.blog picks up the feed, it&amp;rsquo;s currently set to auto publish to the fediverse on my GoToSocial (GTS) instance.  On the backend, a GO script fetches the RSS feed from my GTS instance and saves the RSS feed item link and the corresponding link to my post in a JSON file. Another script quickly looks up which post&amp;rsquo;s FrontMatter needs to be updated for the syndication links in each post and updates the files as needed. A bit windy but seems to do the job for now. I might end up consolidating these into just one script later and/or directly use the masto API to publish to the fediverse and grab the syndication link from there. For now, I&amp;rsquo;m pretty psyched this is all working.&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

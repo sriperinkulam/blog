@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cactus on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/tags/cactus/index.xml</link>
+    <description>Recent content in Cactus on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cactus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2021-04-22 00:00:00</title>
+      <link>http://localhost:1313/2021/04/22/april-22-2021-0622/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2021/04/22/april-22-2021-0622/</guid>
+      <description>&lt;p&gt;Whoa..using Matrix as a commenting system! Quite an intriguing implementation.&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

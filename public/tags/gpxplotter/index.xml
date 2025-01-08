@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gpxplotter on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/tags/gpxplotter/index.xml</link>
+    <description>Recent content in Gpxplotter on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Sun, 06 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/gpxplotter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Garmin</title>
+      <link>http://localhost:1313/2022/02/06/garmin/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2022/02/06/garmin/</guid>
+      <description>&lt;p&gt;As I slowly get back into running, I realized my &lt;a href=&#34;https://srikanthperinkulam.com/2021/05/30/owning-my-garmin-data/&#34;&gt;garmin plugin&lt;/a&gt; had a minor bug. When I built this last year, I had inadvertently hard-coded the years field in the &lt;a href=&#34;https://srikanthperinkulam.com/garmin-stats/&#34;&gt;summary&lt;/a&gt; and the totals for the current year where obviously messed up. For now I&amp;rsquo;ve patched it with a quick-fix. Will have to automate it when I have a bit more time and I think I already know what needs to be done.&lt;/p&gt;&#xA;&lt;p&gt;On that note, I also chanced upon &lt;a href=&#34;https://www.andersle.no/posts/2018/gpxplot/gpxplot.html&#34;&gt;Anders&lt;/a&gt;&amp;rsquo; terrific &lt;a href=&#34;https://github.com/andersle/gpxplotter&#34;&gt;gpxplotter&lt;/a&gt;. With slight modifications I should be able to generate neat map tiles from the GPX files and incorporate it my plugin. Project for another day but I am pretty excited about this!&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

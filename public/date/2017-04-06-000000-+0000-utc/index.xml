@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2017-04-06 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/date/2017-04-06-000000-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2017-04-06 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Thu, 06 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/date/2017-04-06-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discourse</title>
+      <link>http://localhost:1313/2017/04/06/discourse/</link>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2017/04/06/discourse/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.discourse.org/&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/logo.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/a&gt;Learn about Discourse, the 100% open source discussion platform built for the next decade of the Internet.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://www.discourse.org/&#34;&gt;Discourse&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Standard File - your data home forever.</title>
+      <link>http://localhost:1313/2017/04/06/standard-file-your-data-home-forever./</link>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2017/04/06/standard-file-your-data-home-forever./</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Standard File is one account for every human. This account can store almost any data type, and supports strong encryption and privacy by default.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;https://standardfile.org/&#34;&gt;Standard File - your data home forever.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,100 @@
+{{ define "main" }}
+<div class="accordion-container">
+    <div class="accordion-navigation">
+        {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+        {{ $latestYear := "" }}
+        {{ range $pages.GroupByPublishDate "2006" }}
+            <h3 class="accordion-header" id="{{.Key | urlize}}" onclick="showPosts('{{.Key | urlize}}', this)">
+                {{.Key}}
+            </h3>
+            {{ if eq $latestYear "" }} {{ $latestYear = .Key }} {{ end }}
+        {{ end }}
+    </div>
+    <div class="accordion-posts">
+        <div id="posts-content">
+            <p>Select a year from the left to view posts.</p>
+        </div>
+    </div>
+</div>
+
+<style>
+.accordion-container {
+    display: flex;
+}
+
+.accordion-navigation {
+    width: 25%;
+    border-right: 1px solid #ccc;
+}
+
+.accordion-header {
+    cursor: pointer;
+    padding: 10px;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
+.accordion-header:hover {
+    background-color: var(--hover-bg-color);
+}
+
+.accordion-header.selected {
+    background-color: var(--selected-bg-color);
+    color: var(--selected-text-color);
+}
+
+.accordion-posts {
+    width: 75%;
+    padding: 20px;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+</style>
+
+<script>
+const postsData = {
+    {{ range $pages.GroupByPublishDate "2006" }}
+        "{{.Key | urlize}}": `
+            <ul class="item-list">
+                {{ range sort .Pages "PublishDate" "desc" }}
+                    <li>
+                        <p>
+                            <strong>
+                                <time datetime="{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" }}">
+                                    {{ .PublishDate.Format "Jan 02" }}
+                                </time>
+                            </strong>: <a href="{{.Permalink}}"><u>{{.Title}}</u></a>
+                        </p>
+                    </li>
+                {{ end }}
+            </ul>
+        `,
+    {{ end }}
+};
+
+function showPosts(year, header) {
+    const postsContent = document.getElementById('posts-content');
+    postsContent.innerHTML = postsData[year] || '<p>No posts available for this year.</p>';
+
+    // Remove 'selected' class from all headers
+    const headers = document.querySelectorAll('.accordion-header');
+    headers.forEach(h => h.classList.remove('selected'));
+
+    // Add 'selected' class to the clicked header
+    header.classList.add('selected');
+}
+
+// Show the latest year's posts by default
+document.addEventListener('DOMContentLoaded', function() {
+    const latestYear = "{{ $latestYear }}"; // Use the dynamically set latest year
+    const latestYearId = latestYear | urlize; // Ensure the ID matches
+    const headerElement = document.querySelector(`#${latestYearId}`);
+    
+    if (headerElement) {
+        showPosts(latestYearId, headerElement);
+    } else {
+        console.warn("Header element not found for latest year:", latestYearId);
+    }
+});
+</script>
+{{ end }}

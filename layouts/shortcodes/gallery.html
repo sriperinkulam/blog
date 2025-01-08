@@ -1,0 +1,10 @@
+<div class="gallery">
+  {{ $images := (readDir "content/posts") }}
+  {{ range $images }}
+    {{ if (or (hasSuffix .Name ".jpg") (hasSuffix .Name ".jpeg") (hasSuffix .Name ".png") (hasSuffix .Name ".gif")) }}
+      <div class="gallery-item">
+        <img src="{{ "images/" | relURL }}{{ .Name }}" alt="{{ .Name }}">
+      </div>
+    {{ end }}
+  {{ end }}
+</div>

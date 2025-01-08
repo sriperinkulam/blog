@@ -1,0 +1,77 @@
+{{- $json := "Init" -}}
+{{- $text := "" -}}
+{{- $children := "" -}}
+{{- $stuff := "" -}}
+{{- $AddlStats := "" -}}
+{{- $API_Origin := "" -}}
+{{- $DomainToPoll := "" -}}
+{{- $PageToPoll := "" -}}
+{{- $LeadToToken := "" -}}
+{{- $SafeURL := "" -}}
+{{- $WMCount := "" -}}
+{{- $likes := "" -}}
+{{- $likesYes := "" -}}
+{{- $reposts := "" -}}
+{{- $repostsYes := "" -}}
+{{- $replies := "" -}}
+{{- $repliesYes := "" -}}
+{{- $mentions := "" -}}
+{{- $mentionsYes := "" -}}
+
+
+{{ $p := (printf "%s%s" "https://webmention.io/api/mentions?target=" .ParentPermalink) }}
+
+    {{$p}}
+    {{ $remoteData := resources.GetRemote $p }}
+    {{ with $remoteData }}
+        {{ $json = .Content | transform.Unmarshal }}
+    {{ end }}
+
+<br> This is JSON In ideally JSON format - UNMARSHALLED => IN SOME STRUCT FORMAT
+{{ $json }}
+ {{ printf "%T" $json }}
+
+{{ $json := transform.Remarshal "json" $json }}
+<br>
+JSON is supposed to be Remarshalled now: 
+{{ $json }}
+ {{ printf "%T" $json }}
+
+
+{{- $json = $json | jsonify -}}{{- /* We'll have to unmarshal it at the end */ -}}
+
+<br>
+JSON Is supposed to be UNmarshalled now:
+{{ $json}}
+ {{ printf "%T" $json }}
+
+{{- $jsonPreFix := $json -}}{{- /* Save it j/i/c */ -}}
+{{- /*
+	Now, we'll create a string version of $json so
+	we can do some replacements (explained below).
+*/ -}}
+{{- $jsonString := string $json -}}
+{{- $jsonString := replace $jsonString "in-reply-to" "inReplyTo" -}}
+{{- $jsonString := replace $jsonString "like-of" "likeOf" -}}
+{{- $jsonString := replace $jsonString "repost-of" "repostOf" -}}
+{{- $jsonString := replace $jsonString "bookmark-of" "bookmarkOf" -}}
+{{- $jsonString := replace $jsonString "mention-of" "mentionOf" -}}
+{{- $jsonString := replace $jsonString "wm-id" "wmId" -}}
+{{- $jsonString := replace $jsonString "wm-private" "wmPrivate" -}}
+{{- $jsonString := replace $jsonString "wm-property" "wmProperty" -}}
+{{- $jsonString := replace $jsonString "wm-received" "wmReceived" -}}
+{{- $jsonString := replace $jsonString "wm-source" "wmSource" -}}
+{{- $jsonString := replace $jsonString "wm-target" "wmTarget" -}}
+
+<br>
+THis is the JSONString:
+{{ $jsonString }}
+ {{ printf "%T" $json }}
+
+{{ $json := unmarshal $jsonString }}
+
+<br>
+THis is the JSON after unmarshal:
+{{ $json }}
+ {{ printf "%T" $json }}
+

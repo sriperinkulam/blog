@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2023-12-29 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/date/2023-12-29-000000-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2023-12-29 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Fri, 29 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/date/2023-12-29-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Back on the matrix</title>
+      <link>http://localhost:1313/2023/12/29/back-on-the-matrix/</link>
+      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2023/12/29/back-on-the-matrix/</guid>
+      <description>&lt;p&gt;Pulled up an old laptop and setup matrix with the mautrix bridge for WA. Setup was way quicker than I thought it would take. Oddly this was one of those things that &lt;a href=&#34;https://srikanthperinkulam.com/2023/12/24/dumbing-down/&#34;&gt;I had on the back burner&lt;/a&gt; and set to least importance&amp;hellip;&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2013-05-03 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/date/2013-05-03-000000-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2013-05-03 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Fri, 03 May 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/date/2013-05-03-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2013-05-03 00:00:00</title>
+      <link>http://localhost:1313/2013/05/03/mystery-town/</link>
+      <pubDate>Fri, 03 May 2013 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2013/05/03/mystery-town/</guid>
+      <description>&lt;p&gt;![](Mystery town.jpg)&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>2013-05-03 00:00:00</title>
+      <link>http://localhost:1313/2013/05/03/the-call/</link>
+      <pubDate>Fri, 03 May 2013 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2013/05/03/the-call/</guid>
+      <description>&lt;p&gt;![](The call.jpg)&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

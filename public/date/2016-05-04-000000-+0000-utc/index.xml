@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2016-05-04 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/date/2016-05-04-000000-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2016-05-04 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Wed, 04 May 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/date/2016-05-04-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Indieweb</title>
+      <link>http://localhost:1313/2016/05/04/indieweb/</link>
+      <pubDate>Wed, 04 May 2016 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2016/05/04/indieweb/</guid>
+      <description>&lt;p&gt;Test post from an android.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://snarfed.org/easy-indieweb-interactions-on-android&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/indiewebcamp.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/a&gt;Source: &lt;em&gt;&lt;a href=&#34;https://snarfed.org/easy-indieweb-interactions-on-android&#34;&gt;Easy IndieWeb interactions on Android | snarfed.org&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Salt flats - Maptia</title>
+      <link>http://localhost:1313/2016/05/04/salt-flats-maptia/</link>
+      <pubDate>Wed, 04 May 2016 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2016/05/04/salt-flats-maptia/</guid>
+      <description>&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;[embed]https://twitter.com/Maptia/status/727590833529233409?s=09[/embed]&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

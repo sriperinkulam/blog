@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2022-01-31 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/date/2022-01-31-000000-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2022-01-31 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/date/2022-01-31-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022-01-31 00:00:00</title>
+      <link>http://localhost:1313/2022/01/31/firewalls-on-thin-ice/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2022/01/31/firewalls-on-thin-ice/</guid>
+      <description>&lt;p&gt;The more that I read and the more that I build, with every additional service that I self-host, I realize there are so many points of failure - each becoming more evident as time passes and experience grows. The blaring one&amp;rsquo;s get attended to sooner or later, and the not-so-urgent one&amp;rsquo;s remain there - slowly tended to on the whims and fancies of time and interest. Until, from a different perspective, what you judged to be urgent or frivolous flips and then you are just not sure what you are dealing with.&lt;/p&gt;&#xA;&lt;p&gt;This must be why it&amp;rsquo;s so addictive. There are more questions than straightforward solutions. There&amp;rsquo;s so much uncertainty veiled with the promise of freedom, curiosity and learning. There&amp;rsquo;s the thrill in making things work despite it being a non-standard approach. And ultimately it&amp;rsquo;s all yours - the wins and the losses. Well, mostly the losses. But hey, even before you stop to assess, there&amp;rsquo;s something new round the corner that someone&amp;rsquo;s built - Intricate yet imperfect. Just what you need to spin-off in that direction…&lt;/p&gt;&#xA;&lt;p&gt;This. is. why? What&amp;rsquo;s your reason?&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

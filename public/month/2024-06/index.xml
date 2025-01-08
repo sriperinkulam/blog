@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2024-06 on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/month/2024-06/index.xml</link>
+    <description>Recent content in 2024-06 on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Fri, 21 Jun 2024 20:06:53 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/month/2024-06/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024-06-21 20:06:53</title>
+      <link>http://localhost:1313/2024/06/21/photoprism-albums/</link>
+      <pubDate>Fri, 21 Jun 2024 20:06:53 -0600</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/06/21/photoprism-albums/</guid>
+      <description>&lt;p&gt;M and I tend to share photos with family and friends on various chat groups. While straightforward, It felt redundant to share copies of the same pictures in multiple places. I’ve been looking for options to share album links instead that would give us a bit more control. All our photos are primarily saved in a Nextcloud self-hosted instance. I explored a few options of album shares there but wasn’t quite happy. Pixelfed was another option I explored. It did check most of the requirements but I wasn’t quite comfortable relying on a software that’s mostly dependent on just one developer. Also the unlisted feature on their albums seemed half-baked and not yet ready for prime-time. Finally played a bit with PhotoPrism and so far it seems to be something that checks all the boxes. With private links, a PWA app and great thumbnails this might be the closest solution for my photo needs.&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>2024-06-09 21:12:32</title>
+      <link>http://localhost:1313/2024/06/09/jmp/</link>
+      <pubDate>Sun, 09 Jun 2024 21:12:32 -0600</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/06/09/jmp/</guid>
+      <description>&lt;p&gt;Been looking for a Google voice number replacement for sometime now and looks like I might have found one that meets most of my needs. Just got a &lt;a href=&#34;https://jmp.chat/&#34;&gt;JMP number&lt;/a&gt; and ordered a sim with a data plan. The cheogram app so far has been great and once I get the SIM I might slowly transition things out of GV.&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Tasmota</title>
+      <link>http://localhost:1313/2024/06/08/tasmota/</link>
+      <pubDate>Sat, 08 Jun 2024 21:15:00 -0600</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/06/08/tasmota/</guid>
+      <description>&lt;p&gt;Wanting to have more control on the &lt;a href=&#34;http://0.0.0.0:8123/2024/05/23/digital-photo-frame/&#34;&gt;Digital Photo Frame&lt;/a&gt; that I setup a few days ago, I ordered a few &lt;a href=&#34;https://sonoff.tech/product/smart-plugs/s31-s31lite/&#34;&gt;Sonoff smart plugs&lt;/a&gt;. Right after I ordered them I realised I could actually flash Tasmota on them to keep them cloud-free. Ordered a couple FTDI USB adapters to flash Tasmota on them. Time to dust off that soldering gun!&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>2024-06-08 19:32:32</title>
+      <link>http://localhost:1313/2024/06/08/grand-vitara/</link>
+      <pubDate>Sat, 08 Jun 2024 19:32:32 -0600</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/06/08/grand-vitara/</guid>
+      <description>&lt;p&gt;Brought the Grand Vitara home today. We’d been on the lookout for a decent car ever since we knew about our next posting. We don’t need one here in CDMX but would definitely need one in Yaounde. All I wanted was a reliable bare minimum car with no gadgetry shabangs. Over the last few months folks on their PCS did post a few decent cars but these are barely in the market for a few hours. With this one though, the stars seemed to align all well one day and we were able to seal the deal in a few hours.&lt;/p&gt;&#xA;&lt;p&gt;Given the mileage, the GV might need some maintenance over the next few years. It rides like butter now though and reminds me of the &lt;a href=&#34;http://0.0.0.0:8123/2016/04/26/the-grand-cherokee/&#34;&gt;Grand Cherokee&lt;/a&gt; we had in NYC/BOS.&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>2024-06-03 21:00:36</title>
+      <link>http://localhost:1313/2024/06/03/bmg/</link>
+      <pubDate>Mon, 03 Jun 2024 21:00:36 -0600</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/06/03/bmg/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://0.0.0.0:8123/wp-content/uploads/2024/06/imagepipe_04348564902056275560.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Went to a Blue Man Group performance last Friday. Our first and most likely last. The drums were great but the theatrics left a lot to be desired. Also didn’t help that S was in one of her super emotional moods…&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

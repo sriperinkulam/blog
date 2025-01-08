@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ramblr on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/tags/ramblr/index.xml</link>
+    <description>Recent content in Ramblr on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ramblr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GPSBabel and Ramblr</title>
+      <link>http://localhost:1313/2020/06/08/gpsbabel-and-ramblr/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2020/06/08/gpsbabel-and-ramblr/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Screenshot-from-2020-06-08-12-54-34-1200x675.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Recently, I&amp;rsquo;ve started using &lt;a href=&#34;https://www.gpsbabel.org/&#34;&gt;GPSBabel&lt;/a&gt; and &lt;a href=&#34;https://www.ramblr.com/&#34;&gt;Ramblr&lt;/a&gt; together to better visualize and scout new hikes. GPSBabel is this fabulous tool that lets you combine various gpx files into one and Ramblr lets you plan and chalk out your trips. Both tools obviously have a ton of more features which I should explore at some point in time.&lt;/p&gt;&#xA;&lt;p&gt;While on the trails, the &lt;a href=&#34;https://www.alltrails.com/&#34;&gt;AllTrails&lt;/a&gt; app is a terrific companion. Having a birds-eye view is always helpful and it&amp;rsquo;s never quite failed me!&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

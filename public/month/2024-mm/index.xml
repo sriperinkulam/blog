@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2024-MM on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/month/2024-mm/index.xml</link>
+    <description>Recent content in 2024-MM on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <atom:link href="http://localhost:1313/month/2024-mm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&lt;!--CHANGE ME --&gt;</title>
+      <link>http://localhost:1313/1/01/01/--change-me--/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/1/01/01/--change-me--/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;photo.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Post CONTENT&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<!-- Syndication fetch -->
+<div class="FetchRSSArray">
+{{ $rssURL := "https://chat.srkn.org/@ssp/feed.rss" }}
+{{ $jsonURL := "https://api.rss2json.com/v1/api.json?rss_url=https://chat.srkn.org/@ssp/feed.rss" }}
+	{{ with resources.GetRemote $jsonURL }}
+	
+	  {{ with .Err }}
+	    {{ errorf "%s" . }}
+	
+	  {{ else }}
+		{{ $data := dict }}
+		{{ $data = . | transform.Unmarshal }}
+
+		{{ $syndarray := slice }} <!-- Define an empty 2D slice -->
+		{{ $row := slice }}
+			{{ range $data.items}}
+			    {{ $content := .content }}
+			    {{ $links := (findRE "href=\"([^\"]+)\"" $content) }}
+				{{ $value := slice }} <!-- Define empty slice -->
+			            {{ range $link := $links }}
+			               {{- $link = replace (replace $link "href=\"" "") "\"" "" -}}
+			               {{ $value = $value | append $link }}
+			            {{ end }}
+ 			     {{ $row = dict "name" .link "value" $value }}
+			     {{ $syndarray = $syndarray | append $row }}  
+			{{ end }}
+	<br>"Final syndarray:"	{{ $syndarray }}
+	<hr>
+	{{ end }}
+	
+	{{ else }}
+  	{{ errorf "Unable to get remote resource " }}
+	
+	{{ end }} <!-- ENd of main With -->
+
+
+
+
+{{ $rssContent := resources.GetRemote $rssURL }}
+{{ if $rssContent }}
+  {{ $xml := $rssContent | safeHTML }}
+{{ else }}
+  <p>Failed to fetch RSS feed.</p>
+{{ end }} 
+
+
+</div>
+<!-- End of Syndication fetch -->
+ 

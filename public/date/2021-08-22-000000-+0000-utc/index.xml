@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2021-08-22 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/date/2021-08-22-000000-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2021-08-22 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Sun, 22 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/date/2021-08-22-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2021-08-22 00:00:00</title>
+      <link>http://localhost:1313/2021/08/22/august-22-2021-1009/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2021/08/22/august-22-2021-1009/</guid>
+      <description>&lt;p&gt;The Bluetooth on my NUC stopped working after an apt upgrade last evening. A good chunk of troubleshooting did no help. My initial hunch was that this was caused by the kernel upgrade. Reverting didn&amp;rsquo;t help though. I finally caved in and ordered a USB&amp;lt;&amp;gt;Audio adapter. This morning, It struck me that this could be due to the BIOS which I haven&amp;rsquo;t updated in a while. And I was spot on! Now I have a pretty functional Bluetooth system, an up-to-date machine and yet another adapter which goes into my mystery black-box.&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

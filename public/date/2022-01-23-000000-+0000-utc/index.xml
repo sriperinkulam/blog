@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2022-01-23 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/date/2022-01-23-000000-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2022-01-23 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Sun, 23 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/date/2022-01-23-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022-01-23 00:00:00</title>
+      <link>http://localhost:1313/2022/01/23/january-23-2022-1445/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2022/01/23/january-23-2022-1445/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://micro.blog/Alligator&#34;&gt;@Alligator&lt;/a&gt; I&amp;rsquo;m glad I got most of my family off apple a few years ago.The ecosystem and apps are great but there&amp;rsquo;s so little room for fun tweaking. I&amp;rsquo;ve had my eyes on Dex and Ubuntu&amp;rsquo;s convergence for a while too. For now though, I&amp;rsquo;m happy with my modular workstation setup. Another stream of thought is to port the fam to a Snikket/XMPP/matrix ecosystem so we&amp;rsquo;re lesser dependent on external networks. That&amp;rsquo;s going to take a bit of planning and coaxing though untill the &lt;a href=&#34;https://matrix.org/bridges/&#34;&gt;matrix bridges&lt;/a&gt; are a bit more robust :).&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>2022-01-23 00:00:00</title>
+      <link>http://localhost:1313/2022/01/23/reading-rhythm/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2022/01/23/reading-rhythm/</guid>
+      <description>&lt;p&gt;Over the last month, I seem to have switched into a better reading rhythm. I&amp;rsquo;d probably attribute it to having a bit more time and mind-space for myself. Also, I figured I needed a better system to keep track of the books I had in queue.  While Wallabag has been a terrific tool to assimilate, read and archive articles that I&amp;rsquo;ve come across online; I badly needed one for books too. Last month, I set a bare-bones system in my note-taking tool and this seems to do the trick for now!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Book-Notes-1200x544.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;I don&amp;rsquo;t have a goal as such for this year. I do however want to get to these books that I have in my reading queue.&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

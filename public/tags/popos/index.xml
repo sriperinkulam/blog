@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Popos on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/tags/popos/index.xml</link>
+    <description>Recent content in Popos on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/popos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mini yet mighty</title>
+      <link>http://localhost:1313/2020/08/21/mini-yet-mighty/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2020/08/21/mini-yet-mighty/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve had my eyes on the &lt;a href=&#34;https://www.intel.com/content/www/us/en/products/boards-kits/nuc.html&#34;&gt;Intel NUC&lt;/a&gt; for a while now. My current laptop has been on a downward spiral and a few days back, when I came across a fabulous deal on eBay for an unboxed but unused NUC, I took the dive and ordered it.&lt;/p&gt;&#xA;&lt;p&gt;With 16GB RAM, 256GB NVMe SSD, 8TH Gen Core i7 Pro processor and Windows 10 Pro pre-installed - This is the most powerful machine I&amp;rsquo;ve owned. Agreed speed and performance is all relative. I&amp;rsquo;m just amazed that all of this fits in a tiny 4&amp;quot;x 4&amp;quot;x 1&amp;quot; box!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/odfywNUIw08ldUgYLl3wgoarJq9gnPRPxRJ7JXbY.jpeg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;While at it, I also decided to switch over from &lt;a href=&#34;https://elementary.io/&#34;&gt;ElementaryOS&lt;/a&gt; to &lt;a href=&#34;https://pop.system76.com/&#34;&gt;PopOS&lt;/a&gt;. The PopOS install was a breeze. After a quick drive-partition all it took was probably a couple minutes to install the OS! Super impressed with the UI and the tiling feature on large screens is crisp!&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

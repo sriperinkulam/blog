@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2022-02-20 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/date/2022-02-20-000000-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2022-02-20 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Sun, 20 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/date/2022-02-20-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bridged</title>
+      <link>http://localhost:1313/2022/02/20/bridged/</link>
+      <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2022/02/20/bridged/</guid>
+      <description>&lt;p&gt;After a good &lt;a href=&#34;https://srikanthperinkulam.com/2021/01/10/digital-reset/&#34;&gt;one year away&lt;/a&gt; from Whatsapp, I&amp;rsquo;m back on it . This time however, on better terms.  All thanks to the &lt;a href=&#34;https://maunium.net/go/mautrix-whatsapp/&#34;&gt;Mautrix bridge&lt;/a&gt; and the &lt;a href=&#34;https://matrix.org/faq/#what-is-matrix%3F&#34;&gt;Matrix protocol&lt;/a&gt;.  Essentially, I can access my whatsapp account data on my regular phone or desktop using &lt;a href=&#34;https://element.io/get-started&#34;&gt;Elements&amp;rsquo; pretty robust app&lt;/a&gt; system. Note that the whatsapp app however is either running on a Virtual Machine or in my case an old phone fronted with a VPN. Since whatsapp only needs the primary phone to connect with their servers once every two weeks, it&amp;rsquo;s pretty much just sitting there turned off while all the group and individual messages show up on the bridged element app.&lt;/p&gt;&#xA;&lt;p&gt;There&amp;rsquo;s tremendous benefit to this approach:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The metadata that whatsapp is known to generously absorb from your ecosystem is heavily &lt;strong&gt;reduced&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;You still get to stay in touch with folks who&amp;rsquo;re pure lazy to install another communications app&lt;/li&gt;&#xA;&lt;li&gt;You get to be in the ecosystem and nudge people out&lt;/li&gt;&#xA;&lt;li&gt;This works not just with Whatsapp, but telegram, iMessage, FB messenger and other messaging apps.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Setting this up took me barely 30 minutes - thanks to this exceptionally well documented &lt;a href=&#34;https://github.com/spantaleev/matrix-docker-ansible-deploy/&#34;&gt;ansible playbook&lt;/a&gt; . Sounds and reads terse but it is super straightforward to follow through. At this point, calls are not bridged. It otherwise works absolutely seamless. Not quite sure how long I&amp;rsquo;d use this. It started off more from the perspective of testing out matrix and the surrounding ecosystem and it&amp;rsquo;s been a fun ride so far.&lt;/p&gt;&#xA;&lt;p&gt;Walk over that bridge. Will ya? Now, if you do not want to set this all up yourselves, you could for a small price, use the service provided by either &lt;a href=&#34;https://element.io/element-one&#34;&gt;element&lt;/a&gt; or &lt;a href=&#34;https://www.beeper.com/&#34;&gt;Beeper&lt;/a&gt; . I think they offer it at at a fantastic price-point.&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Dawn Catch</title>
+      <link>http://localhost:1313/2022/02/20/dawn-catch/</link>
+      <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2022/02/20/dawn-catch/</guid>
+      <description>&lt;p&gt;These fishermen in their catamarans were slowly yet gleefully making their way back to the coastline early AM. Likely a terrific catch that they could sell back on land? Or was it just another day in the waters making ends meet, doing what they love and loving what they do?&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/20220220_105712-600x600.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

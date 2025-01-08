@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2011-09-11 21:30:00 -0500 -0500 on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/date/2011-09-11-213000--0500--0500/index.xml</link>
+    <description>Recent content in 2011-09-11 21:30:00 -0500 -0500 on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Sun, 11 Sep 2011 21:30:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/date/2011-09-11-213000--0500--0500/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2011-09-11 21:30:00</title>
+      <link>http://localhost:1313/2011/09/11/aditya-more/</link>
+      <pubDate>Sun, 11 Sep 2011 21:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2011/09/11/aditya-more/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;more.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;a href=&#34;http://localhost:1313/2011/09/11/aditya-more/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&#xA;</description>
+    </item>
+    <item>
+      <title>2011-09-11 21:30:00</title>
+      <link>http://localhost:1313/2011/09/11/photo/</link>
+      <pubDate>Sun, 11 Sep 2011 21:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2011/09/11/photo/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;924768_693265727467246_1055034738_n_17842291234000375.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;a href=&#34;http://localhost:1313/2011/09/11/photo/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&#xA;</description>
+    </item>
+  </channel>
+</rss>

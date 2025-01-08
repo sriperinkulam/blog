@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intel-Nuc on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/tags/intel-nuc/index.xml</link>
+    <description>Recent content in Intel-Nuc on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/intel-nuc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022-03-06 00:00:00</title>
+      <link>http://localhost:1313/2022/03/06/tiny-troubles/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2022/03/06/tiny-troubles/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Imagepipe_9.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Of late, the NUC has been getting really hot. Core CPU temperatures were hitting the 80s despite the system being on literally no load. When I first bought it in mid-2020, I was aware that this lineage of tiny monsters were known for their &amp;lsquo;hot&amp;rsquo;ness and the fan being a bit loud.  Only over the last few months have I really seen this sudden spike in temperatures though.&lt;/p&gt;&#xA;&lt;p&gt;The first obvious step was to get rid of the plastic lid and get those aluminum heat-sinks. That helped a bit until yesterday when the temps shot to the 90s for no reason. A quick &lt;strong&gt;htop&lt;/strong&gt; run didn&amp;rsquo;t seem to show any processes that were hogging resources. Troubleshooting this a bit further, I figured I did run some apt updates a few days back that triggered Kernel updates. I might now have to get into the BIOS and see if any firmware updates are pending. As luck might have it though, the current keyboard that I have functions via Bluetooth only and I can&amp;rsquo;t quite use it to get into the BIOS. I do have an alternate keyboard, again Bluetooth but this one comes with a USB receiver - which I conveniently left in my tech black-box in MD! 🤦 Really hope M doesn&amp;rsquo;t forget bringing it!&lt;/p&gt;&#xA;&lt;p&gt;For now, I installed the &lt;strong&gt;cpupower-gui&lt;/strong&gt; tool and set the Governor to &amp;lsquo;powersave&amp;rsquo; mode. Does seem to have done the trick for now. I might have to open up the unit and see if it needs some deep cleaning with some compressed air. Sometime soon I guess!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/governor-1200x608.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Mini yet mighty</title>
+      <link>http://localhost:1313/2020/08/21/mini-yet-mighty/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2020/08/21/mini-yet-mighty/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve had my eyes on the &lt;a href=&#34;https://www.intel.com/content/www/us/en/products/boards-kits/nuc.html&#34;&gt;Intel NUC&lt;/a&gt; for a while now. My current laptop has been on a downward spiral and a few days back, when I came across a fabulous deal on eBay for an unboxed but unused NUC, I took the dive and ordered it.&lt;/p&gt;&#xA;&lt;p&gt;With 16GB RAM, 256GB NVMe SSD, 8TH Gen Core i7 Pro processor and Windows 10 Pro pre-installed - This is the most powerful machine I&amp;rsquo;ve owned. Agreed speed and performance is all relative. I&amp;rsquo;m just amazed that all of this fits in a tiny 4&amp;quot;x 4&amp;quot;x 1&amp;quot; box!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/odfywNUIw08ldUgYLl3wgoarJq9gnPRPxRJ7JXbY.jpeg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;While at it, I also decided to switch over from &lt;a href=&#34;https://elementary.io/&#34;&gt;ElementaryOS&lt;/a&gt; to &lt;a href=&#34;https://pop.system76.com/&#34;&gt;PopOS&lt;/a&gt;. The PopOS install was a breeze. After a quick drive-partition all it took was probably a couple minutes to install the OS! Super impressed with the UI and the tiling feature on large screens is crisp!&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

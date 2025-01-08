@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/tags/markdown/index.xml</link>
+    <description>Recent content in Markdown on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Fri, 14 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Replied to:« Oatmeal</title>
+      <link>http://localhost:1313/2017/07/14/replied-to-oatmeal/</link>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2017/07/14/replied-to-oatmeal/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve really liked &lt;a href=&#34;https://app.standardnotes.org&#34;&gt;Standard Notes&lt;/a&gt; and &lt;a href=&#34;https://app.simplenote.com/&#34;&gt;Simplenote&lt;/a&gt;. Both have markdown, tag support and sync across machines. I&amp;rsquo;d weigh in on the former for encryption and the latter for version control. I&amp;rsquo;ve never used nvAlt, so not quite sure what I&amp;rsquo;m stacking against.&lt;/p&gt;&#xA;&lt;p&gt;in reply to: « Oatmeal&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Internet! I need help. I&amp;rsquo;ve been using nvALT for years and years, and have years and years of content in it.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

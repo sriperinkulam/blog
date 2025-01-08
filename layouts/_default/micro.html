@@ -1,0 +1,46 @@
+{{ define "main" }}
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+  <main>
+<!--      {{ .Content }}
+-->
+<!-- Syndication fetch -->
+<!-- End of Syndication fetch -->
+
+
+<h2>{{ .Title }}</h2>
+
+<p> A neat summary of all the micro-posts that I might have syndicated elsewhere. Quite a bit of the functionality on this page might be broken.
+</p>
+<hr>
+
+    {{ $articles := .Site.RegularPages }}
+    {{ range where $articles "Params.tags" "intersect" (slice "micro" "add-other-tags" ) }}
+    
+    {{ if eq .Params.IWkind "ThoughtReply" }} 
+    <a href="{{ .RelPermalink }}" class="is-reply"><u>{{.PublishDate.Format "02 Jan 2006"}}</u>:</a> 
+    <div class="post-content">{{.Content}}</div>
+
+    {{ else if eq .Params.IWkind "StatusNote" }}
+    <a href="{{ .RelPermalink }}" class="is-note"><u>{{.PublishDate.Format "02 Jan 2006"}}</u>:</a>
+        <div class="post-content">{{.Content}}</div>
+
+    {{ else if eq .Params.IWkind "PhotoNote" }}
+    <a href="{{ .RelPermalink }}" class="is-photo"><u>{{.PublishDate.Format "02 Jan 2006"}}</u>:</a>
+        <div class="post-content">{{.Content}}</div>
+
+    {{ else }}
+    <a href="{{ .RelPermalink }}" class="is-note"><u>{{.PublishDate.Format "02 Jan 2006"}}</u>:</a> 
+        <div class="post-content">{{.Content}}</div>
+
+    {{ end }}
+    {{ end }}
+
+  </main>
+</div>
+</div>
+</div>
+
+{{end}}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2017-04-25 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/date/2017-04-25-000000-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2017-04-25 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Tue, 25 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/date/2017-04-25-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Response hooks</title>
+      <link>http://localhost:1313/2017/04/25/response-hooks/</link>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2017/04/25/response-hooks/</guid>
+      <description>&lt;p&gt;That&amp;rsquo;s an interesting take. I use the workflow app in tandem with some custom code to send reactions/responses to posts. WP has a pretty neat &amp;lsquo;workflow&amp;rsquo; integration.&lt;/p&gt;&#xA;&lt;p&gt;Essentially, I just map my post to the corresponding post kind using a custom field.&lt;/p&gt;&#xA;&lt;p&gt;Responding to &lt;a href=&#34;https://colinwalker.blog/2017/04/25/sending-likes-and-replies-using-custom-fields/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+ColinWalker+%28Colin+Walker+-+Social+Thoughts%29&#34;&gt;Sending likes and replies using custom fields&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Historically, we would visit someone else’s site to leave a comment or click a like button. Sometimes these interactions would be held within their own site’s data but, frequently, they would be stored remotely – think Facebook Likes or Disqus comments.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Today is my third Indieweb Anniversary</title>
+      <link>http://localhost:1313/2017/04/25/today-is-my-third-indieweb-anniversary/</link>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2017/04/25/today-is-my-third-indieweb-anniversary/</guid>
+      <description>&lt;p&gt;Liked: &lt;em&gt;&lt;a href=&#34;http://boffosocko.com/?p=55687770&#34;&gt;Today is my third Indieweb Anniversary&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;I suppose I&amp;rsquo;ve had a few dozen domains and sites at earlier points, but three years ago today was when I began conglomerating it all at boffosocko.com.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

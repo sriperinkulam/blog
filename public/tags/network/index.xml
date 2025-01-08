@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/tags/network/index.xml</link>
+    <description>Recent content in Network on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Fri, 25 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/network/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Network auto-latch</title>
+      <link>http://localhost:1313/2019/10/25/network-auto-latch/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2019/10/25/network-auto-latch/</guid>
+      <description>&lt;p&gt;I realised the raspberry pi that hosts my &lt;a href=&#34;https://srikanthperinkulam.com/?s=nextcloud&#34;&gt;nextcloud setup&lt;/a&gt; wasn&amp;rsquo;t quite latching back on to the network if the router was turned off or if the internet was sketchy. Was a pain to hard boot the device manually to reset it. Decided to write a short script to reset the network connection when it noticed something was off.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&#xA;ping -c4 192.168.0.1 &amp;gt; /dev/null&#xA;if [ $? != 0 ] &#xA;then&#xA;  echo &amp;#34;SOS..Restarting eth0 for network latch&amp;#34;&#xA;  /sbin/ifdown &amp;#39;eth0&amp;#39;&#xA;  sleep 5&#xA;  /sbin/ifup --force &amp;#39;eth0&amp;#39;&#xA;fi&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;A chron job runs every 10 minutes to take pulse of the network, runs the above code and picks up connectivity without manual intervention!&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

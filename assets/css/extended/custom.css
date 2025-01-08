@@ -1,0 +1,17 @@
+:root {
+/*    --bg-color: #ffffff; /* Light mode background */
+/*    --text-color: #000000; /* Light mode text color */
+    --hover-bg-color: #e0e0e0; /* Light mode hover color */
+    --selected-bg-color: #f0f0f0; /* Light mode selected color */
+    --selected-text-color: #000; /* Light mode selected text color */
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+/*        --bg-color: #121212; /* Dark mode background */
+/*        --text-color: #ffffff; /* Dark mode text color */
+        --hover-bg-color: #333333; /* Dark mode hover color */
+        --selected-bg-color: #444444; /* Dark mode selected color */
+        --selected-text-color: #ffffff; /* Dark mode selected text color */
+    }
+}

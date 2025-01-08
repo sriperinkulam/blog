@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2024-11-10 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/date/2024-11-10-000000-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2024-11-10 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/date/2024-11-10-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Indiewebify this site</title>
+      <link>http://localhost:1313/2024/11/10/indiewebify-this-site/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/11/10/indiewebify-this-site/</guid>
+      <description>&lt;div class=&#34;updatetags&#34;&gt;&#xA;&lt;H1&gt;Updating tags with Sydication links&lt;/H1&gt;&#xA;&lt;br&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#x9; &#xA;&#x9;&#xA;&#xA;        &#xA;&#x9;        &#xA;        &#xA;&#x9;        &#xA;&#x9;  &#x9;&#x9;&#xA;&#x9;&#x9;&#xA;&#x9;  &#x9;&#x9;&#xA;&#x9;&#x9;&#xA;        &#xA;&#x9;        &#xA;&#x9;  &#x9;&#x9;&#xA;&#x9;&#x9;&#xA;&#x9;  &#x9;&#x9;&#xA;&#x9;&#x9;&#xA;&#x9;  &#x9;&#x9;&#xA;&#x9;    &#x9;&#x9;&#x9;&lt;br&gt; &#34;THIS ONE?:&#34; https://chat.srkn.org/@ssp/statuses/01JDC33M70R9P4A0R5KAVCKGZ2&#xA;&#x9;  &#x9;&#x9;&#xA;&#x9;&#x9;&#xA;&#x9;  &#x9;&#x9;&#xA;&#x9;    &#x9;&#x9;&#x9;&lt;br&gt; &#34;THIS ONE?:&#34; https://chat.srkn.org/@ssp/statuses/01JDC33M70R9P4A0R5KAVCKGZ2&#xA;&#x9;  &#x9;&#x9;&#xA;&#x9;&#x9;&#xA;        &#xA;&#x9;        &#xA;&#x9;  &#x9;&#x9;&#xA;&#x9;&#x9;&#xA;&#x9;  &#x9;&#x9;&#xA;&#x9;&#x9;&#xA;        &#xA;        &#xA;&#xA;&#x9;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;gallery&#34;&gt;&#xA;  &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;&lt;/div&gt;&#xA;&#xA;&lt;h4 id=&#34;adding-the-h-card&#34;&gt;Adding the H-card&lt;/h4&gt;&#xA;&lt;p&gt;Add this to the footer&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;        &amp;lt;p class=&amp;quot;feet h-card vcard&amp;quot;&amp;gt;{{ .Site.Title }} &amp;amp;copy; &#xA;        &amp;lt;a href={{ .Site.BaseURL }} &#xA;            class=&amp;quot;p-name u-url url author metatag&amp;quot; rel=&amp;quot;me&amp;quot;&amp;gt;&#xA;            {{ .Site.Author.name }}&#xA;        &amp;lt;/a&amp;gt;&#xA;            &amp;lt;img src=&amp;quot;{{ .Site.BaseURL }}{{ .Site.Author.photo }}&amp;quot; &#xA;            class=&amp;quot;u-photo&amp;quot; style=&amp;quot;display: none&amp;quot;&amp;gt; &#xA;            &amp;lt;a class=&amp;quot;p-nickname u-email email metatag&amp;quot; rel=&amp;quot;me&amp;quot; &#xA;            href=&amp;quot;mailto:{{ .Site.Author.email }}&amp;quot;&amp;gt;&#xA;            {{ .Site.Author.nick }}&#xA;        &amp;lt;/a&amp;gt; &#xA;            2011-{{ .Now.Format &amp;quot;2006&amp;quot; }} &amp;amp;bull; Licenced under &#xA;            &amp;lt;a href=&amp;quot;{{ .Site.BaseURL }}page/licence&amp;quot; &#xA;            class=&amp;quot;metatag&amp;quot;&amp;gt;&#xA;            {{ .Site.Author.licence }}&#xA;        &amp;lt;/a&amp;gt; &lt;/code&gt;&lt;/pre&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

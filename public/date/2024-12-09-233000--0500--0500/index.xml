@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2024-12-09 23:30:00 -0500 -0500 on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/date/2024-12-09-233000--0500--0500/index.xml</link>
+    <description>Recent content in 2024-12-09 23:30:00 -0500 -0500 on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Mon, 09 Dec 2024 23:30:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/date/2024-12-09-233000--0500--0500/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Last mile closures</title>
+      <link>http://localhost:1313/2024/12/09/last-mile-closures/</link>
+      <pubDate>Mon, 09 Dec 2024 23:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/12/09/last-mile-closures/</guid>
+      <description>&lt;p&gt;Most of my free time over the last few days has been spent trying to implement the comments section on this site. Something that would have been super straightforward on a regular CMS is not quite so for a static site. Initially I tinkered with the idea of side-loading the comments feature over to the fediverse. It worked okay but it did feel quite choppy.&lt;/p&gt;&#xA;&lt;p&gt;Looking around a bit, I decided to give &lt;a href=&#34;https://isso-comments.de/&#34;&gt;ISSO&lt;/a&gt; a chance. It seemed to have all the features I was looking for and was reasonably easy to setup. As with most things tech though, I had quite some difficulty tweaking it to work the way I wanted it to. Taking a break and getting back to it after a few days, did get me to approach this from a different perspective and I think it&amp;rsquo;s super close to where I&amp;rsquo;d like it to be.&lt;/p&gt;&#xA;&lt;p&gt;On certain things, I am perfectly okay leaving things half baked and cutting my losses. On most things though, I do like seeing things to closure. There&amp;rsquo;s so much thrill in figuring out why something is not working the way it is supposed to. Most often it&amp;rsquo;s because of something ridiculously silly or because of minor oversights. Trials and tribulations of the last mile closures, I guess?&lt;/p&gt;&#xA;&lt;p&gt;For now, this site has a basic commenting system and that gives me enough momentum to pursue other things to tweak. &lt;a href=&#34;http://localhost:1313/2024/12/09/last-mile-closures/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

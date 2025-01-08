@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pi-Hole on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/tags/pi-hole/index.xml</link>
+    <description>Recent content in Pi-Hole on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Thu, 03 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pi-hole/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ODroid XU4 SBC</title>
+      <link>http://localhost:1313/2019/01/03/odroid-xu4-sbc/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2019/01/03/odroid-xu4-sbc/</guid>
+      <description>&lt;p&gt;Meena and my family gifted me an Odroid XU4 SBC earlier last month as a Christmas/B-day gift. One of my projects during the year-end holidays was to setup a robust home server; Essentially getting my webservers home from Digital Ocean, where they are currently hosted. This would be a terrific companion to the &lt;a href=&#34;https://srikanthperinkulam.com/2017/11/04/fired-up/&#34;&gt;nextcloud fileserver&lt;/a&gt; that I setup earlier using a raspberry pi.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/1546508775615.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Earlier this week, I chanced upon &lt;a href=&#34;https://dietpi.com/&#34;&gt;DietPi&lt;/a&gt; and decided to launch it on the eMMC chip. One of the first things I did was to install &lt;a href=&#34;https://pi-hole.net/&#34;&gt;Pi-Hole&lt;/a&gt;. With uBlock addons&amp;rsquo; that should be some good riddance to ads across my home network! Would be interesting to keep track of these network pings to see what devices are needlessly calling &amp;lsquo;home&amp;rsquo;.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve ported my web applications to the Odroid board and am currently testing out the server internally before I &amp;rsquo;turn on&amp;rsquo; the traffic switch. All looks super-promising so far! Over the next few months, I&amp;rsquo;ll have to tweak the settings and tune this mini-beast a bit for performance. For now though, I&amp;rsquo;m more than happy with what it&amp;rsquo;s delivering!&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

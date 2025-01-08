@@ -1,0 +1,89 @@
+/* *** Format accordion *** */
+/* ****************** */
+
+
+
+
+
+/* ***	Used for formatting stuff in the archive page ***** */
+.item-list {
+  list-style-type: none; /* Remove bullet points */
+  padding: 0; /* Remove default padding */
+}
+
+.item-list li {
+  display: flex;
+  justify-content: space-between; /* Space between date and text */
+  margin-bottom: 1px; /* Space between items */
+}
+
+.item-list li strong {
+  width: 80px; /* Fixed width for uniform spacing */
+}
+
+/* ******* */
+
+.photo-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.photo-list>* {
+    height: 20vh;
+    flex-grow: 1;
+    list-style-type: none;
+    margin: 1px;
+}
+
+.photo-list li img {
+    max-height: 100%;
+    min-width: 100%;
+    object-fit: cover;
+    vertical-align: bottom;
+    border: 2px solid white;
+}
+
+.photo-list li:last-child {
+    flex-grow: 10;
+    border: none;
+}
+
+.is-reply:before {
+  content: '↺';
+
+  display: inline-block;
+  margin-right: .25em;
+
+  font-size: 1.4em;
+  font-weight: 400;
+  font-family: monospace;
+
+  color: lighten($accent, 30%);
+}
+
+
+.is-note:before {
+  content: '📝';
+  
+  display: inline-block;
+  margin-right: .25em;
+
+  font-size: 1.4em;
+  font-weight: 400;
+  font-family: monospace;
+
+  color: lighten($accent, 30%);
+}
+
+.is-photo:before {
+  content: '📸';
+  
+  display: inline-block;
+  margin-right: .25em;
+
+  font-size: 1.4em;
+  font-weight: 400;
+  font-family: monospace;
+
+  color: lighten($accent, 30%);
+}

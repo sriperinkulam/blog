@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rpi on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/tags/rpi/index.xml</link>
+    <description>Recent content in Rpi on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/rpi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3-2-1 Backup</title>
+      <link>http://localhost:1313/2021/11/29/3-2-1-backup/</link>
+      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2021/11/29/3-2-1-backup/</guid>
+      <description>&lt;p&gt;Ouch! After a &lt;a href=&#34;https://srikanthperinkulam.com/2021/06/13/maps-and-files/&#34;&gt;good&lt;/a&gt; &lt;a href=&#34;https://srikanthperinkulam.com/2021/04/19/april-19-2021-2342/&#34;&gt;couple&lt;/a&gt; years of unhindered access, I&amp;rsquo;ve lost (remote) access to my RPI server. I&amp;rsquo;m guessing an auto upgrade might have disabled wireguard or flushed the  ip table rules. I should have had a secondary connection to the remote network since I did anticipate this happening sometime! Well, until I have physical access to the server, I&amp;rsquo;ll have to bank on my cold flash drive backups! So glad I have multiple accessible copies of the data files!&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

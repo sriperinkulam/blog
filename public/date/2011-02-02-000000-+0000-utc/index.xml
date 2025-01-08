@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2011-02-02 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/date/2011-02-02-000000-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2011-02-02 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Wed, 02 Feb 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/date/2011-02-02-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Torna yet again</title>
+      <link>http://localhost:1313/2011/02/02/torna-yet-again/</link>
+      <pubDate>Wed, 02 Feb 2011 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2011/02/02/torna-yet-again/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rss on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/tags/rss/index.xml</link>
+    <description>Recent content in Rss on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Wed, 08 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/rss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sidetracked</title>
+      <link>http://localhost:1313/2021/12/08/sidetracked/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2021/12/08/sidetracked/</guid>
+      <description>&lt;p&gt;The folks at &lt;a href=&#34;https://www.sidetracked.com/&#34;&gt;Sidetracked&lt;/a&gt; come up with some really interesting stories and terrific outdoor captures. Their RSS feed leaves a lot to be desired though&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Sidetracked-600x243.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

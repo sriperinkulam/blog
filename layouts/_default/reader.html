@@ -1,0 +1,36 @@
+{{- define "main" }}
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RSS Reader</title>
+    <script>
+        async function loadPosts() {
+            try {
+                const response = await fetch('../ssp/assets/data/latest_posts.json');
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                const posts = await response.json();
+                const postsList = document.getElementById('posts');
+
+                posts.forEach(post => {
+                    const listItem = document.createElement('li');
+                    listItem.innerHTML = `<strong>${post.date_time}:</strong> <a href="${post.link}" target="_blank">${post.title}</a><br>${post.summary ? `<em>${post.summary}</em>` : ''}`;
+                    postsList.appendChild(listItem);
+                });
+            } catch (error) {
+                console.error('Error loading posts:', error);
+                const postsList = document.getElementById('posts');
+                postsList.innerHTML = '<li>Error loading posts. Please try again later.</li>';
+            }
+        }
+
+        window.onload = loadPosts;
+    </script>
+</head>
+<body>
+    <h1>Latest Posts</h1>
+    <ul id="posts"></ul>
+</body>
+</html>
+{{ end }}

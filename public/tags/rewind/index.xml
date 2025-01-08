@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rewind on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/tags/rewind/index.xml</link>
+    <description>Recent content in Rewind on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Thu, 12 Dec 2024 21:25:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/rewind/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024-12-12 21:25:00</title>
+      <link>http://localhost:1313/2024/12/12/rewind/</link>
+      <pubDate>Thu, 12 Dec 2024 21:25:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/12/12/rewind/</guid>
+      <description>&lt;p&gt;Built a &lt;a href=&#34;http://localhost:1313/rewind&#34;&gt;Rewind&lt;/a&gt; page to nudge me to read my older posts. Interesting to see how my thought processes and writing has shifted over the years. This might also serve as a tool to fix any issues that might have crept in when I migrated over to Hugo. While at it, I also tweaked the &lt;a href=&#34;http://localhost:1313/archives&#34;&gt;archives&lt;/a&gt; page a bit to make it less dense.&lt;a href=&#34;http://localhost:1313/2024/12/12/rewind/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bookmark on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/categories/bookmark/index.xml</link>
+    <description>Recent content in Bookmark on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/bookmark/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAPS</title>
+      <link>http://localhost:1313/2022/03/01/openaps/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2022/03/01/openaps/</guid>
+      <description>&lt;p&gt;TIL about &lt;a href=&#34;https://openaps.org/&#34;&gt;OpenAPS&lt;/a&gt; [Open Artificial Pancreatic System Project]. A fascinating take on owning medical data related to ones&amp;rsquo; sugar levels and automating insulin intake for folks with Type1Diabetes. I never knew managing T1D was so complicated until I read &lt;a href=&#34;https://bag.srkn.org/share/621e36d4e6a8b9.06257268&#34;&gt;Graham Jenson&amp;rsquo;s post&lt;/a&gt;. My uncle had a close call recently with super low sugar levels. Can&amp;rsquo;t imagine people having to deal with this every single day!&lt;/p&gt;&#xA;&lt;p&gt;Also need to lookup SDR radio&amp;rsquo;s one of these days!&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>The interesting hydrodynamics of big ships</title>
+      <link>http://localhost:1313/2021/03/29/the-interesting-hydrodynamics-of-big-ships/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2021/03/29/the-interesting-hydrodynamics-of-big-ships/</guid>
+      <description>&lt;p&gt;A fascinating article that outlines what might have triggered the &amp;lsquo;Ever Given&amp;rsquo; to get stuck in the Suez canal.&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>DNA, RNA, Vaccines and Humans</title>
+      <link>http://localhost:1313/2020/12/28/dna-rna-vaccines-and-humans/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2020/12/28/dna-rna-vaccines-and-humans/</guid>
+      <description>&lt;p&gt;Over the last few days, I&amp;rsquo;ve been meandering through &lt;a href=&#34;https://berthub.eu/index.html&#34;&gt;Bert&lt;/a&gt;&amp;rsquo;s webpage and a few other sites - Such a treasure trove of information on the C-19 vaccine and biology/technology in general. No seriously, dive into these links for some great layman(ish) explanation of DNA, RNA, Vaccines and what not!&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://bag.srkn.org/share/5fea3c8962f2a2.96282489&#34;&gt;Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://bag.srkn.org/share/5fea38322bb2a0.08041300&#34;&gt;No, Really, mRNA Vaccines Are Not Going To Affect Your DNA&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://bag.srkn.org/share/5fea3d3bb2ac73.65468826&#34;&gt;The story of mRNA: From a loose idea to a tool that may help curb Covid&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://bag.srkn.org/share/5fea3e5f534579.64795290&#34;&gt;I Made a Covid-19 Vaccine in my Kitchen and it Worked&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Note: These links point to my &lt;a href=&#34;https://bag.srkn.org/&#34;&gt;Wallabag instance&lt;/a&gt;. I&amp;rsquo;d much prefer linking to the original article. However, I find this as a good way to save information which I can access later even if the original source vanishes.&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Linux and Bash 101</title>
+      <link>http://localhost:1313/2020/12/21/linux-and-bash-101/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2020/12/21/linux-and-bash-101/</guid>
+      <description>&lt;p&gt;This is a terrific intro to all things linux and the terminal. Something I wish I&amp;rsquo;d come across when I was learning the ropes several years ago. I&amp;rsquo;d almost forgotten about &lt;code&gt;alias&lt;/code&gt;!&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Bookmark:Is There Awareness Behind Vegetative States?</title>
+      <link>http://localhost:1313/2017/09/23/bookmarkis-there-awareness-behind-vegetative-states/</link>
+      <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2017/09/23/bookmarkis-there-awareness-behind-vegetative-states/</guid>
+      <description>&lt;p&gt;That day when we’re able to distinguish that line, I’d wish we’d figured this all out way back in 2000. It still bothers me that we weren’t able to figure out what was going on in that mind and if at all there was a communication happening&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Bookmark: &lt;a href=&#34;http://m.nautil.us/issue/47/consciousness/is-there-awareness-behind-vegetative-states?utm_source=appnews&amp;amp;utm_medium=ios&amp;amp;utm_campaign=prev&#34;&gt;Is There Awareness Behind Vegetative States?&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Imagine that a loved one, let’s say your brother, has suffered a serious brain injury. After languishing in a coma, he finally “emerges”—that is, he cycles between sleep and wakefulness, yanks his hand away when it’s pricked, is startled by loud noises, and so on.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Bookmark:Why Not.</title>
+      <link>http://localhost:1313/2017/09/10/bookmarkwhy-not./</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2017/09/10/bookmarkwhy-not./</guid>
+      <description>&lt;p&gt;This guys is such an inspiration! [embed]https://www.youtube.com/watch?v=x6xz_dN16so[/embed]&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Bookmark:Tufte in R</title>
+      <link>http://localhost:1313/2017/08/25/bookmarktufte-in-r/</link>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2017/08/25/bookmarktufte-in-r/</guid>
+      <description>&lt;p&gt;#tufte #R #visualisation&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bookmark: &lt;a href=&#34;http://motioninsocial.com/tufte/&#34;&gt;Tufte in R&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The idea behind Tufte in R is to use R - the most powerful open-source statistical programming language - to replicate excellent visualisation practices developed by Edward Tufte. It’s not a novel approach - there are plenty of excellent R functions and related packages wrote by people who have much more expertise in programming than myself. I simply collect those resources in one place in an accessible and replicable format, adding a few bits of my own coding discoveries.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Bookmark:Twilight</title>
+      <link>http://localhost:1313/2017/07/29/bookmarktwilight/</link>
+      <pubDate>Sat, 29 Jul 2017 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2017/07/29/bookmarktwilight/</guid>
+      <description>&lt;p&gt;Insanely inspiring read, Josh. Always in awe of the things you do for TARC and the amazing positive attitude you always have. Honored to have got to know you on those trails. May all forces be with you!&lt;/p&gt;&#xA;&lt;p&gt;Bookmark: &lt;a href=&#34;http://joshkatzman.blogspot.com/2017/07/twilight.html?m=1&#34;&gt;Twilight&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Shoulders and head sunk toward the trail as the first hint of light painted the ridgeline east of Gulf Hagas Mountain. The combined fatigue of a missed-night’s sleep and the near-continuous effort of the past twenty hours beckoned for one to lay down.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://twitter.com/intent/favorite?tweet_id=891420918165254144&#34;&gt;like&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/tweet?tweet_id=891420918165254144&#34;&gt;reply&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/retweet?tweet_id=891420918165254144&#34;&gt;repost&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Bookmark:Mount Jefferson &amp; Mount Washington day hike</title>
+      <link>http://localhost:1313/2017/07/28/bookmarkmount-jefferson-mount-washington-day-hike/</link>
+      <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2017/07/28/bookmarkmount-jefferson-mount-washington-day-hike/</guid>
+      <description>&lt;p&gt;#Mt. Jefferson #Mt Washington loop via Jewel trail, Great gulf trail, Crawford path, lake of the clouds AMC Hut, Amoonosuc Ravine trail&lt;/p&gt;&#xA;&lt;p&gt;Bookmark: &lt;a href=&#34;http://kaibab.org/kaibab.org/nh13g/nh13g.htm&#34;&gt;Mount Jefferson &amp;amp; Mount Washington day hike&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;This day hike started at the parking area for the Mount Washington Cog Railroad off of Base Station Road in Bretton Woods, New Hampshire. The parking area is located right at the end of the road about 6 miles east from US Route 302.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Bookmark:Why The First Complete Map of the Ocean Floor Is Stirring Controversial Waters</title>
+      <link>http://localhost:1313/2017/07/14/bookmarkwhy-the-first-complete-map-of-the-ocean-floor-is-stirring-controversial-waters/</link>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2017/07/14/bookmarkwhy-the-first-complete-map-of-the-ocean-floor-is-stirring-controversial-waters/</guid>
+      <description>&lt;p&gt;Whoa! I&amp;rsquo;ve always thought we&amp;rsquo;ve already mapped everything out in the ocean. Just 5% so far? Phew!&lt;/p&gt;&#xA;&lt;p&gt;Thanks for the pointer, Eli !&lt;/p&gt;&#xA;&lt;p&gt;Bookmark: &lt;a href=&#34;http://www.smithsonianmag.com/science-nature/first-complete-map-ocean-floor-stirring-controversial-waters-180963993/&#34;&gt;Why The First Complete Map of the Ocean Floor Is Stirring Controversial Waters&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Earth has no shortage of stunning landforms: Mt. Everest rises majestically above the clouds; the Grand Canyon rents deep into desert rock layers; the mountains that make up the Ethiopian Highlands, aka the Roof of Africa, tower above the rest of the continent.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://twitter.com/intent/favorite?tweet_id=885834600605417472&#34;&gt;like&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/tweet?tweet_id=885834600605417472&#34;&gt;reply&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/retweet?tweet_id=885834600605417472&#34;&gt;repost&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Bookmark:Let&#39;s Get Graphic: 100 Favorite Comics And Graphic Novels</title>
+      <link>http://localhost:1313/2017/07/12/bookmarklets-get-graphic-100-favorite-comics-and-graphic-novels/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2017/07/12/bookmarklets-get-graphic-100-favorite-comics-and-graphic-novels/</guid>
+      <description>&lt;p&gt;#comic books&lt;/p&gt;&#xA;&lt;p&gt;Bookmark: &lt;a href=&#34;http://www.npr.org/2017/07/12/533862948/lets-get-graphic-100-favorite-comics-and-graphic-novels&#34;&gt;Let&amp;rsquo;s Get Graphic: 100 Favorite Comics And Graphic Novels&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Summer&amp;rsquo;s the time for comics — Marvel and DC blockbusters are in movie theaters, fans are preparing to descend on San Diego for its epic annual Comic-Con, and if nothing else, your friendly local comic store or library is there to provide an air-conditioned Fortress of Solitude where you can escape the steamy streets.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Bookmark:The Ultimate Army Field Guide to Wild Edible Plants | The Art of Manliness</title>
+      <link>http://localhost:1313/2017/07/02/bookmarkthe-ultimate-army-field-guide-to-wild-edible-plants-the-art-of-manliness/</link>
+      <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2017/07/02/bookmarkthe-ultimate-army-field-guide-to-wild-edible-plants-the-art-of-manliness/</guid>
+      <description>&lt;p&gt;#Foraging&lt;/p&gt;&#xA;&lt;p&gt;Bookmark: &lt;a href=&#34;https://www.philipbrewer.net/2017/07/01/the-ultimate-army-field-guide-to-wild-edible-plants-the-art-of-manliness/&#34;&gt;The Ultimate Army Field Guide to Wild Edible Plants | The Art of Manliness&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;If you’re interested in foraging, your best source of information is going to be a local forager who knows what’s available in your area at different times of year. You next best would be a book by a local forager.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Run for Colin</title>
+      <link>http://localhost:1313/2017/06/13/run-for-colin/</link>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2017/06/13/run-for-colin/</guid>
+      <description>&lt;p&gt;Met Joe McConaughy over the weekend at the TARC camp. Three years ago he beat the record for a supported through hike/run of the PCT at 53 days and 6 hours. 2660 miles&amp;hellip;Such an inspiration!&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MoaMlE3WDTs&#34;&gt;https://www.youtube.com/watch?v=MoaMlE3WDTs&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Better Web Type</title>
+      <link>http://localhost:1313/2017/05/21/better-web-type/</link>
+      <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2017/05/21/better-web-type/</guid>
+      <description>&lt;p&gt;Web design is 95% typography, Oliver Reichenstein famously claimed. So web designers and front-end developers should all have typography skills. Skills that go beyond merely choosing fonts but actually contribute to producing readable, legible and inviting content online.&lt;/p&gt;&#xA;&lt;p&gt;Source: &lt;a href=&#34;https://betterwebtype.com/&#34;&gt;Better Web Type is an easy-to-follow web typography email course for web designers &amp;amp; web developers&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Seeing Theory</title>
+      <link>http://localhost:1313/2017/05/02/seeing-theory/</link>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2017/05/02/seeing-theory/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;A visual introduction to probability and statistics.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://students.brown.edu/seeing-theory/&#34;&gt;Seeing Theory&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows-vs-Linux-Security on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/tags/windows-vs-linux-security/index.xml</link>
+    <description>Recent content in Windows-vs-Linux-Security on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Wed, 04 Jun 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/windows-vs-linux-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Passwords and Security</title>
+      <link>http://localhost:1313/2008/06/04/passwords-and-security/</link>
+      <pubDate>Wed, 04 Jun 2008 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2008/06/04/passwords-and-security/</guid>
+      <description>&lt;p&gt;Just ten minutes before I was supposed to leave for work yesterday,  I had this remote urge to get back Hardy running on my desktop. I had it installed but because of a windows re-install, the GRUB boot menu was overwritten. So all that I had to do was to re-install Grub!&lt;/p&gt;&#xA;&lt;p&gt; Powered the CPU , inserted Gutsy&amp;rsquo;s Live CD, logged into the desktop and fired a few commands in the terminal. The shell gave in a success message and I quickly rebooted to check if the Grub was installed. And boy, it did get installed right in the first go :-) !&lt;/p&gt;&#xA;&lt;p&gt;I had to catch the 10:45 service so I powered the CPU off and ran my might to reach in time. Post work when I get back home and turn on the Desktop to check back on sweet old Ubuntu, I&amp;rsquo;m in for a surprise - I didn&amp;rsquo;t remember the Password for my Admin acccount ! Even before my instincts to re-install the OS took control, I rebooted and logged into Windoze. Googling a bit had even more surprises in store - A few posts in the Ubuntu Forum stated a minutes walk to Glory - You could override the admin&amp;rsquo;s password by a few quick commands! And till date, I was thinking Linux gave me all the security in the world. How wrong I was ! Or was I ?&lt;/p&gt;&#xA;&lt;p&gt;This only made me think if Linux had a backgate entry, Bill&amp;rsquo;s Windoze should as well. Again thanks to Sergey and Larry, I realized hacking the windoze admin password was a cake walk too! Damn, it took me so many years to realise that. It was no damn rocket science!&lt;/p&gt;&#xA;&lt;p&gt;This incident forked out a few salient points&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;If there&amp;rsquo;s a password - It can and will be hacked. It&amp;rsquo;s only a matter of when and how!&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Linux is still a better vault when it comes to data security- Check this &lt;a href=&#34;http://www.theregister.co.uk/security/security_report_windows_vs_linux/&#34; title=&#34;link&#34;&gt;link&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re really worried about data security, You have every reason to be! It&amp;rsquo;s a murky world out there ;-) !&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;We&amp;rsquo;ve got one of the best processors - the Brain. High time we knew how to use it effectively :-) !&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

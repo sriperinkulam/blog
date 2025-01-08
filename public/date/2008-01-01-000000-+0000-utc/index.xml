@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2008-01-01 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/date/2008-01-01-000000-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2008-01-01 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/date/2008-01-01-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TED</title>
+      <link>http://localhost:1313/2008/01/01/ted/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2008/01/01/ted/</guid>
+      <description>&lt;p&gt;There&amp;rsquo;s this site that my bro suggested me to visit. It&amp;rsquo;s a beautiful collection of videos of speeches of prominent people from the fields of Technology, Entertainment and Design. Really Inspiring and interesting. The best part is that you can even download them to your desktop! Do have a peek. Hat&amp;rsquo;s off to BMW to bring this about!&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s the &lt;a href=&#34;http://www.ted.com/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

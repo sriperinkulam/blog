@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Substack on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/tags/substack/index.xml</link>
+    <description>Recent content in Substack on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/substack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2021-07-01 00:00:00</title>
+      <link>http://localhost:1313/2021/07/01/july-1-2021-0400/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2021/07/01/july-1-2021-0400/</guid>
+      <description>&lt;p&gt;#TIL you don&amp;rsquo;t quite have to give your email address (or it&amp;rsquo;s alias) to subscribe to substack newsletters. Just append &amp;lsquo;/feed&amp;rsquo; to the publication link to fetch its RSS feed.&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

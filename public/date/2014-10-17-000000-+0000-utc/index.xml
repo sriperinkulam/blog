@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2014-10-17 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/date/2014-10-17-000000-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2014-10-17 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Fri, 17 Oct 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/date/2014-10-17-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ragnar 2014 GPX Feeds</title>
+      <link>http://localhost:1313/2014/10/17/ragnar-2014-gpx-feeds/</link>
+      <pubDate>Fri, 17 Oct 2014 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2014/10/17/ragnar-2014-gpx-feeds/</guid>
+      <description>&lt;p&gt;Just found a nifty plugin that would map charts feeding off from gpx inputs. Here are the chart outputs from my recent Ragnar Run.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Legs 01 - 06 [4.9 mi + 2.7mi + 8.9mi]&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;[sgpx gpx=&amp;quot;/wp-content/uploads/gpx/activity_602412715.gpx&amp;quot; ]&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Legs 13 - 18 [5.8mi]&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;[sgpx gpx=&amp;quot;/wp-content/uploads/gpx/activity_602412752.gpx&amp;quot; ]&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Legs 25 - 30 [3.4mi]&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;[sgpx gpx=&amp;quot;/wp-content/uploads/gpx/activity_602412773.gpx&amp;quot; ]&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Legs 31 - 36 [2.4mi]&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Was literally dead in this leg. Heat and uphills can be a deadly combination!&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;[sgpx gpx=&amp;quot;/wp-content/uploads/gpx/activity_602412785.gpx&amp;quot; ]&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

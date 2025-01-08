@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hike on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/tags/hike/index.xml</link>
+    <description>Recent content in Hike on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Sun, 13 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hike/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Serpentine Trail</title>
+      <link>http://localhost:1313/2019/01/13/serpentine-trail/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2019/01/13/serpentine-trail/</guid>
+      <description>&lt;p&gt;An impromptu and beautiful 2 mile hike with Sharath near the Soldier&amp;rsquo;s delight Natural Environment area. Winter storm Gaia wasn&amp;rsquo;t as severe as they projected it to be (in this area).&lt;/p&gt;&#xA;&lt;p&gt;This is definitely one of those trails that I would love to get back to on a full moon night!&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Gun Powder Falls Hike</title>
+      <link>http://localhost:1313/2018/12/30/gun-powder-falls-hike/</link>
+      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2018/12/30/gun-powder-falls-hike/</guid>
+      <description>&lt;p&gt;Had my eyes on this trial ever since I saw the &amp;lsquo;Gun powder falls state park&amp;rsquo; sign on I95. Drove over for about 30mins with Sharath to get here this afternoon.&lt;/p&gt;&#xA;&lt;p&gt;Pretty surprised not to find many folks on this trail. The weather was just right and this short 5 mile round trip hike was precisely what we needed to close out 2018. The short stream crossing at the end of the trail was an added bonus!&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Liberty Dam Hike</title>
+      <link>http://localhost:1313/2018/12/23/liberty-dam-hike/</link>
+      <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2018/12/23/liberty-dam-hike/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;image-gallery&#34;&gt;&#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &lt;ul class=&#34;photo-list &#34;&gt;&#xA;        &#xA;             &#xA;            &lt;li&gt;&#xA;                &lt;img src=&#34;./images/IMG-20181223-WA0015.jpg&#34; alt=&#34;IMG-20181223-WA0015.jpg&#34; /&gt;&#xA;            &lt;/li&gt;&#xA;        &#xA;             &#xA;            &lt;li&gt;&#xA;                &lt;img src=&#34;./images/IMG-20181223-WA0016.jpg&#34; alt=&#34;IMG-20181223-WA0016.jpg&#34; /&gt;&#xA;            &lt;/li&gt;&#xA;        &#xA;    &lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.photo-list {&#xA;    display: flex;  &#xA;    flex-wrap: wrap;  &#xA;    margin: -1px;  &#xA;}&#xA;&#xA;.photo-list &gt; li {&#xA;    height: 40vh;  &#xA;    flex-grow: 1;  &#xA;    list-style-type: none;  &#xA;    margin: 1px;  &#xA;}&#xA;&#xA;.photo-list li img {&#xA;    max-height: 100%;  &#xA;    min-width: 100%;  &#xA;    object-fit: cover;  &#xA;    vertical-align: bottom;  &#xA;    border: 2px solid gray;  &#xA;}&#xA;&#xA;.photo-list li:last-child {&#xA;    flex-grow: 10;  &#xA;    border: none;  &#xA;}&#xA;&#xA; &#xA;.photo-list.single-image &gt; li {&#xA;    height: auto;  &#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;A bright December weekend calls for a quick hike with the brothers! Here for the third time this year, and it still mesmerizes me!&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

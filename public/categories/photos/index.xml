@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photos on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/categories/photos/index.xml</link>
+    <description>Recent content in Photos on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Sun, 15 Dec 2024 06:30:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/photos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024-12-15 06:30:00</title>
+      <link>http://localhost:1313/2024/12/15/piping-hot/</link>
+      <pubDate>Sun, 15 Dec 2024 06:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/12/15/piping-hot/</guid>
+      <description>&lt;p&gt;Nothing to beat sunning on a calm and quite weekend morning with some steaming hot coffee.&#xA;&lt;div class=&#34;image-gallery&#34;&gt;&#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &lt;ul class=&#34;photo-list single-image&#34;&gt;&#xA;        &#xA;             &#xA;            &lt;li&gt;&#xA;                &lt;img src=&#34;./images/20241215_082140.jpg&#34; alt=&#34;20241215_082140.jpg&#34; /&gt;&#xA;            &lt;/li&gt;&#xA;        &#xA;    &lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.photo-list {&#xA;    display: flex;  &#xA;    flex-wrap: wrap;  &#xA;    margin: -1px;  &#xA;}&#xA;&#xA;.photo-list &gt; li {&#xA;    height: 40vh;  &#xA;    flex-grow: 1;  &#xA;    list-style-type: none;  &#xA;    margin: 1px;  &#xA;}&#xA;&#xA;.photo-list li img {&#xA;    max-height: 100%;  &#xA;    min-width: 100%;  &#xA;    object-fit: cover;  &#xA;    vertical-align: bottom;  &#xA;    border: 2px solid gray;  &#xA;}&#xA;&#xA;.photo-list li:last-child {&#xA;    flex-grow: 10;  &#xA;    border: none;  &#xA;}&#xA;&#xA; &#xA;.photo-list.single-image &gt; li {&#xA;    height: auto;  &#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;a href=&#34;http://localhost:1313/2024/12/15/piping-hot/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Indiewebify this site</title>
+      <link>http://localhost:1313/2024/11/10/indiewebify-this-site/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/11/10/indiewebify-this-site/</guid>
+      <description>&lt;div class=&#34;updatetags&#34;&gt;&#xA;&lt;H1&gt;Updating tags with Sydication links&lt;/H1&gt;&#xA;&lt;br&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#x9; &#xA;&#x9;&#xA;&#xA;        &#xA;&#x9;        &#xA;        &#xA;&#x9;        &#xA;&#x9;  &#x9;&#x9;&#xA;&#x9;&#x9;&#xA;&#x9;  &#x9;&#x9;&#xA;&#x9;&#x9;&#xA;        &#xA;&#x9;        &#xA;&#x9;  &#x9;&#x9;&#xA;&#x9;&#x9;&#xA;&#x9;  &#x9;&#x9;&#xA;&#x9;&#x9;&#xA;&#x9;  &#x9;&#x9;&#xA;&#x9;    &#x9;&#x9;&#x9;&lt;br&gt; &#34;THIS ONE?:&#34; https://chat.srkn.org/@ssp/statuses/01JDC33M70R9P4A0R5KAVCKGZ2&#xA;&#x9;  &#x9;&#x9;&#xA;&#x9;&#x9;&#xA;&#x9;  &#x9;&#x9;&#xA;&#x9;    &#x9;&#x9;&#x9;&lt;br&gt; &#34;THIS ONE?:&#34; https://chat.srkn.org/@ssp/statuses/01JDC33M70R9P4A0R5KAVCKGZ2&#xA;&#x9;  &#x9;&#x9;&#xA;&#x9;&#x9;&#xA;        &#xA;&#x9;        &#xA;&#x9;  &#x9;&#x9;&#xA;&#x9;&#x9;&#xA;&#x9;  &#x9;&#x9;&#xA;&#x9;&#x9;&#xA;        &#xA;        &#xA;&#xA;&#x9;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;gallery&#34;&gt;&#xA;  &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;    &#xA;  &#xA;&lt;/div&gt;&#xA;&#xA;&lt;h4 id=&#34;adding-the-h-card&#34;&gt;Adding the H-card&lt;/h4&gt;&#xA;&lt;p&gt;Add this to the footer&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;        &amp;lt;p class=&amp;quot;feet h-card vcard&amp;quot;&amp;gt;{{ .Site.Title }} &amp;amp;copy; &#xA;        &amp;lt;a href={{ .Site.BaseURL }} &#xA;            class=&amp;quot;p-name u-url url author metatag&amp;quot; rel=&amp;quot;me&amp;quot;&amp;gt;&#xA;            {{ .Site.Author.name }}&#xA;        &amp;lt;/a&amp;gt;&#xA;            &amp;lt;img src=&amp;quot;{{ .Site.BaseURL }}{{ .Site.Author.photo }}&amp;quot; &#xA;            class=&amp;quot;u-photo&amp;quot; style=&amp;quot;display: none&amp;quot;&amp;gt; &#xA;            &amp;lt;a class=&amp;quot;p-nickname u-email email metatag&amp;quot; rel=&amp;quot;me&amp;quot; &#xA;            href=&amp;quot;mailto:{{ .Site.Author.email }}&amp;quot;&amp;gt;&#xA;            {{ .Site.Author.nick }}&#xA;        &amp;lt;/a&amp;gt; &#xA;            2011-{{ .Now.Format &amp;quot;2006&amp;quot; }} &amp;amp;bull; Licenced under &#xA;            &amp;lt;a href=&amp;quot;{{ .Site.BaseURL }}page/licence&amp;quot; &#xA;            class=&amp;quot;metatag&amp;quot;&amp;gt;&#xA;            {{ .Site.Author.licence }}&#xA;        &amp;lt;/a&amp;gt; &lt;/code&gt;&lt;/pre&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Basilica de Guadalupe</title>
+      <link>http://localhost:1313/2024/11/02/basilica-de-guadalupe/</link>
+      <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/11/02/basilica-de-guadalupe/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;BasilicaDeGuadalupe.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Spent most of this morning at the Basilica de Guadalupe. This photo does not do enough justice to how much this old church is actually falling apart.&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Diwali</title>
+      <link>http://localhost:1313/2024/10/31/diwali/</link>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/10/31/diwali/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;Diwali2024.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Being overseas and not having access to firecrackers, this festival is just not what it used to be. I wish I could go back to those days when we would try and wake up before Kitta mama would burst his 1000 wala before the break of dawn. Days when you yearn to wear those new set of clothes - The only time of the year when you get new clothes and not hand-me-downs. Days when you make a TON of sweets and savories to share with family and friends. Days when you would hop into people&amp;rsquo;s houses uninvited to see what special delicacy they&amp;rsquo;ve made. Days when every single house is lit up and the smoke of firecrackers permeate everything. Such good memories&amp;hellip;.&lt;/p&gt;&#xA;&lt;p&gt;Diwali this year was super low key. We did light up some &lt;em&gt;Diyas&lt;/em&gt; and M had ordered some savory snacks from one of her local contacts. A few calls to family and I think we called it a day. Times when you miss being amongst family and friends. Happy Halloween and Diwali - I guess?&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>2024-06-03 21:00:36</title>
+      <link>http://localhost:1313/2024/06/03/bmg/</link>
+      <pubDate>Mon, 03 Jun 2024 21:00:36 -0600</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/06/03/bmg/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://0.0.0.0:8123/wp-content/uploads/2024/06/imagepipe_04348564902056275560.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Went to a Blue Man Group performance last Friday. Our first and most likely last. The drums were great but the theatrics left a lot to be desired. Also didn’t help that S was in one of her super emotional moods…&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>2024-04-04 00:00:00</title>
+      <link>http://localhost:1313/2024/04/04/globo-aerost%C3%A1tico/</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/04/04/globo-aerost%C3%A1tico/</guid>
+      <description>&lt;p&gt;Some good time up in the air above the Teotihuacán pyramids. Flight was super smooth and with us landing right over a cactus field, the ending was even better!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/imagepipe_705734486179367623137.jpg&#34; alt=&#34;&#34;  title=&#34;Teotihuacán hot air balloon&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>2024-04-04 00:00:00</title>
+      <link>http://localhost:1313/2024/04/04/junior-ranger/</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/04/04/junior-ranger/</guid>
+      <description>&lt;p&gt;Working with S on her first ever Junior ranger activity sitting right above the clouds. The park ranger sneaked in an &amp;rsquo;eating vegetables&amp;rsquo; pact in her oath and handed over a pretty cool wooden badge.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/imagepipe_711900157028559585018.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>2024-04-03 00:00:00</title>
+      <link>http://localhost:1313/2024/04/03/leleiwi-overlook-trail/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/04/03/leleiwi-overlook-trail/</guid>
+      <description>&lt;p&gt;Super short hike up to the overlook. Absolutely mesmerized to see the Tradewinds holding down the sea of clouds!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/imagepipe_694997230811934222143.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>2024-03-19 00:00:00</title>
+      <link>http://localhost:1313/2024/03/19/aqi-cdmx/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/03/19/aqi-cdmx/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/imagepipe_695709613358414451198.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;That&amp;rsquo;s approximately 6 months of particulate we didn&amp;rsquo;t breathe in thanks to the air purifier! From just one room&amp;hellip;ugh!&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Popo</title>
+      <link>http://localhost:1313/2024/03/10/popo/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/03/10/popo/</guid>
+      <description>&lt;p&gt;We didn&amp;rsquo;t quite get to visit &lt;a href=&#34;https://en.wikipedia.org/wiki/Masaya_Volcano&#34;&gt;Volcán Masaya&lt;/a&gt; during last week&amp;rsquo;s trip to Managua since it was deemed unsafe. Popo on the flight back to CDMX though was in full form!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/image_20240310023050.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>2024-02-05 00:00:00</title>
+      <link>http://localhost:1313/2024/02/05/prieto-y-prieta/</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/02/05/prieto-y-prieta/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/20240203_171413362363907991528756.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;A friend led a whisky tasting session last night. The Mexican Prieto Y Prieta was terrific. Even better though was spending some great time with a group of guys with such different backgrounds!&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>2024-01-17 00:00:00</title>
+      <link>http://localhost:1313/2024/01/17/ladek/</link>
+      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/01/17/ladek/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/20240113_2328296423894327969088635.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Terrific night at Pinche Bar. M would have had a great time had she come.&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Magic</title>
+      <link>http://localhost:1313/2023/12/26/magic/</link>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2023/12/26/magic/</guid>
+      <description>&lt;p&gt;We opened gifts a couple days early this year since S&amp;rsquo;&amp;amp;A/Bonn were heading out to Merida on the 24th. Last night, S set aside cookies (that she&amp;rsquo;d baked), milk and carrots for Santa and the reindeers. Early this morning, she was beaming with joy the moment she noticed Santa had indeed taken a few cookies and carrots. As she sparkled-eye opened the Taco Cat Goat Cheese Pizza card game that M had packed last night as Santa&amp;rsquo;s gift, it was evident she was consumed by the &amp;lsquo;magic&amp;rsquo; that was Santa.&lt;/p&gt;&#xA;&lt;p&gt;A very good friend mentioned couple years ago to keep the magic element alive in her for as far as possible. This morning that poignant statement flashed in my mind as I saw this 5 year old experiencing pure naive joy.&lt;/p&gt;&#xA;&lt;p&gt;Be naughty and be nice - You never know what gleaming rewards could come of it. Wish you a Merry Christmas!&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Take me out to the ball game</title>
+      <link>http://localhost:1313/2022/08/29/take-me-out-to-the-ball-game/</link>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2022/08/29/take-me-out-to-the-ball-game/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Imagepipe_27.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;M&amp;amp;S earned a few tickets to the Nationals game from the Arlington library!&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>2022-03-31 00:00:00</title>
+      <link>http://localhost:1313/2022/03/31/hauz-khas/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2022/03/31/hauz-khas/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Imagepipe_2-1200x1200.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&amp;lsquo;Urbanization&amp;rsquo; peeking in quite adjacent to the Hauz Khas fort. This beautiful reservoir and the surrounding wooded area sealed the deal! Spent quite some time exploring around here this evening. Can&amp;rsquo;t wait to introduce M&amp;amp;S to this place.&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

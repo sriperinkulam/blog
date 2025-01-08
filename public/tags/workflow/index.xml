@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workflow on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/tags/workflow/index.xml</link>
+    <description>Recent content in Workflow on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Thu, 22 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/workflow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workflow logic</title>
+      <link>http://localhost:1313/2017/06/22/workflow-logic/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2017/06/22/workflow-logic/</guid>
+      <description>&lt;p&gt;While responding to one of &lt;a href=&#34;http://tantek.com/2017/171/t1/microformats-community-blogging&#34;&gt;Tantek&amp;rsquo;s post&lt;/a&gt; today I realized I had to tweak my publishing workflow to pick &amp;rsquo;the&amp;rsquo; link I was responding to.&lt;/p&gt;&#xA;&lt;p&gt;Should possibly consider using Colin&amp;rsquo;s &lt;a href=&#34;https://colinwalker.blog/2017/06/20/20062017-1538/&#34;&gt;Dom&lt;/a&gt; method to fetch article meta&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Tweaks and squeaks</title>
+      <link>http://localhost:1313/2017/05/26/tweaks-and-squeaks/</link>
+      <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2017/05/26/tweaks-and-squeaks/</guid>
+      <description>&lt;p&gt;Strongly considering setting up an updated workflow to publish from my mobile device. Currently chunk of the processing is handled by and within the &amp;lsquo;workflow&amp;rsquo; app. Should probably move those controls from the app over to a custom function for better flexibility. This long weekend should be a good timeframe to get the wheels rolling.&lt;/p&gt;&#xA;&lt;p&gt;Also the workflow app seems to be picking up an additional variable - calshow in urls from posts that are responses. Need to figure out what&amp;rsquo;s churning there!&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

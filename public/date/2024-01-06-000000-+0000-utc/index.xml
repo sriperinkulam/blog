@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2024-01-06 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/date/2024-01-06-000000-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2024-01-06 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Sat, 06 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/date/2024-01-06-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024-01-06 00:00:00</title>
+      <link>http://localhost:1313/2024/01/06/desk-organizer/</link>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/01/06/desk-organizer/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/20240105_223326623482290447895837.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Bought a desk organizer a few weeks ago to arrange all my micro systems. The NUC, RPi NCP, Odroid and routers all now sit neatly in one space. The sliding shelves are an added bonus and the open back and sides give a lot of space for air circulation and cable management.&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

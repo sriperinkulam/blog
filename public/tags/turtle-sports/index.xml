@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Turtle-Sports on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/tags/turtle-sports/index.xml</link>
+    <description>Recent content in Turtle-Sports on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Sun, 02 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/turtle-sports/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Replied to:Open workout tracking</title>
+      <link>http://localhost:1313/2017/07/02/replied-toopen-workout-tracking/</link>
+      <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2017/07/02/replied-toopen-workout-tracking/</guid>
+      <description>&lt;p&gt;I absolutely love the WP-GPX plugin! It takes an additional step to fetch the individual gpx file manually and upload it to your server to use the short code. However, the pain is absolutely worth it. And I&amp;rsquo;m sure there&amp;rsquo;s a way to automate this process. I also remember having an issue with it not displaying the HR graph for my uploads. Yet another thing that I need to work on!&lt;/p&gt;&#xA;&lt;p&gt;There&amp;rsquo;s no turning back, Ever since I moved on to using &lt;a href=&#34;https://elementary.io/&#34;&gt;Elementary OS&lt;/a&gt; and the &lt;a href=&#34;http://turtlesport.sourceforge.net/EN/home.html&#34;&gt;Turtle Sports app&lt;/a&gt;!&lt;/p&gt;&#xA;&lt;p&gt;in reply to: &lt;a href=&#34;https://www.philipbrewer.net/2017/07/01/open-workout-tracking/&#34;&gt;Open workout tracking&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;I really like to gather and play with data from my workouts, but I dislike the way the tools I use to gather it tie me to their own websites for analysis and display—and in particular the way they always want to spin up their own scripts on my website when I want to display the data here.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

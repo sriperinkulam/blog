@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2021-05-11 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/date/2021-05-11-000000-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2021-05-11 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/date/2021-05-11-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2021-05-11 00:00:00</title>
+      <link>http://localhost:1313/2021/05/11/may-11-2021-1919/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2021/05/11/may-11-2021-1919/</guid>
+      <description>&lt;p&gt;Tweaked this setup further to make it a bit more seamless. I used a different but more reliable script to fetch the activity json files and setup a cron job to run twice every week. Next-up: 01. Make the parsing and data display theme agnostic. 02. Add a quick link to publish individual activities as posts if required 03. Build some cool charts :)&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

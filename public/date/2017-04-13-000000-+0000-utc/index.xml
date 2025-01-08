@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2017-04-13 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/date/2017-04-13-000000-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2017-04-13 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Thu, 13 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/date/2017-04-13-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>vigou3/actuarialsymbol</title>
+      <link>http://localhost:1313/2017/04/13/vigou3/actuarialsymbol/</link>
+      <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2017/04/13/vigou3/actuarialsymbol/</guid>
+      <description>&lt;p&gt;For GitHub display This is the README.md file used in the LaTeX package actuarialsymbol. The package is distributed through CTAN.&lt;/p&gt;&#xA;&lt;p&gt;Source: vigou3/actuarialsymbol&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/vigou3/actuarialsymbol&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

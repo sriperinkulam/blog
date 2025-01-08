@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feed-Reader on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/tags/feed-reader/index.xml</link>
+    <description>Recent content in Feed-Reader on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Wed, 12 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/feed-reader/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Debugging and feeds</title>
+      <link>http://localhost:1313/2017/07/12/debugging-and-feeds/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2017/07/12/debugging-and-feeds/</guid>
+      <description>&lt;p&gt;Realized today that a &lt;a href=&#34;https://srikanthperinkulam.com/2017/06/30/squashing-the-bug/&#34;&gt;code fix&lt;/a&gt; that I had implemented sometime back, inadvertently introduced a minor bug in my workflow. Will have to get around fixing this sometime later this week.&lt;/p&gt;&#xA;&lt;p&gt;On another note, I decided to temporarily suspend my self-hosted &lt;a href=&#34;https://freshrss.org/&#34;&gt;freshRSS&lt;/a&gt; installation and moved my feeds to &lt;a href=&#34;https://theoldreader.com/&#34;&gt;The Old Reader&lt;/a&gt;. Currently I don&amp;rsquo;t see a huge benefit of self hosting it unless I&amp;rsquo;m able to implement responding directly from that interface.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

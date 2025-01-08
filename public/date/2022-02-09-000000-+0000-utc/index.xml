@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2022-02-09 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/date/2022-02-09-000000-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2022-02-09 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Wed, 09 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/date/2022-02-09-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022-02-09 00:00:00</title>
+      <link>http://localhost:1313/2022/02/09/garmin-plugin/</link>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2022/02/09/garmin-plugin/</guid>
+      <description>&lt;p&gt;Spent some time today quasi-automating the gpx fetch and mapping from garmin. A &lt;a href=&#34;https://srikanthperinkulam.com/2022/02/06/garmin/&#34;&gt;modified python script&lt;/a&gt; fetches the gpx from garmin-connect and builds the map-tiles that I can now embed in my &lt;a href=&#34;https://srikanthperinkulam.com/tag/workout/&#34;&gt;workout posts&lt;/a&gt;. I simultaneously back these up in my nextcloud instance for redundancy and am otally thrilled how this is all come together!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Screenshot-from-2022-02-09-22-48-32.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

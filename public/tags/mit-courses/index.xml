@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mit-Courses on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/tags/mit-courses/index.xml</link>
+    <description>Recent content in Mit-Courses on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Fri, 17 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mit-courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MIT OpenCourseware</title>
+      <link>http://localhost:1313/2017/02/17/mit-opencourseware/</link>
+      <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2017/02/17/mit-opencourseware/</guid>
+      <description>&lt;p&gt;MIT OpenCourseware&lt;/p&gt;&#xA;&lt;p&gt;Source: &lt;a href=&#34;https://ocw.mit.edu/courses/audio-video-courses/#mathematics&#34;&gt;Audio/Video Lectures by Department&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

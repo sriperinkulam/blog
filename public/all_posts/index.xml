@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>All posts on Srikanth Perinkulam</title>
+    <link>https://srikanthperinkulam.com/all_posts/</link>
+    <description>Recent content in All posts on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://srikanthperinkulam.com/all_posts/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wifi-and-Bluetooth on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/tags/wifi-and-bluetooth/index.xml</link>
+    <description>Recent content in Wifi-and-Bluetooth on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Fri, 17 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/wifi-and-bluetooth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enabling WiFi from the terminal</title>
+      <link>http://localhost:1313/2015/04/17/enabling-wifi-from-the-terminal/</link>
+      <pubDate>Fri, 17 Apr 2015 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2015/04/17/enabling-wifi-from-the-terminal/</guid>
+      <description>&lt;p&gt;After a few rough beta installs of the OS, I decided to do a clean install of  &lt;a href=&#34;http://elementary.io/&#34;&gt;Freya&lt;/a&gt;. It&amp;rsquo;s been a smooth sail so far but for the intermittent WiFi disconnects. For some reason the WiFi gets soft disabled at times. Until I figure out what&amp;rsquo;s causing this to happen and for future reference here&amp;rsquo;s a nifty work-around:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Determine the current state of the radio transmitters using &lt;a href=&#34;https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Power_Management_Guide/RFKill.html&#34;&gt;rfkill&lt;/a&gt;. You&amp;rsquo;ll be able to see immediately If any of your devices are soft blocked.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;[code] $ sudo rfkill list all [/code]&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Unblock radio transmitters as needed. In my case, something was turning the Wi-Fi off. I just had to turn this on using the below command:&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;[code] $ rfkill unblock wifi [/code]&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Note: In a few laptops the Wi-Fi  key is also mapped to the Bluetooth function, so to activate or deactivate you&amp;rsquo;ll just have to tap a few times to disable or enable wifi and/or bluetooth.&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

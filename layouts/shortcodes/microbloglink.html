@@ -1,0 +1,6 @@
+ {{ $microblogssp := "https://micro.blog/sp" }}
+ {{- if .Params.Syndication.Fediverse -}}
+ <a href={{ .Params.Syndication.Fediverse }}>💬 <u>Comment</u></a>
+ {{ else }}
+ <a href={{ $microblogssp }}>💬 <u>Comment</u></a>
+ {{ end }}

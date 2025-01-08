@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2008-02-28 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/date/2008-02-28-000000-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2008-02-28 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
+    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
+    <lastBuildDate>Thu, 28 Feb 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/date/2008-02-28-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ipaper - Scribd</title>
+      <link>http://localhost:1313/2008/02/28/ipaper-scribd/</link>
+      <pubDate>Thu, 28 Feb 2008 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2008/02/28/ipaper-scribd/</guid>
+      <description>&lt;p&gt;Ever thought how good it would have been if you were able to portray your documents in a much appealing format rather than the normal linked form? If you could portray a totally different way of representing your documents?&lt;/p&gt;&#xA;&lt;p&gt;I was scouting for something on those lines when I chanced up on this site. Looked pretty interesting!!&lt;/p&gt;&#xA;&lt;p&gt;Have a look at the document below. Check the Book view mode- looks real cool :-)&lt;/p&gt;&#xA;&lt;p&gt;Had a tough time integrating the post and the page together. Finally had to give up. That should explain the dual post :-)&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Ipaper - Scribd</title>
+      <link>http://localhost:1313/2008/02/28/ipaper-scribd/</link>
+      <pubDate>Thu, 28 Feb 2008 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2008/02/28/ipaper-scribd/</guid>
+      <description>&lt;p&gt;document.write(&amp;rsquo;&amp;rsquo;);&lt;/p&gt;&#xA;&lt;p&gt;Read this doc on Scribd: FRENCH SNIPPETS&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;  var scribd_doc = new scribd.Document(2194749, &amp;#39;key-21rsrum9pvbeqnvcf02h&amp;#39;);          scribd_doc.addParam(&amp;#39;height&amp;#39;, 500);             scribd_doc.addParam(&amp;#39;width&amp;#39;, 450);              scribd_doc.addParam(&amp;#39;page&amp;#39;, 1);                 scribd_doc.addParam(&amp;#39;mode&amp;#39;, &amp;#39;book&amp;#39;);        scribd_doc.write(&amp;#39;embedded_flash_2194749_17rttg&amp;#39;);&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+  </channel>
+</rss>
