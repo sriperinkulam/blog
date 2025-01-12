@@ -1,0 +1,48 @@
+<div class="image-gallery">
+    {{ $images := .Get "images" | default "images" }}
+    {{ $imageDir := (printf "%s/%s/%s" "/content" .Page.File.Dir $images) }}
+    {{ $imageFiles := readDir $imageDir }}
+    
+    <ul class="photo-list {{ if eq (len $imageFiles) 1 }}single-image{{ end }}">
+        {{ range $imageFiles }}
+            {{ $imagePath := (printf "%s/%s" $images .Name) }} <!-- Store the image path -->
+            <li>
+                <img src=".{{ $imagePath | relURL }}" alt="{{ .Name }}" />
+            </li>
+        {{ end }}
+    </ul>
+</div>
+
+<style>
+.photo-list {
+    display: flex; /* Use Flexbox for layout */
+    flex-wrap: wrap; /* Allow items to wrap onto the next line */
+    margin: -1px; /* Adjust for margin collapse */
+}
+
+.photo-list > li {
+    height: 40vh; /* Set a default height for items */
+    flex-grow: 1; /* Allow items to grow */
+    list-style-type: none; /* Remove bullet points */
+    margin: 1px; /* Space between items */
+}
+
+.photo-list li img {
+    max-height: 100%; /* Ensure images fit within the height */
+    min-width: 100%; /* Ensure images fill the width */
+    object-fit: cover; /* Cover the area without distortion */
+    vertical-align: bottom; /* Align images to the bottom */
+    border: 2px solid gray; /* Optional: border around images */
+}
+
+.photo-list li:last-child {
+    flex-grow: 10; /* Allow the last item to grow more */
+    border: none; /* Remove border for the last item */
+}
+
+/* Additional styles for a single image */
+.photo-list.single-image > li {
+    height: auto; /* Set height to 480px for a single image */
+}
+
+</style>

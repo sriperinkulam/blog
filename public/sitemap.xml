@@ -2,40 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/date/2025-01-10-213000--0500--0500/</loc>
+    <lastmod>2025-01-10T21:30:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-01-10T21:30:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2025/01/10/clara/</loc>
+    <lastmod>2025-01-10T21:30:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/date/</loc>
+    <lastmod>2025-01-10T21:30:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/micro/</loc>
+    <lastmod>2025-01-10T21:30:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-01-10T21:30:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/reply/</loc>
+    <lastmod>2025-01-10T21:30:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-01-10T21:30:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-01-10T21:30:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/date/2025-01-05-213000--0500--0500/</loc>
+    <lastmod>2025-01-05T21:30:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/houston/</loc>
+    <lastmod>2025-01-05T21:30:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2025/01/05/houston-calling/</loc>
+    <lastmod>2025-01-05T21:30:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/travel/</loc>
+    <lastmod>2025-01-05T21:30:00-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/2024/12/31/2024-year-end-note/</loc>
     <lastmod>2024-12-31T21:30:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/date/2024-12-31-213000--0500--0500/</loc>
     <lastmod>2024-12-31T21:30:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-12-31T21:30:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/date/</loc>
-    <lastmod>2024-12-31T21:30:00-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/macro/</loc>
-    <lastmod>2024-12-31T21:30:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-12-31T21:30:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/site/</loc>
     <lastmod>2024-12-31T21:30:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-12-31T21:30:00-05:00</lastmod>
+    <loc>http://localhost:1313/date/2024-12-29-213000--0500--0500/</loc>
+    <lastmod>2024-12-29T21:30:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-12-31T21:30:00-05:00</lastmod>
+    <loc>http://localhost:1313/2024/12/29/carlos-wedding/</loc>
+    <lastmod>2024-12-29T21:30:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cdmx/</loc>
+    <lastmod>2024-12-29T21:30:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/guadalajara/</loc>
+    <lastmod>2024-12-29T21:30:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/date/2024-12-25-212100--0500--0500/</loc>
+    <lastmod>2024-12-25T21:21:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2024/12/25/manaw/</loc>
+    <lastmod>2024-12-25T21:21:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/photos/</loc>
+    <lastmod>2024-12-25T21:21:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/date/2024-12-24-233000--0500--0500/</loc>
+    <lastmod>2024-12-24T23:30:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2024/12/24/las-estacas/</loc>
+    <lastmod>2024-12-24T23:30:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/date/2024-12-24-213100--0500--0500/</loc>
+    <lastmod>2024-12-24T21:31:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2024/12/24/kobo-clara/</loc>
+    <lastmod>2024-12-24T21:31:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/micro/</loc>
+    <lastmod>2024-12-24T21:31:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/date/2024-12-24-213000--0500--0500/</loc>
     <lastmod>2024-12-24T21:30:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/2024/12/24/brake-fade/</loc>
-    <lastmod>2024-12-24T21:30:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/micro/</loc>
     <lastmod>2024-12-24T21:30:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/photo/</loc>
@@ -44,13 +101,7 @@
     <loc>http://localhost:1313/tags/sgv/</loc>
     <lastmod>2024-12-24T21:30:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/travel/</loc>
-    <lastmod>2024-12-24T21:30:00-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/date/2024-12-20-213000--0500--0500/</loc>
-    <lastmod>2024-12-20T21:30:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/cdmx/</loc>
     <lastmod>2024-12-20T21:30:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/merida/</loc>
@@ -69,9 +120,6 @@
     <lastmod>2024-12-16T21:30:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/date/2024-12-15-063000--0500--0500/</loc>
-    <lastmod>2024-12-15T06:30:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/photos/</loc>
     <lastmod>2024-12-15T06:30:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/2024/12/15/piping-hot/</loc>
@@ -242,9 +290,6 @@
     <loc>http://localhost:1313/2024/11/14/momboard/</loc>
     <lastmod>2024-11-14T22:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/reply/</loc>
-    <lastmod>2024-11-14T22:00:00-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/date/2024-11-11-000000-&#43;0000-utc/</loc>
     <lastmod>2024-11-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -264,9 +309,6 @@
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/2024/11/10/indiewebify-this-site/</loc>
-    <lastmod>2024-11-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/micro/</loc>
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tag1/</loc>

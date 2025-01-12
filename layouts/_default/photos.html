@@ -9,15 +9,15 @@
 	{{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
 	{{ range $pages.GroupByPublishDate "2006" }}
 
-	<h2 id="{{.Key | urlize}}">{{ .Key }}</h2>
+	<h1 id="{{.Key | urlize}}">{{ .Key }}</h1>
           
-          <ol class="photo-list">
+          <ol class="photo-list no-indent">
 	           {{ range sort .Pages "PublishDate" "desc" }}
                             {{ $link := .Permalink }}		            
                             {{ $firstImage := index (.Resources.ByType "image") 0 }}
 		            {{ $firstImage = $firstImage.Fit "480x480" }}
                             {{ with $firstImage }}
-			            	<li>
+                                        <li>
                                             <a href="{{ $link }}" title="{{$.Title }}">
 			                     <img src="{{ $firstImage.RelPermalink }}" alt="{{ $.Description }}">
 			                   </a>

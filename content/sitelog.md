@@ -10,6 +10,10 @@ rss: false
 
 Sort of a change log to keep track of modifications done to this portal.
 
+### Saturday, 11. January 2025 11:16AM 
+- Migrated site to Github. Might have to modify my posting workflow a bit. 
+- Fixed images not showing up on the [micro](/micro) tab. Looks like the rel-url was getting copied over and my layout wasn't accounting for that. Decided to extract the url from the image file itself and displayed it in the post.
+
 ### Monday, 06. January 2025 11:50PM 
 - Added gzip compression to the Caddy Reverse proxy block
 - Added WAF rules in cloudflare to block useless bots. 

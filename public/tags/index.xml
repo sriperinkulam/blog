@@ -8,8 +8,22 @@
     <language>en</language>
     <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
     <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
-    <lastBuildDate>Tue, 31 Dec 2024 21:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 21:30:00 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Micro</title>
+      <link>http://localhost:1313/tags/micro/index.xml</link>
+      <pubDate>Fri, 10 Jan 2025 21:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/tags/micro/index.xml</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Houston</title>
+      <link>http://localhost:1313/tags/houston/index.xml</link>
+      <pubDate>Sun, 05 Jan 2025 21:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/tags/houston/index.xml</guid>
+      <description></description>
+    </item>
     <item>
       <title>Macro</title>
       <link>http://localhost:1313/tags/macro/index.xml</link>
@@ -18,10 +32,17 @@
       <description></description>
     </item>
     <item>
-      <title>Micro</title>
-      <link>http://localhost:1313/tags/micro/index.xml</link>
-      <pubDate>Tue, 24 Dec 2024 21:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
-      <guid>http://localhost:1313/tags/micro/index.xml</guid>
+      <title>Cdmx</title>
+      <link>http://localhost:1313/tags/cdmx/index.xml</link>
+      <pubDate>Sun, 29 Dec 2024 21:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/tags/cdmx/index.xml</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guadalajara</title>
+      <link>http://localhost:1313/tags/guadalajara/index.xml</link>
+      <pubDate>Sun, 29 Dec 2024 21:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/tags/guadalajara/index.xml</guid>
       <description></description>
     </item>
     <item>
@@ -36,13 +57,6 @@
       <link>http://localhost:1313/tags/sgv/index.xml</link>
       <pubDate>Tue, 24 Dec 2024 21:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
       <guid>http://localhost:1313/tags/sgv/index.xml</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cdmx</title>
-      <link>http://localhost:1313/tags/cdmx/index.xml</link>
-      <pubDate>Fri, 20 Dec 2024 21:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
-      <guid>http://localhost:1313/tags/cdmx/index.xml</guid>
       <description></description>
     </item>
     <item>
@@ -99,20 +113,6 @@
       <link>http://localhost:1313/tags/hiking/index.xml</link>
       <pubDate>Sun, 24 Nov 2024 21:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
       <guid>http://localhost:1313/tags/hiking/index.xml</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nevado De Toluca</title>
-      <link>http://localhost:1313/tags/nevado-de-toluca/index.xml</link>
-      <pubDate>Sun, 24 Nov 2024 21:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
-      <guid>http://localhost:1313/tags/nevado-de-toluca/index.xml</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Garmin</title>
-      <link>http://localhost:1313/tags/garmin/index.xml</link>
-      <pubDate>Fri, 22 Nov 2024 21:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
-      <guid>http://localhost:1313/tags/garmin/index.xml</guid>
       <description></description>
     </item>
   </channel>

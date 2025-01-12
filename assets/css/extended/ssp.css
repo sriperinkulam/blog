@@ -1,8 +1,12 @@
-/* *** Format accordion *** */
-/* ****************** */
+/* Primarily for aligning photos */
+.no-indent {
+    padding: 0; /* Remove padding */
+    margin: 0;  /* Remove margin */
+}
 
-
-
+.no-indent li {
+    list-style-type: none; /* Remove bullet points */
+}
 
 
 /* ***	Used for formatting stuff in the archive page ***** */
@@ -22,32 +26,48 @@
 }
 
 /* ******* */
-
-.photo-list {
-    display: flex;
-    flex-wrap: wrap;
+.post-content img {
+    border: 5px solid gray; /* Gray border */
+    max-height: 480px;        /* Set maximum width to 480px */
+    max-width: 100%;
+    width: auto;            /* Maintain aspect ratio */
+    object-fit: cover;
 }
 
-.photo-list>* {
-    height: 20vh;
-    flex-grow: 1;
-    list-style-type: none;
-    margin: 1px;
+/* ******* */
+.photo-list {
+    display: flex; /* Use Flexbox for layout */
+    flex-wrap: wrap; /* Allow items to wrap onto the next line */
+    margin: -1px; /* Adjust for margin collapse */
+}
+
+.photo-list > li {
+    height: 30vh; /* Set a default height for items */
+    flex-grow: 1; /* Allow items to grow */
+    list-style-type: none; /* Remove bullet points */
+    margin: 1px; /* Space between items */
 }
 
 .photo-list li img {
-    max-height: 100%;
-    min-width: 100%;
-    object-fit: cover;
-    vertical-align: bottom;
-    border: 2px solid white;
+    max-height: 100%; /* Ensure images fit within the height */
+    min-width: 100%; /* Ensure images fill the width */
+    object-fit: cover; /* Cover the area without distortion */
+    vertical-align: bottom; /* Align images to the bottom */
+    border: 1px solid gray; /* Optional: border around images */
 }
 
 .photo-list li:last-child {
-    flex-grow: 10;
-    border: none;
+    flex-grow: 10; /* Allow the last item to grow more */
+    border: none; /* Remove border for the last item */
 }
 
+/* Additional styles for a single image */
+.photo-list.single-image img {
+    border: 5px solid gray; /* Gray border */
+    max-height: 480px;        /* Set maximum width to 480px */
+    width: auto;            /* Maintain aspect ratio */
+}
+/* ******* */
 .is-reply:before {
   content: '↺';
 

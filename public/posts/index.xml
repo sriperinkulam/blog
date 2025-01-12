@@ -8,14 +8,56 @@
     <language>en</language>
     <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
     <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
-    <lastBuildDate>Tue, 31 Dec 2024 21:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 21:30:00 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025-01-10 21:30:00</title>
+      <link>http://localhost:1313/2025/01/10/clara/</link>
+      <pubDate>Fri, 10 Jan 2025 21:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2025/01/10/clara/</guid>
+      <description>&lt;p&gt;/s This turned out to be simpler than I thought. All I had to do was add all the libraries to the overdriive account on the desktop. And then login to that overdrive account on the Kobo. By design, only one card shows on the Kobo. To borrow books from a library not shown on the Kobo, you&amp;rsquo;ll have to fetch that on a separate device. So simple!  &lt;a href=&#34;http://localhost:1313/2025/01/10/clara/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>2025-01-05 21:30:00</title>
+      <link>http://localhost:1313/2025/01/05/houston-calling/</link>
+      <pubDate>Sun, 05 Jan 2025 21:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2025/01/05/houston-calling/</guid>
+      <description>&lt;p&gt;We wanted to make it to Houston during S&amp;rsquo; Christmas break, because we very well knew we might not come here during our home leave. Oh boy, what a trip this has been in terms of travel snafus! On our way there we got routed to San Antonio and got grounded for a couple hours because of inclement weather en-route.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/houston.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;On the way back, we thought we missed our connection in Dallas because of a delayed departure from Houston, and re-booked for a later flight from Dallas. However, our connecting flight was delayed too and when I checked at the counter in Dallas if we could get switched back to our previous booking, the attendant said that wouldn&amp;rsquo;t be possible. M however was adamant and worked her magic. Looks like they had a &amp;lsquo;weight restriction&amp;rsquo; on the flight and M was able to convince them to flip back our reservations since we didn&amp;rsquo;t have anything to check-in.&lt;/p&gt;&#xA;&lt;p&gt;The trip otherwise was pretty uneventful. Some good time with family, speckled with delicious home cooked food and some oh-so-okay outside food. Also note-to-self to make these trips shorter to just about two nights instead of week-long.&lt;a href=&#34;http://localhost:1313/2025/01/05/houston-calling/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;</description>
+    </item>
     <item>
       <title>2024 Year end note</title>
       <link>http://localhost:1313/2024/12/31/2024-year-end-note/</link>
       <pubDate>Tue, 31 Dec 2024 21:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
       <guid>http://localhost:1313/2024/12/31/2024-year-end-note/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;photo.png&#34; alt=&#34;&#34;  /&gt;&#xA;&#xA;JAN&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Hiked up the La Joya&#xA;FEB&#xA;MAR&#xA;APR&#xA;MAY&#xA;JUN&#xA;JUL&#xA;AUG&#xA;SEP&#xA;OCT&#xA;NOV&#xA;DEC&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;div class=&#34;image-gallery&#34;&gt;&#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &lt;ul class=&#34;photo-list &#34;&gt;&#xA;        &#xA;    &lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.photo-list {&#xA;    display: flex;  &#xA;    flex-wrap: wrap;  &#xA;    margin: -1px;  &#xA;}&#xA;&#xA;.photo-list &gt; li {&#xA;    height: 40vh;  &#xA;    flex-grow: 1;  &#xA;    list-style-type: none;  &#xA;    margin: 1px;  &#xA;}&#xA;&#xA;.photo-list li img {&#xA;    max-height: 100%;  &#xA;    min-width: 100%;  &#xA;    object-fit: cover;  &#xA;    vertical-align: bottom;  &#xA;    border: 2px solid gray;  &#xA;}&#xA;&#xA;.photo-list li:last-child {&#xA;    flex-grow: 10;  &#xA;    border: none;  &#xA;}&#xA;&#xA; &#xA;.photo-list.single-image &gt; li {&#xA;    height: auto;  &#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;a href=&#34;http://localhost:1313/2024/12/31/2024-year-end-note/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>2024-12-29 21:30:00</title>
+      <link>http://localhost:1313/2024/12/29/carlos-wedding/</link>
+      <pubDate>Sun, 29 Dec 2024 21:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/12/29/carlos-wedding/</guid>
+      <description>&lt;p&gt;We decided not to drive to GDL for Carlos&amp;rsquo; wedding. Just not comfortable driving the GV until we get it properly serviced. Thankfully, we got a flight last minute and we head straight to the GDL zoo after landing. S has been wanting to see the penguins there for quite sometime now and what better opportunity than this?&lt;/p&gt;&#xA;&lt;p&gt;The zoo was immaculately maintained! And with the Sky-cables and trains, this was such a great experience. We checked in at the AC hotel for some short down time and then head to an Arabic restaurant for some pretty delicious wraps because we were quite certain M wouldn&amp;rsquo;t find anything vegetarian at the wedding. The wedding per se was super intimate with about 30 guests. I am glad we were able to fit this in despite a pretty packed end of the year. We head back to the hotel around 1145 just about when S was nearing her &lt;em&gt;I&amp;rsquo;m done&lt;/em&gt; limit.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/carlos_gdl.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The next morning, we head to the vegan restaurant that M had scouted for a quick breakfast and get to the GDL airport just in time for the flight back to CDMX.&#xA;&lt;a href=&#34;http://localhost:1313/2024/12/29/carlos-wedding/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>2024-12-25 21:21:00</title>
+      <link>http://localhost:1313/2024/12/25/manaw/</link>
+      <pubDate>Wed, 25 Dec 2024 21:21:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/12/25/manaw/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/manaw.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&#xA;Never fails to impress &lt;a href=&#34;http://localhost:1313/2024/12/25/manaw/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>2024-12-24 23:30:00</title>
+      <link>http://localhost:1313/2024/12/24/las-estacas/</link>
+      <pubDate>Tue, 24 Dec 2024 23:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/12/24/las-estacas/</guid>
+      <description>&lt;p&gt;V+D were visiting us for a few days around Christmas this year. With the 24th declared a holiday, M suggested we go glamping in Estacas for a night. S loved the idea and we booked two tents for the five of us. Cost was super reasonable given it included breakfast and entry to the park.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/estacas.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We only got to Estacas around 1400 on 24th evening thanks to the four hours we lost to the &lt;a href=&#34;https://srikanthperinkulam.com/2024/12/24/brake-fade/&#34;&gt;brake fade on the Grand Vitara&lt;/a&gt;. After a quick check-in, we decide to rent a kayak and row down the stream. I hop off the kayak and swim upstream. S was bent on going to the kids pool alone and not getting into the spring. After about an hour, S &amp;amp; I head to the kids pool. She spends maybe 30 mins in there and calls it a day. Her only ask was that we have dinner by the spring, which we gladly agree to since that&amp;rsquo;s the only restaurant that was open. After dinner, S was sleepy but still super excited about spending the night in the tent. Happy kid, Happy camper! She sleeps through the night despite all the Christmas fireworks.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/shas_estacas.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We wake up to a super crisp and nippy 25th morning. V and I decide to snorkel/swim in the warm 23C spring water. We spot some sleeping turtles and a great many schools of fish feasting on their morning find. After a simple yet delicious breakfast we make our way back to CDMX. Probably one of our best stays in Estacas so far and I&amp;rsquo;m so glad we decided to glamp! Though S didn&amp;rsquo;t get into the spring, she absolutely enjoyed our trip. &lt;a href=&#34;http://localhost:1313/2024/12/24/las-estacas/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>2024-12-24 21:31:00</title>
+      <link>http://localhost:1313/2024/12/24/kobo-clara/</link>
+      <pubDate>Tue, 24 Dec 2024 21:31:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>http://localhost:1313/2024/12/24/kobo-clara/</guid>
+      <description>&lt;p&gt;Ordered a Kobo Clara BW for M on a whim. Been a while that I&amp;rsquo;ve surprised her! Twelve years ago when I gifted her the Kindle she was initially super upset - we barely had any money then. This time around when she opened it, her reaction was neutral at best.&lt;/p&gt;&#xA;&lt;p&gt;Setting it up wasn&amp;rsquo;t quite intuitive. Took me 20 minutes to figure out that the software wasn&amp;rsquo;t showing the option for overdrive sync because it sensed our location to be outside US/Canada. An easy fix until we hit the next issue - M only has a Libby account and that does not map 1:1 to an Overdrive account. Looks like I&amp;rsquo;ll have to setup an overdrive account now, add all her library cards and then sync that account in the Kobo. Reasonable ask I guess. But doesn&amp;rsquo;t really help my case of getting her to try off mainstream devices.&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>2024-12-24 21:30:00</title>
@@ -72,48 +114,6 @@
       <pubDate>Fri, 06 Dec 2024 21:39:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
       <guid>http://localhost:1313/2024/12/06/flexibility/</guid>
       <description>&lt;p&gt;Absolutely loving the flexibility of fast-tweaking markdown files in GO. I&amp;rsquo;m far from being a programmer/developer, but with a dash of AI and some bare minimum logic sense, I&amp;rsquo;ve been able to build scripts to do a bunch of modifications on this site on the go. &lt;a href=&#34;http://localhost:1313/2024/12/06/flexibility/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;</description>
-    </item>
-    <item>
-      <title>2024-12-06 05:30:00</title>
-      <link>http://localhost:1313/2024/12/06/trilium/</link>
-      <pubDate>Fri, 06 Dec 2024 05:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
-      <guid>http://localhost:1313/2024/12/06/trilium/</guid>
-      <description>&lt;p&gt;Debating if I want to migrate to TriliumNext&lt;/p&gt;&#xA;</description>
-    </item>
-    <item>
-      <title>2024-12-06 00:36:00</title>
-      <link>http://localhost:1313/2024/12/06/ca-aefm/</link>
-      <pubDate>Fri, 06 Dec 2024 00:36:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
-      <guid>http://localhost:1313/2024/12/06/ca-aefm/</guid>
-      <description>&lt;p&gt;M just received an invite for the &lt;a href=&#34;https://www.state.gov/global-community-liaison-office/overseas-family-member-employment/family-member-employment-within-a-u-s-embassy-or-consulate/consular-affairs-appointment-eligible-family-member-program/&#34;&gt;CA-AEFM&lt;/a&gt; March&#39;25 cohort. Long overdue! Adds a small wrench to our planning for the PCS next year but as Pappaji says - it&amp;rsquo;s a Happy problem! Super excited! &lt;a href=&#34;http://localhost:1313/2024/12/06/ca-aefm/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;</description>
-    </item>
-    <item>
-      <title>2024-12-02 22:30:00</title>
-      <link>http://localhost:1313/2024/12/02/maintenance-of-everything/</link>
-      <pubDate>Mon, 02 Dec 2024 22:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
-      <guid>http://localhost:1313/2024/12/02/maintenance-of-everything/</guid>
-      <description>&lt;p&gt;Not quite sure when or where I came across this open book - &lt;a href=&#34;https://books.worksinprogress.co/book/maintenance-of-everything/the-maintenance-race/the-maintenance-race/7&#34;&gt;Maintenance: of everything&lt;/a&gt;. Fascinating read so far and I&amp;rsquo;m so glad I did save it in my quick notes whenever I did! &lt;a href=&#34;http://localhost:1313/2024/12/02/maintenance-of-everything/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;</description>
-    </item>
-    <item>
-      <title>2024-12-01 22:26:00</title>
-      <link>http://localhost:1313/2024/12/01/all-hugod-out/</link>
-      <pubDate>Sun, 01 Dec 2024 22:26:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
-      <guid>http://localhost:1313/2024/12/01/all-hugod-out/</guid>
-      <description>&lt;p&gt;Got some decent progress on tweaking this portal. All hugo&amp;rsquo;d out for now though and a short break is overdue. Super slow weekend otherwise. Watched Moana 2. Meh. Not much story but decent visuals. Tragedy of sequels, maybe?&lt;/p&gt;&#xA;</description>
-    </item>
-    <item>
-      <title>2024-12-01 00:30:00</title>
-      <link>http://localhost:1313/2024/12/01/2024-12-01-003000/</link>
-      <pubDate>Sun, 01 Dec 2024 00:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
-      <guid>http://localhost:1313/2024/12/01/2024-12-01-003000/</guid>
-      <description>&lt;p&gt;Moved over the syndication links in my posts to post-meta. The syndication icon only shows up if a valid link is present in the FrontMatter of a post. Once micro.blog picks up the feed, it&amp;rsquo;s currently set to auto publish to the fediverse on my GoToSocial (GTS) instance.  On the backend, a GO script fetches the RSS feed from my GTS instance and saves the RSS feed item link and the corresponding link to my post in a JSON file. Another script quickly looks up which post&amp;rsquo;s FrontMatter needs to be updated for the syndication links in each post and updates the files as needed. A bit windy but seems to do the job for now. I might end up consolidating these into just one script later and/or directly use the masto API to publish to the fediverse and grab the syndication link from there. For now, I&amp;rsquo;m pretty psyched this is all working.&lt;/p&gt;&#xA;</description>
-    </item>
-    <item>
-      <title>2024-11-29 22:41:00</title>
-      <link>http://localhost:1313/2024/11/29/2024-11-29/</link>
-      <pubDate>Fri, 29 Nov 2024 22:41:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
-      <guid>http://localhost:1313/2024/11/29/2024-11-29/</guid>
-      <description>&lt;p&gt;Just struck me that most of my disk drives are quite old. Almost all of them were salvaged from old laptops. Age does not necessarily equate to performance and I do have decent backups, but only a question of time before I see them going kaput. Living vicariously on the edge when it comes to self-hosting!&lt;/p&gt;&#xA;</description>
     </item>
   </channel>
 </rss>
