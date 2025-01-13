@@ -14,7 +14,7 @@
 
 {{- if not (.Param "hideAuthor") -}}
 {{- with (partial "author.html" .) }}
-{{- $scratch.Add "meta" (slice .) }} 
+ {{- $scratch.Add "meta" (slice "SSP") }} 
 {{- end }}
 {{- end }}
 

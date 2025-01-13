@@ -20,9 +20,9 @@ params:
   description: "Mountains, family, privacy and everything else"
   keywords: [Blog, Portfolio, PaperMod]
   author:
-    name: Srikanth Perinkulam
-    nick: SSP
-    email: ssphugo@srkn.anonaddy.com
+    name: "Srikanth Perinkulam"
+    nick: "SSP"
+    email: "ssphugo@srkn.anonaddy.com"
   # author: ["Me", "You"] # multiple authors
   images: ["/images/favicon/apple-touch-icon.png"]
   DateFormat: "January 2, 2006"

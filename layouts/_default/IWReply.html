@@ -52,8 +52,8 @@
     {{- partial "anchored_headings.html" .Content -}}
     {{- else }}{{ .Content }}{{ end }}
   </div>
-  <br>  
   <a href={{ .Params.Replyto }} class="u-in-reply-to is-reply"> Response to: {{ .Params.Replytonote }}</a>
+  <br>
   {{- end }}
 
 {{- partial "comments_isso.html" . -}}
