@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2017-05-26 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2017-05-26-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2017-05-26-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2017-05-26 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 26 May 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2017-05-26-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2017-05-26-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/2017/05/26/</link>
+      <link>https://srikanthperinkulam.com/2017/05/26/</link>
       <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/05/26/</guid>
+      <guid>https://srikanthperinkulam.com/2017/05/26/</guid>
       <description>&lt;p&gt;Ha, Not quite sure where I picked that from. Thanks for the pointer. For some reason, yours didn&amp;rsquo;t show up either..Will take a look at that later today.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://colinwalker.blog/2017/05/26/26052017-2105/&#34;&gt;Social Thoughts&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Thanks Srikanth, good to know that they’re useful. I figured that documenting the journey is good for both myself and others, having a record of how I achieved things means I can go back to it in future to remind myself how to do something or to improve it as I learn more.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;</description>
     </item>
     <item>
       <title>Response to Colin&#39;s post</title>
-      <link>http://localhost:1313/2017/05/26/response-to-colins-post/</link>
+      <link>https://srikanthperinkulam.com/2017/05/26/response-to-colins-post/</link>
       <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/05/26/response-to-colins-post/</guid>
+      <guid>https://srikanthperinkulam.com/2017/05/26/response-to-colins-post/</guid>
       <description>&lt;p&gt;I really like your &amp;lsquo;how-to&amp;rsquo; getting plugged posts, Colin! Always something to glean! Most of the improvisations I make on my site have been pretty crude - I dice the meat in an mu-plugin (essentially a custom functions file) and leave it at that. I really need to work on better documenting or standardizing my code.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://colinwalker.blog/2017/05/25/getting-plugged-in-part-5-settings/&#34;&gt;Getting plugged in – part 5: settings&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;What started as a quick update to split the plugin into parts (so that it wasn’t all one monolithic file) became quite a major one. My original plan was to move both hooks for updating the post content to separate included files – it hasn’t quite gone according to plan.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;</description>
     </item>
     <item>
       <title>Tweaks and squeaks</title>
-      <link>http://localhost:1313/2017/05/26/tweaks-and-squeaks/</link>
+      <link>https://srikanthperinkulam.com/2017/05/26/tweaks-and-squeaks/</link>
       <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/05/26/tweaks-and-squeaks/</guid>
+      <guid>https://srikanthperinkulam.com/2017/05/26/tweaks-and-squeaks/</guid>
       <description>&lt;p&gt;Strongly considering setting up an updated workflow to publish from my mobile device. Currently chunk of the processing is handled by and within the &amp;lsquo;workflow&amp;rsquo; app. Should probably move those controls from the app over to a custom function for better flexibility. This long weekend should be a good timeframe to get the wheels rolling.&lt;/p&gt;&#xA;&lt;p&gt;Also the workflow app seems to be picking up an additional variable - calshow in urls from posts that are responses. Need to figure out what&amp;rsquo;s churning there!&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

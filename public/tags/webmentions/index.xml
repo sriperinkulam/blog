@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Webmentions on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/tags/webmentions/index.xml</link>
+    <link>https://srikanthperinkulam.com/tags/webmentions/index.xml</link>
     <description>Recent content in Webmentions on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 09 Jun 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/webmentions/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/tags/webmentions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>webmentions</title>
-      <link>http://localhost:1313/2017/06/09/webmentions/</link>
+      <link>https://srikanthperinkulam.com/2017/06/09/webmentions/</link>
       <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/06/09/webmentions/</guid>
+      <guid>https://srikanthperinkulam.com/2017/06/09/webmentions/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA; &lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Need to figure out why certain #webmentions from my site are being sent as anonymous. Adding that to my ever expanding list of to-do&amp;rsquo;s.&lt;/p&gt;&#xA;&lt;p&gt;Since I started tweaking my portal and started getting deeper into the code, there&amp;rsquo;s been a constant fire in my brain to further tweak and tinker with things. This is addictive!&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Or, shall we?</title>
-      <link>http://localhost:1313/2017/05/23/or-shall-we/</link>
+      <link>https://srikanthperinkulam.com/2017/05/23/or-shall-we/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/05/23/or-shall-we/</guid>
+      <guid>https://srikanthperinkulam.com/2017/05/23/or-shall-we/</guid>
       <description>&lt;p&gt;Spent sometime today troubleshooting two pesky issues.&lt;/p&gt;&#xA;&lt;p&gt;Having switched to a new theme I realized my publishing workflow wasn&amp;rsquo;t fetching comments from Instagram posts. The Dsgnwrks plugin was fetching the images fine.  But since I&amp;rsquo;d missed adding the syndication link for brid.gy to work its magic, the comments were not being back fed. This should be an easy fix. Probably I&amp;rsquo;ll use the custom fields that dsgnwrks creates and update syndication links field using  a quick custom function.&lt;/p&gt;&#xA;&lt;p&gt;The second issue was that the new theme wasn&amp;rsquo;t displaying webmentions. What should have been a quick fix, took me some time to figure out that the comment block was only being called if there were any &amp;lsquo;comment&amp;rsquo; type comments. Quickly added an &amp;lsquo;or&amp;rsquo; to check for &amp;lsquo;webmention&amp;rsquo; type comments too and that was set. One of those pesky &amp;lsquo;must have caught earlier&amp;rsquo; issues!&lt;/p&gt;&#xA;&lt;p&gt;Now that these have been sorted out, I&amp;rsquo;ll probably work on displaying these &amp;rsquo;likes&amp;rsquo; as facepiles.&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

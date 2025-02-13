@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2017-02-03 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2017-02-03-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2017-02-03-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2017-02-03 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 03 Feb 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2017-02-03-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2017-02-03-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/2017/02/03/</link>
+      <link>https://srikanthperinkulam.com/2017/02/03/</link>
       <pubDate>Fri, 03 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/02/03/</guid>
+      <guid>https://srikanthperinkulam.com/2017/02/03/</guid>
       <description>&lt;p&gt;Test micropublish note&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/2017/02/03/</link>
+      <link>https://srikanthperinkulam.com/2017/02/03/</link>
       <pubDate>Fri, 03 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/02/03/</guid>
+      <guid>https://srikanthperinkulam.com/2017/02/03/</guid>
       <description>&lt;p&gt;Likes &lt;a href=&#34;https://micropublish.net/&#34;&gt;https://micropublish.net/&lt;/a&gt;.&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

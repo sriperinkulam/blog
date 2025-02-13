@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2022-02-06 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2022-02-06-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2022-02-06-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2022-02-06 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 06 Feb 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2022-02-06-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2022-02-06-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>8245938214</title>
-      <link>http://localhost:1313/2022/02/06/8245938214/</link>
+      <link>https://srikanthperinkulam.com/2022/02/06/8245938214/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2022/02/06/8245938214/</guid>
+      <guid>https://srikanthperinkulam.com/2022/02/06/8245938214/</guid>
       <description>&lt;p&gt;A few laps at MC with S and V. Went in closer to noon and the temps were just right! Nasal only with the mask on. Right after the first lap, I had this tightness in the upper chest which eased out over the next few loops and I definitely could have picked up my pace if I really wanted.  The calves were &amp;rsquo;talking&amp;rsquo; right after the run and the fresh OJ which I gulped down was just what the body needed&amp;hellip;Great consecutive run after yesterday. I&amp;rsquo;m kinda liking getting back to this.&lt;/p&gt;&#xA;&lt;p&gt;2022-02-06 11:11:22 - &lt;strong&gt;MC loops&lt;/strong&gt; 🏃 Ran 1.68 miles in 00:26:05 Pace : 15.53 min/mile. Elevation Gain : 82 ft. Elevation Loss : 70 ft. Calories : 292 Location : Chennai 💓 : 163&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Garmin</title>
-      <link>http://localhost:1313/2022/02/06/garmin/</link>
+      <link>https://srikanthperinkulam.com/2022/02/06/garmin/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2022/02/06/garmin/</guid>
+      <guid>https://srikanthperinkulam.com/2022/02/06/garmin/</guid>
       <description>&lt;p&gt;As I slowly get back into running, I realized my &lt;a href=&#34;https://srikanthperinkulam.com/2021/05/30/owning-my-garmin-data/&#34;&gt;garmin plugin&lt;/a&gt; had a minor bug. When I built this last year, I had inadvertently hard-coded the years field in the &lt;a href=&#34;https://srikanthperinkulam.com/garmin-stats/&#34;&gt;summary&lt;/a&gt; and the totals for the current year where obviously messed up. For now I&amp;rsquo;ve patched it with a quick-fix. Will have to automate it when I have a bit more time and I think I already know what needs to be done.&lt;/p&gt;&#xA;&lt;p&gt;On that note, I also chanced upon &lt;a href=&#34;https://www.andersle.no/posts/2018/gpxplot/gpxplot.html&#34;&gt;Anders&lt;/a&gt;&amp;rsquo; terrific &lt;a href=&#34;https://github.com/andersle/gpxplotter&#34;&gt;gpxplotter&lt;/a&gt;. With slight modifications I should be able to generate neat map tiles from the GPX files and incorporate it my plugin. Project for another day but I am pretty excited about this!&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

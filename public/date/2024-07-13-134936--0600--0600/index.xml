@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2024-07-13 13:49:36 -0600 -0600 on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2024-07-13-134936--0600--0600/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2024-07-13-134936--0600--0600/index.xml</link>
     <description>Recent content in 2024-07-13 13:49:36 -0600 -0600 on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 13 Jul 2024 13:49:36 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2024-07-13-134936--0600--0600/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2024-07-13-134936--0600--0600/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>projects</title>
-      <link>http://localhost:1313/2024/07/13/projects/</link>
+      <link>https://srikanthperinkulam.com/2024/07/13/projects/</link>
       <pubDate>Sat, 13 Jul 2024 13:49:36 -0600</pubDate>
-      <guid>http://localhost:1313/2024/07/13/projects/</guid>
+      <guid>https://srikanthperinkulam.com/2024/07/13/projects/</guid>
       <description>&lt;p&gt;The pains and joys of self-hosting and tinkering. There’s always something that is broken, ready to be fixed, to be upgraded, can be built upon or changed. It is like a puzzle that constantly evolves depending on the time you invest in it. And every once in a while it exposes the silver lining that keeps you hooked to it.&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

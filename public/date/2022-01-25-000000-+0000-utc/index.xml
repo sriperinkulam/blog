@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2022-01-25 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2022-01-25-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2022-01-25-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2022-01-25 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2022-01-25-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2022-01-25-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Snikket</title>
-      <link>http://localhost:1313/2022/01/25/snikket/</link>
+      <link>https://srikanthperinkulam.com/2022/01/25/snikket/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2022/01/25/snikket/</guid>
+      <guid>https://srikanthperinkulam.com/2022/01/25/snikket/</guid>
       <description>&lt;p&gt;Setup a &lt;a href=&#34;https://snikket.org/&#34;&gt;snikket&lt;/a&gt; instance today and blown away by the &lt;a href=&#34;https://snikket.org/service/quickstart/&#34;&gt;simplicity&lt;/a&gt; of getting this all up and running! Wish I&amp;rsquo;d done this several months back when I moved (most of) my family &lt;a href=&#34;https://srikanthperinkulam.com/2021/01/10/digital-reset/&#34;&gt;away from whatsapp&lt;/a&gt;.&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

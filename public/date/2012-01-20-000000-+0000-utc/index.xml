@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2012-01-20 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2012-01-20-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2012-01-20-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2012-01-20 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 20 Jan 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2012-01-20-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2012-01-20-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mumbai 2012 Full Marathon</title>
-      <link>http://localhost:1313/2012/01/20/mumbai-2012-full-marathon/</link>
+      <link>https://srikanthperinkulam.com/2012/01/20/mumbai-2012-full-marathon/</link>
       <pubDate>Fri, 20 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2012/01/20/mumbai-2012-full-marathon/</guid>
+      <guid>https://srikanthperinkulam.com/2012/01/20/mumbai-2012-full-marathon/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;Mumbai2012.jpeg&#34; alt=&#34;Mumbai 2012&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

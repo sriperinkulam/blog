@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2022-03-03 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2022-03-03-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2022-03-03-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2022-03-03 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2022-03-03-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2022-03-03-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ephemeral</title>
-      <link>http://localhost:1313/2022/03/03/ephemeral/</link>
+      <link>https://srikanthperinkulam.com/2022/03/03/ephemeral/</link>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2022/03/03/ephemeral/</guid>
+      <guid>https://srikanthperinkulam.com/2022/03/03/ephemeral/</guid>
       <description>&lt;p&gt;Exactly a decade ago, I landed on Posterous Spaces. This was before any of the currently common messaging platforms that exist were built. M wanted a way to backup texts and at that point in time, Posterous Spaces looked like a terrific option. We&amp;rsquo;d email the texts over to an email address and they&amp;rsquo;d be published as private posts on our domain. All was good until Twitter acquired them and non-nonchalantly shut them down in 2012. Interestingly, they still have the &lt;a href=&#34;http://www.posterous.com/&#34;&gt;domain&lt;/a&gt; active! The co-founders went on to build &lt;a href=&#34;https://posthaven.com/our_pledge&#34;&gt;Posthaven&lt;/a&gt; which I believe is still pretty active.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Screenshot-from-2022-03-03-22-30-45.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;When Posterous Spaces shutdown, for whatever reason, I missed downloading the export and with that all those messages vanished. Or so I thought until today when I chanced upon some old e-mails and found copies of those sent texts. The mother of all decentralization tools - E-mail to the rescue! The next mini project is to convert these emails to a more digestible format. Decades from now, I&amp;rsquo;m intrigued to see which of the current backup mechanisms will stand the test of time.&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

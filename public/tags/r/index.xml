@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/tags/r/index.xml</link>
+    <link>https://srikanthperinkulam.com/tags/r/index.xml</link>
     <description>Recent content in R on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 25 Aug 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/tags/r/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bookmark:Tufte in R</title>
-      <link>http://localhost:1313/2017/08/25/bookmarktufte-in-r/</link>
+      <link>https://srikanthperinkulam.com/2017/08/25/bookmarktufte-in-r/</link>
       <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/08/25/bookmarktufte-in-r/</guid>
+      <guid>https://srikanthperinkulam.com/2017/08/25/bookmarktufte-in-r/</guid>
       <description>&lt;p&gt;#tufte #R #visualisation&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bookmark: &lt;a href=&#34;http://motioninsocial.com/tufte/&#34;&gt;Tufte in R&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The idea behind Tufte in R is to use R - the most powerful open-source statistical programming language - to replicate excellent visualisation practices developed by Edward Tufte. It’s not a novel approach - there are plenty of excellent R functions and related packages wrote by people who have much more expertise in programming than myself. I simply collect those resources in one place in an accessible and replicable format, adding a few bits of my own coding discoveries.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

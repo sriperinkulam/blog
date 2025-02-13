@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2024-11-09 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2024-11-09-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2024-11-09-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2024-11-09 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2024-11-09-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2024-11-09-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rebuilding the photo gallery</title>
-      <link>http://localhost:1313/2024/11/09/rebuilding-the-photo-gallery/</link>
+      <link>https://srikanthperinkulam.com/2024/11/09/rebuilding-the-photo-gallery/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2024/11/09/rebuilding-the-photo-gallery/</guid>
+      <guid>https://srikanthperinkulam.com/2024/11/09/rebuilding-the-photo-gallery/</guid>
       <description>&lt;p&gt;Thanks to &lt;a href=&#34;https://billglover.me/2023/11/07/creating-a-photography-gallery-with-hugo/&#34;&gt;Bill Glover&lt;/a&gt;, I was able to rebuild my &lt;a href=&#34;https://srikanthperinkulam.com/photos/&#34;&gt;photo gallery&lt;/a&gt;. Similar to how I built this earlier in wordpress, all I&amp;rsquo;m doing is mimicking an archive page but with just the images. Took me a bit to figure out that the &lt;em&gt;with&lt;/em&gt; function breaks the context and I had to dynamically reassign the permalink. With that sorted, this page should auto-update whenever I publish posts. Yay!&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

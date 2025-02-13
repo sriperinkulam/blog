@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Garmin-Connect on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/tags/garmin-connect/index.xml</link>
+    <link>https://srikanthperinkulam.com/tags/garmin-connect/index.xml</link>
     <description>Recent content in Garmin-Connect on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 29 May 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/garmin-connect/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/tags/garmin-connect/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Owning my Garmin data</title>
-      <link>http://localhost:1313/2021/05/29/owning-my-garmin-data/</link>
+      <link>https://srikanthperinkulam.com/2021/05/29/owning-my-garmin-data/</link>
       <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2021/05/29/owning-my-garmin-data/</guid>
+      <guid>https://srikanthperinkulam.com/2021/05/29/owning-my-garmin-data/</guid>
       <description>&lt;p&gt;Over the last month, I took some time to build a tiny WordPress plugin that fetches data from my Garmin Connect platform and displays it on my website. Currently the workflow only pulls activity data from the platform - which was my focus for this month. With modifications to the python script, I think this can be extended further to fetch any type of data from the platform. Here&amp;rsquo;s a rundown of the publishing workflow so far:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Bluetooth Sync data from the watch to the Garmin connect portal. This is manual since I see no point in having Bluetooth turned on 24/7&lt;/li&gt;&#xA;&lt;li&gt;Edit the activity in the Garmin connect app for say activity title, activity type or just add some more context to the workout&lt;/li&gt;&#xA;&lt;li&gt;A cron job runs on my website twice every week to trigger &lt;a href=&#34;https://github.com/johannesh83/garmin-connect-export&#34;&gt;this python script&lt;/a&gt; in my WordPress plugin. I made slight modifications to the script so as to tie-in with my workflow.&lt;/li&gt;&#xA;&lt;li&gt;The python script connects to my Garmin connect account, pulls the latest three activities and saves them as JSON files on my server.&lt;/li&gt;&#xA;&lt;li&gt;The &lt;a href=&#34;https://srikanthperinkulam.com/garmin-stats/&#34;&gt;garmin-stats page&lt;/a&gt; when requested by a client, parses the JSON file for each activity and displays the content in a predefined format. There&amp;rsquo;s also a provision to publish a specific activity as an individual post. If I&amp;rsquo;m logged in WordPress, a &amp;lsquo;Publish this&amp;rsquo; button is displayed for activities that have not been posted yet.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/image.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Currently I am assigning all of these posts to the &amp;lsquo;workout&amp;rsquo; category and I&amp;rsquo;ve disabled these from showing up on my main RSS feed. These posts however do show up on my &lt;a href=&#34;https://srikanthperinkulam.com/micro/&#34;&gt;micro-posts&lt;/a&gt; page.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;To-do&amp;rsquo;s:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The script currently triggers a &amp;lsquo;Garmin login alert&amp;rsquo; email for my account. Most likely because of locale settings. Would be good to mute these.&lt;/li&gt;&#xA;&lt;li&gt;The plugin code currently dynamically generates the summary page on 200+ JSON files. I&amp;rsquo;ll probably limit this to just 20 or so.&lt;/li&gt;&#xA;&lt;li&gt;Fetch non activity data too.&lt;/li&gt;&#xA;&lt;li&gt;Maps, charts, visualizations!&lt;/li&gt;&#xA;&lt;li&gt;Always scope for cosmetic tweaks!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Micro updates:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://srikanthperinkulam.com/2021/05/08/may-7-2021-1431/&#34;&gt;&lt;strong&gt;May 7, 2021 14:31&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://srikanthperinkulam.com/2021/05/12/garmin-plugin/&#34;&gt;&lt;strong&gt;May 11, 2021 19:19&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
     </item>
     <item>
       <title>May 11, 2021 19:19</title>
-      <link>http://localhost:1313/2021/05/11/may-11-2021-1919/</link>
+      <link>https://srikanthperinkulam.com/2021/05/11/may-11-2021-1919/</link>
       <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2021/05/11/may-11-2021-1919/</guid>
+      <guid>https://srikanthperinkulam.com/2021/05/11/may-11-2021-1919/</guid>
       <description>&lt;p&gt;Tweaked this setup further to make it a bit more seamless. I used a different but more reliable script to fetch the activity json files and setup a cron job to run twice every week. Next-up: 01. Make the parsing and data display theme agnostic. 02. Add a quick link to publish individual activities as posts if required 03. Build some cool charts :)&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2022-02-13 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2022-02-13-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2022-02-13-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2022-02-13 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 13 Feb 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2022-02-13-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2022-02-13-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Email encryption</title>
-      <link>http://localhost:1313/2022/02/13/email-encryption/</link>
+      <link>https://srikanthperinkulam.com/2022/02/13/email-encryption/</link>
       <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2022/02/13/email-encryption/</guid>
+      <guid>https://srikanthperinkulam.com/2022/02/13/email-encryption/</guid>
       <description>&lt;p&gt;Pretty neat and quick! Didn&amp;rsquo;t quite explore this feature in Thuderbird till date. I think primarily because email encryption in general only works when both parties are on board. Thunderbird definitely seems to make that process easy. One issue with this traditional approach however is that each email client (on phones or other machines) has to be individually configured.&lt;/p&gt;&#xA;&lt;p&gt;I was tinkering with &lt;a href=&#34;https://pep.software/about/&#34;&gt;Pretty Easy Privacy[PEP]&lt;/a&gt; the other day. They&amp;rsquo;ve further simplified the &amp;lsquo;Trust yet verify&amp;rsquo; stage a bit more by essentially auto-verifying if a recipient responds to your message and &lt;a href=&#34;https://www.pep.security/docs/general_information.html#the-pp-concept&#34;&gt;simplified the manual key exchange&lt;/a&gt;.  And then with apps for both iOS and android, plug-ins for Outlook and Thunderbird - There&amp;rsquo;s no reason not to have this setup.&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

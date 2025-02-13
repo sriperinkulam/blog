@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Obs-Studio on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/tags/obs-studio/index.xml</link>
+    <link>https://srikanthperinkulam.com/tags/obs-studio/index.xml</link>
     <description>Recent content in Obs-Studio on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 04 Apr 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/obs-studio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/tags/obs-studio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Screenshare using Signal</title>
-      <link>http://localhost:1313/2021/04/04/screenshare-using-signal/</link>
+      <link>https://srikanthperinkulam.com/2021/04/04/screenshare-using-signal/</link>
       <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2021/04/04/screenshare-using-signal/</guid>
+      <guid>https://srikanthperinkulam.com/2021/04/04/screenshare-using-signal/</guid>
       <description>&lt;p&gt;I was tweaking my &lt;a href=&#34;https://obsproject.com/&#34;&gt;OBS Studio&lt;/a&gt; settings earlier this morning and &lt;a href=&#34;https://obsproject.com/wiki/install-instructions#ubuntumint-installation&#34;&gt;noticed I could install a virtual camera&lt;/a&gt; on my machine. Once this add-on is installed and activated, it essentially exposes OBS studio &amp;lsquo;scenes&amp;rsquo; as an input that any conferencing software could use instead of the webcam feed. This effectively translates to sharing your screen with other participants on the conference call!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/OBS-Screenshot-1200x675.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Ever since I deleted my whatsapp account and &lt;a href=&#34;https://srikanthperinkulam.com/2021/01/10/digital-reset/&#34;&gt;moved over to using Signal&lt;/a&gt; as my primary communication tool, this is one feature I wish the Signal app had. And now, I could use this neat little trick not just with Signal but any conferencing app that doesn&amp;rsquo;t let me share my screen in their free-tier!&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

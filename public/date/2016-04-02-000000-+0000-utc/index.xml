@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2016-04-02 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2016-04-02-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2016-04-02-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2016-04-02 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 02 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2016-04-02-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2016-04-02-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shrink - Radiolab</title>
-      <link>http://localhost:1313/2016/04/02/shrink-radiolab/</link>
+      <link>https://srikanthperinkulam.com/2016/04/02/shrink-radiolab/</link>
       <pubDate>Sat, 02 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2016/04/02/shrink-radiolab/</guid>
+      <guid>https://srikanthperinkulam.com/2016/04/02/shrink-radiolab/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.radiolab.org/story/shrink/&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/virus.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The definition of life is in flux, complexity is overrated, and humans are shrinking.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://www.radiolab.org/story/shrink/&#34;&gt;Shrink - Radiolab&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

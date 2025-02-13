@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Garmin on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/tags/garmin/index.xml</link>
+    <link>https://srikanthperinkulam.com/tags/garmin/index.xml</link>
     <description>Recent content in Garmin on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 22 Nov 2024 21:30:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/garmin/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/tags/garmin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Garmin Ported</title>
-      <link>http://localhost:1313/2024/11/22/garmin-ported/</link>
+      <link>https://srikanthperinkulam.com/2024/11/22/garmin-ported/</link>
       <pubDate>Fri, 22 Nov 2024 21:30:00 -0500</pubDate>
-      <guid>http://localhost:1313/2024/11/22/garmin-ported/</guid>
+      <guid>https://srikanthperinkulam.com/2024/11/22/garmin-ported/</guid>
       <description>&lt;p&gt;Spent a good few hours yesterday and ported my garmin data over to this site &lt;a href=&#34;https://srikanthperinkulam.com/garmin/&#34;&gt;here&lt;/a&gt;. It&amp;rsquo;s turned out better than my wordpress plugin and is way simpler to manage. I&amp;rsquo;ve still got quite a few tweaks to do but I&amp;rsquo;m super happy with how this has turned out!&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Garmin</title>
-      <link>http://localhost:1313/2022/02/06/garmin/</link>
+      <link>https://srikanthperinkulam.com/2022/02/06/garmin/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2022/02/06/garmin/</guid>
+      <guid>https://srikanthperinkulam.com/2022/02/06/garmin/</guid>
       <description>&lt;p&gt;As I slowly get back into running, I realized my &lt;a href=&#34;https://srikanthperinkulam.com/2021/05/30/owning-my-garmin-data/&#34;&gt;garmin plugin&lt;/a&gt; had a minor bug. When I built this last year, I had inadvertently hard-coded the years field in the &lt;a href=&#34;https://srikanthperinkulam.com/garmin-stats/&#34;&gt;summary&lt;/a&gt; and the totals for the current year where obviously messed up. For now I&amp;rsquo;ve patched it with a quick-fix. Will have to automate it when I have a bit more time and I think I already know what needs to be done.&lt;/p&gt;&#xA;&lt;p&gt;On that note, I also chanced upon &lt;a href=&#34;https://www.andersle.no/posts/2018/gpxplot/gpxplot.html&#34;&gt;Anders&lt;/a&gt;&amp;rsquo; terrific &lt;a href=&#34;https://github.com/andersle/gpxplotter&#34;&gt;gpxplotter&lt;/a&gt;. With slight modifications I should be able to generate neat map tiles from the GPX files and incorporate it my plugin. Project for another day but I am pretty excited about this!&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>May 11, 2021 19:19</title>
-      <link>http://localhost:1313/2021/05/11/may-11-2021-1919/</link>
+      <link>https://srikanthperinkulam.com/2021/05/11/may-11-2021-1919/</link>
       <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2021/05/11/may-11-2021-1919/</guid>
+      <guid>https://srikanthperinkulam.com/2021/05/11/may-11-2021-1919/</guid>
       <description>&lt;p&gt;Tweaked this setup further to make it a bit more seamless. I used a different but more reliable script to fetch the activity json files and setup a cron job to run twice every week. Next-up: 01. Make the parsing and data display theme agnostic. 02. Add a quick link to publish individual activities as posts if required 03. Build some cool charts :)&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>May 7, 2021 14:31</title>
-      <link>http://localhost:1313/2021/05/08/may-7-2021-1431/</link>
+      <link>https://srikanthperinkulam.com/2021/05/08/may-7-2021-1431/</link>
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2021/05/08/may-7-2021-1431/</guid>
+      <guid>https://srikanthperinkulam.com/2021/05/08/may-7-2021-1431/</guid>
       <description>&lt;p&gt;Earlier this week, I came across this &lt;a href=&#34;https://pypi.org/project/garminexport/&#34;&gt;nifty python tool&lt;/a&gt; that lets you backup all your garmin data from the Garmin-Connect platform. I wrote a crude WordPress plugin to parse the json files over and display the data on my website &lt;a href=&#34;https://srikanthperinkulam.com/garmin-stats/&#34;&gt;here&lt;/a&gt;. The tool is kind of unstable because it essentially &amp;lsquo;mimics&amp;rsquo; a regular Garmin-connect login and download. Also probably the reason why there aren&amp;rsquo;t many functional plugins for Garmin on wordpress.&lt;/p&gt;&#xA;&lt;p&gt;Should be reasonably straightforward to automate this with a cron job once I sort out the connection issues with Garmin. Also for now, I&amp;rsquo;m just posting all the activities to a single page. Might be interesting to create short posts for new activities and obviously filter them out from the RSS Feeds. Love these teeny tiny coding projects!&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

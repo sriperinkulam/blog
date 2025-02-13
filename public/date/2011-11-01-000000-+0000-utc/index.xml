@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2011-11-01 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2011-11-01-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2011-11-01-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2011-11-01 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 01 Nov 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2011-11-01-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2011-11-01-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Energy</title>
-      <link>http://localhost:1313/2011/11/01/energy/</link>
+      <link>https://srikanthperinkulam.com/2011/11/01/energy/</link>
       <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2011/11/01/energy/</guid>
+      <guid>https://srikanthperinkulam.com/2011/11/01/energy/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;Energy.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Midway to the Supreme Showcase</title>
-      <link>http://localhost:1313/2011/11/01/midway-to-the-supreme-showcase/</link>
+      <link>https://srikanthperinkulam.com/2011/11/01/midway-to-the-supreme-showcase/</link>
       <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2011/11/01/midway-to-the-supreme-showcase/</guid>
+      <guid>https://srikanthperinkulam.com/2011/11/01/midway-to-the-supreme-showcase/</guid>
       <description>&lt;p&gt;This is it. We now have the data. We now have the proof. Two more units and we should be all set to perform in front of an audience 15000 strong. &lt;strong&gt;&lt;a href=&#34;http://theepiphanydynasty.wordpress.com/projects/unit-wise-projects/unit-iii-projects/&#34; title=&#34;Unit 3 Projects&#34;&gt;THIS&lt;/a&gt;&lt;/strong&gt; is the tipping point.&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Tokens</title>
-      <link>http://localhost:1313/2011/11/01/tokens/</link>
+      <link>https://srikanthperinkulam.com/2011/11/01/tokens/</link>
       <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2011/11/01/tokens/</guid>
+      <guid>https://srikanthperinkulam.com/2011/11/01/tokens/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;Tokens.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

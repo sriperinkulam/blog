@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tinkering on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/tags/tinkering/index.xml</link>
+    <link>https://srikanthperinkulam.com/tags/tinkering/index.xml</link>
     <description>Recent content in Tinkering on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 13 Jul 2024 13:49:36 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/tinkering/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/tags/tinkering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>projects</title>
-      <link>http://localhost:1313/2024/07/13/projects/</link>
+      <link>https://srikanthperinkulam.com/2024/07/13/projects/</link>
       <pubDate>Sat, 13 Jul 2024 13:49:36 -0600</pubDate>
-      <guid>http://localhost:1313/2024/07/13/projects/</guid>
+      <guid>https://srikanthperinkulam.com/2024/07/13/projects/</guid>
       <description>&lt;p&gt;The pains and joys of self-hosting and tinkering. There’s always something that is broken, ready to be fixed, to be upgraded, can be built upon or changed. It is like a puzzle that constantly evolves depending on the time you invest in it. And every once in a while it exposes the silver lining that keeps you hooked to it.&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Tasmota</title>
-      <link>http://localhost:1313/2024/06/08/tasmota/</link>
+      <link>https://srikanthperinkulam.com/2024/06/08/tasmota/</link>
       <pubDate>Sat, 08 Jun 2024 21:15:00 -0600</pubDate>
-      <guid>http://localhost:1313/2024/06/08/tasmota/</guid>
+      <guid>https://srikanthperinkulam.com/2024/06/08/tasmota/</guid>
       <description>&lt;p&gt;Wanting to have more control on the &lt;a href=&#34;http://0.0.0.0:8123/2024/05/23/digital-photo-frame/&#34;&gt;Digital Photo Frame&lt;/a&gt; that I setup a few days ago, I ordered a few &lt;a href=&#34;https://sonoff.tech/product/smart-plugs/s31-s31lite/&#34;&gt;Sonoff smart plugs&lt;/a&gt;. Right after I ordered them I realised I could actually flash Tasmota on them to keep them cloud-free. Ordered a couple FTDI USB adapters to flash Tasmota on them. Time to dust off that soldering gun!&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

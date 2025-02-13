@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2021-04-22 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2021-04-22-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2021-04-22-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2021-04-22 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2021-04-22-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2021-04-22-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>April 22, 2021 06:22</title>
-      <link>http://localhost:1313/2021/04/22/april-22-2021-0622/</link>
+      <link>https://srikanthperinkulam.com/2021/04/22/april-22-2021-0622/</link>
       <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2021/04/22/april-22-2021-0622/</guid>
+      <guid>https://srikanthperinkulam.com/2021/04/22/april-22-2021-0622/</guid>
       <description>&lt;p&gt;Whoa..using Matrix as a commenting system! Quite an intriguing implementation.&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Tonic Immobility</title>
-      <link>http://localhost:1313/2021/04/22/tonic-immobility/</link>
+      <link>https://srikanthperinkulam.com/2021/04/22/tonic-immobility/</link>
       <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2021/04/22/tonic-immobility/</guid>
+      <guid>https://srikanthperinkulam.com/2021/04/22/tonic-immobility/</guid>
       <description>&lt;p&gt;Overheard at NatGeo recently produced a great podcast on Orcas and I learnt about &lt;a href=&#34;https://www.sharktrust.org/tonic-immobility&#34;&gt;Tonic Immobility&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Shasta was watching &lt;a href=&#34;http://www.octonauts.com/&#34;&gt;Octonauts&lt;/a&gt; and guess which episode she ends up watching? - The one in which they talk about TI. Now that&amp;rsquo;s some coincidence!&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

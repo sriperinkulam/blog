@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2013-04-04 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2013-04-04-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2013-04-04-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2013-04-04 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 04 Apr 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2013-04-04-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2013-04-04-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Abstract probability</title>
-      <link>http://localhost:1313/2013/04/04/abstract-probability/</link>
+      <link>https://srikanthperinkulam.com/2013/04/04/abstract-probability/</link>
       <pubDate>Thu, 04 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2013/04/04/abstract-probability/</guid>
+      <guid>https://srikanthperinkulam.com/2013/04/04/abstract-probability/</guid>
       <description>&lt;p&gt;![](Abstract probability.jpg)&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>After a long time...</title>
-      <link>http://localhost:1313/2013/04/04/after-a-long-time.../</link>
+      <link>https://srikanthperinkulam.com/2013/04/04/after-a-long-time.../</link>
       <pubDate>Thu, 04 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2013/04/04/after-a-long-time.../</guid>
+      <guid>https://srikanthperinkulam.com/2013/04/04/after-a-long-time.../</guid>
       <description>&lt;p&gt;![](After a long time&amp;hellip;.jpg)&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

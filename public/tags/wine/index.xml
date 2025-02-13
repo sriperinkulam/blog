@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wine on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/tags/wine/index.xml</link>
+    <link>https://srikanthperinkulam.com/tags/wine/index.xml</link>
     <description>Recent content in Wine on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/wine/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/tags/wine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Drink Wine</title>
-      <link>http://localhost:1313/2017/04/01/how-to-drink-wine/</link>
+      <link>https://srikanthperinkulam.com/2017/04/01/how-to-drink-wine/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/04/01/how-to-drink-wine/</guid>
+      <guid>https://srikanthperinkulam.com/2017/04/01/how-to-drink-wine/</guid>
       <description>&lt;p&gt;Wine is pleasure and conviviality, it is culture and it makes food taste better. But wine can also be intimidating. This guide takes the anxiety out of shopping, buying and drinking wine.&lt;/p&gt;&#xA;&lt;p&gt;Source: &lt;a href=&#34;https://cooking.nytimes.com/guides/41-how-to-drink-wine&#34;&gt;How to Drink Wine&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://cooking.nytimes.com/guides/41-how-to-drink-wine&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

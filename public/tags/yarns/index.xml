@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yarns on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/tags/yarns/index.xml</link>
+    <link>https://srikanthperinkulam.com/tags/yarns/index.xml</link>
     <description>Recent content in Yarns on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/yarns/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/tags/yarns/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>April 30, 2021 18:07</title>
-      <link>http://localhost:1313/2021/04/30/april-30-2021-1807/</link>
+      <link>https://srikanthperinkulam.com/2021/04/30/april-30-2021-1807/</link>
       <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2021/04/30/april-30-2021-1807/</guid>
+      <guid>https://srikanthperinkulam.com/2021/04/30/april-30-2021-1807/</guid>
       <description>&lt;p&gt;Switched over to consuming Twitter via RSS feeds. For now I am using Yarns on WP to collect the feeds and the Indigenous app / Monocle-web social reader to read/interact with tweets. With this setup, I get to stay clear of the tracking and ads [Last time I checked uBlock Origin blocked 90 trackers/ads in 3 minutes!] and more importantly use my website as the primary place where I post. While I am not quite active on twitter, this should be a great go-between to reconnect with folks who use it for their primary digital presence.&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

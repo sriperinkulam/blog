@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2022-02-07 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2022-02-07-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2022-02-07-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2022-02-07 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 07 Feb 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2022-02-07-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2022-02-07-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>February 7, 2022 06:25</title>
-      <link>http://localhost:1313/2022/02/07/february-7-2022-0625/</link>
+      <link>https://srikanthperinkulam.com/2022/02/07/february-7-2022-0625/</link>
       <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2022/02/07/february-7-2022-0625/</guid>
+      <guid>https://srikanthperinkulam.com/2022/02/07/february-7-2022-0625/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://micro.blog/Alligator&#34;&gt;@Alligator&lt;/a&gt; &lt;a href=&#34;https://www.blender.org/&#34;&gt;Blender&lt;/a&gt; should be able to handle something like this.&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2009-03-15 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2009-03-15-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2009-03-15-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2009-03-15 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 15 Mar 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2009-03-15-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2009-03-15-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What I Talk About When I Talk About Running</title>
-      <link>http://localhost:1313/book-note/what-i-talk-about-when-i-talk-about-running/</link>
+      <link>https://srikanthperinkulam.com/book-note/what-i-talk-about-when-i-talk-about-running/</link>
       <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/book-note/what-i-talk-about-when-i-talk-about-running/</guid>
+      <guid>https://srikanthperinkulam.com/book-note/what-i-talk-about-when-i-talk-about-running/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/What-I-talk-about-when-I-talk-about-running-193x300.jpg&#34; alt=&#34;What I talk about when I talk about running&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

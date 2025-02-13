@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2021-05-28 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2021-05-28-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2021-05-28-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2021-05-28 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2021-05-28-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2021-05-28-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>May 28, 2021 20:16</title>
-      <link>http://localhost:1313/2021/05/28/may-28-2021-2016/</link>
+      <link>https://srikanthperinkulam.com/2021/05/28/may-28-2021-2016/</link>
       <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2021/05/28/may-28-2021-2016/</guid>
+      <guid>https://srikanthperinkulam.com/2021/05/28/may-28-2021-2016/</guid>
       <description>&lt;p&gt;It just struck me today how much I love writing crude, rewarding code. The type that is just sufficient to get the job done and that which &amp;lsquo;scratches your itch&amp;rsquo; and might probably be useful for someone else too.&lt;/p&gt;&#xA;&lt;p&gt;I am not a software developer. Never been one. My day job is far, far from it. It&amp;rsquo;s been more than a decade that I&amp;rsquo;ve worked in a software firm. And even when I did, a good bunch of my time then was spent of mainframe code [Rexx / JCL] and Change Management.&lt;/p&gt;&#xA;&lt;p&gt;All code that I write today is self-taught. Which is probably why it&amp;rsquo;s crude? But beautiful it is, because it challenges me to think of logic first and semantics next. It pushes me to find the quickest way possible because I know exactly what I want it to do. And most importantly it keeps my mind fired and active!&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

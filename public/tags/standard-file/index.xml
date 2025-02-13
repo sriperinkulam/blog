@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Standard-File on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/tags/standard-file/index.xml</link>
+    <link>https://srikanthperinkulam.com/tags/standard-file/index.xml</link>
     <description>Recent content in Standard-File on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 06 Apr 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/standard-file/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/tags/standard-file/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Standard File - your data home forever.</title>
-      <link>http://localhost:1313/2017/04/06/standard-file-your-data-home-forever./</link>
+      <link>https://srikanthperinkulam.com/2017/04/06/standard-file-your-data-home-forever./</link>
       <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/04/06/standard-file-your-data-home-forever./</guid>
+      <guid>https://srikanthperinkulam.com/2017/04/06/standard-file-your-data-home-forever./</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Standard File is one account for every human. This account can store almost any data type, and supports strong encryption and privacy by default.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;https://standardfile.org/&#34;&gt;Standard File - your data home forever.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

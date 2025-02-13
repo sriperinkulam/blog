@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2025-01-24 21:30:00 -0500 -0500 on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2025-01-24-213000--0500--0500/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2025-01-24-213000--0500--0500/index.xml</link>
     <description>Recent content in 2025-01-24 21:30:00 -0500 -0500 on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 24 Jan 2025 21:30:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2025-01-24-213000--0500--0500/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2025-01-24-213000--0500--0500/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mapping GPX</title>
-      <link>http://localhost:1313/2025/01/24/mapping-gpx/</link>
+      <link>https://srikanthperinkulam.com/2025/01/24/mapping-gpx/</link>
       <pubDate>Fri, 24 Jan 2025 21:30:00 -0500</pubDate>
-      <guid>http://localhost:1313/2025/01/24/mapping-gpx/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/GPXmapping.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Took me a bit but I finally got a decent handle on displaying the gpx summary on the gpx map. Still a bunch of tweaks to make this look better but super happy with how this is shaping. &lt;a href=&#34;http://localhost:1313/2025/01/24/mapping-gpx/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;</description>
+      <guid>https://srikanthperinkulam.com/2025/01/24/mapping-gpx/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/GPXmapping.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Took me a bit but I finally got a decent handle on displaying the gpx summary on the gpx map. Still a bunch of tweaks to make this look better but super happy with how this is shaping. &lt;a href=&#34;https://srikanthperinkulam.com/2025/01/24/mapping-gpx/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;</description>
     </item>
   </channel>
 </rss>

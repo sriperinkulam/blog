@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2017-05-16 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2017-05-16-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2017-05-16-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2017-05-16 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 16 May 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2017-05-16-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2017-05-16-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Https</title>
-      <link>http://localhost:1313/2017/05/16/https/</link>
+      <link>https://srikanthperinkulam.com/2017/05/16/https/</link>
       <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/05/16/https/</guid>
+      <guid>https://srikanthperinkulam.com/2017/05/16/https/</guid>
       <description>&lt;p&gt;LetsEncrypt makes you feel you&amp;rsquo;re doing highly technical stuff, yet makes it so simple to install certificates. I&amp;rsquo;d defer auto-renewals just to get to the meat every 90 days!&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

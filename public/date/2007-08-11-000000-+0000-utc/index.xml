@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2007-08-11 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2007-08-11-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2007-08-11-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2007-08-11 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 11 Aug 2007 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2007-08-11-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2007-08-11-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coding...</title>
-      <link>http://localhost:1313/2007/08/11/coding.../</link>
+      <link>https://srikanthperinkulam.com/2007/08/11/coding.../</link>
       <pubDate>Sat, 11 Aug 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2007/08/11/coding.../</guid>
+      <guid>https://srikanthperinkulam.com/2007/08/11/coding.../</guid>
       <description>&lt;p&gt;It&amp;rsquo;s about 7:00 pm now on a saturday evening. Got to submit a demo project which carries a bulk of my grading weightage. Sitting right here for the past 10 hrs. There&amp;rsquo;s a lot of coding still left to be done and here I am sulking to the lowest possible position on my seat and banging the keyboard typing this stuff.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been trying to find that silly dumb bug that I&amp;rsquo;ve incorporated in my code unknowingly, for the past three hours and still I see no light anywhere. Everything seems perfect, but still things don&amp;rsquo;t work the way I want them to work! The Pointer gets referenced haphazardly, the loop jerks out in a wierd fashion, the output screen beeps but still does nothing much such that I can claim to have surpassed an error. Logical errors&amp;hellip;Link errors &amp;hellip;Grrr!!&lt;/p&gt;&#xA;&lt;p&gt;Wish things were better! :(&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

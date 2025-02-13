@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2017-06-09 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2017-06-09-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2017-06-09-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2017-06-09 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 09 Jun 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2017-06-09-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2017-06-09-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/2017/06/09/</link>
+      <link>https://srikanthperinkulam.com/2017/06/09/</link>
       <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/06/09/</guid>
+      <guid>https://srikanthperinkulam.com/2017/06/09/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA; &lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Liked: &lt;a href=&#34;http://andysylvester.com/2014/03/01/howto-setting-up-the-selfoss-feed-reader-with-microformats-support/&#34;&gt;HOWTO – Setting up the Selfoss Feed Reader with microformats support&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;This post will show how to install the Selfoss feed reader with Aaron Parecki’s additions to support reading weblogs and websites that include support for microformats. This post assumes that you have a hosting account with PHP support.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;</description>
     </item>
     <item>
       <title>Reality Part One</title>
-      <link>http://localhost:1313/2017/06/09/reality-part-one/</link>
+      <link>https://srikanthperinkulam.com/2017/06/09/reality-part-one/</link>
       <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/06/09/reality-part-one/</guid>
+      <guid>https://srikanthperinkulam.com/2017/06/09/reality-part-one/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA; &lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This one totally flipped my view of bears! While I&amp;rsquo;ll still stand by &amp;rsquo;everything in moderation&amp;rsquo;, I now have this urge to head to Eagles nest to experience that contact! Right now!&lt;/p&gt;&#xA;&lt;p&gt;Podcast: &lt;a href=&#34;https://overcast.fm/+D88J2RpwE&#34;&gt;Reality Part One&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;How is it that two neighbors can look out their window at the exact same thing, and see something completely different? This is a question many people in America are asking now. We explore it by visiting a small community in Minnesota, called Eagle’s Nest Township, that has a unique experience with the reality divide: some of the people in the town believe that wild black bears are gentle animals you can feed with your hands, and others think they are dangerous killers.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;</description>
     </item>
     <item>
       <title>webmentions</title>
-      <link>http://localhost:1313/2017/06/09/webmentions/</link>
+      <link>https://srikanthperinkulam.com/2017/06/09/webmentions/</link>
       <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/06/09/webmentions/</guid>
+      <guid>https://srikanthperinkulam.com/2017/06/09/webmentions/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA; &lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Need to figure out why certain #webmentions from my site are being sent as anonymous. Adding that to my ever expanding list of to-do&amp;rsquo;s.&lt;/p&gt;&#xA;&lt;p&gt;Since I started tweaking my portal and started getting deeper into the code, there&amp;rsquo;s been a constant fire in my brain to further tweak and tinker with things. This is addictive!&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

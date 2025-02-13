@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2024-11-01 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2024-11-01-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2024-11-01-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2024-11-01 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2024-11-01-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2024-11-01-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Archive</title>
-      <link>http://localhost:1313/archives/</link>
+      <link>https://srikanthperinkulam.com/archives/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/archives/</guid>
+      <guid>https://srikanthperinkulam.com/archives/</guid>
       <description></description>
     </item>
     <item>
       <title>Garmin</title>
-      <link>http://localhost:1313/garmin/</link>
+      <link>https://srikanthperinkulam.com/garmin/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/garmin/</guid>
+      <guid>https://srikanthperinkulam.com/garmin/</guid>
       <description></description>
     </item>
     <item>
       <title>Micro Posts</title>
-      <link>http://localhost:1313/micro/</link>
+      <link>https://srikanthperinkulam.com/micro/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/micro/</guid>
+      <guid>https://srikanthperinkulam.com/micro/</guid>
       <description></description>
     </item>
     <item>
       <title>Photos</title>
-      <link>http://localhost:1313/photos/</link>
+      <link>https://srikanthperinkulam.com/photos/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/</guid>
+      <guid>https://srikanthperinkulam.com/photos/</guid>
       <description></description>
     </item>
     <item>
       <title>Running on Hugo</title>
-      <link>http://localhost:1313/2024/11/01/running-on-hugo/</link>
+      <link>https://srikanthperinkulam.com/2024/11/01/running-on-hugo/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2024/11/01/running-on-hugo/</guid>
+      <guid>https://srikanthperinkulam.com/2024/11/01/running-on-hugo/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://srikanthperinkulam.com/posts/2024/10/crisp-new-start/&#34;&gt;That&lt;/a&gt;  didn&amp;rsquo;t last long. Moved over to Hugo from WriteFreely for a bit more flexibility. This site is going through some major overhaul. Slowly and recklessly.&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Search</title>
-      <link>http://localhost:1313/search/</link>
+      <link>https://srikanthperinkulam.com/search/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/search/</guid>
+      <guid>https://srikanthperinkulam.com/search/</guid>
       <description></description>
     </item>
   </channel>

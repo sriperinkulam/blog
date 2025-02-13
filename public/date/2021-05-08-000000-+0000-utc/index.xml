@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2021-05-08 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2021-05-08-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2021-05-08-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2021-05-08 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 08 May 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2021-05-08-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2021-05-08-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>May 7, 2021 14:31</title>
-      <link>http://localhost:1313/2021/05/08/may-7-2021-1431/</link>
+      <link>https://srikanthperinkulam.com/2021/05/08/may-7-2021-1431/</link>
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2021/05/08/may-7-2021-1431/</guid>
+      <guid>https://srikanthperinkulam.com/2021/05/08/may-7-2021-1431/</guid>
       <description>&lt;p&gt;Earlier this week, I came across this &lt;a href=&#34;https://pypi.org/project/garminexport/&#34;&gt;nifty python tool&lt;/a&gt; that lets you backup all your garmin data from the Garmin-Connect platform. I wrote a crude WordPress plugin to parse the json files over and display the data on my website &lt;a href=&#34;https://srikanthperinkulam.com/garmin-stats/&#34;&gt;here&lt;/a&gt;. The tool is kind of unstable because it essentially &amp;lsquo;mimics&amp;rsquo; a regular Garmin-connect login and download. Also probably the reason why there aren&amp;rsquo;t many functional plugins for Garmin on wordpress.&lt;/p&gt;&#xA;&lt;p&gt;Should be reasonably straightforward to automate this with a cron job once I sort out the connection issues with Garmin. Also for now, I&amp;rsquo;m just posting all the activities to a single page. Might be interesting to create short posts for new activities and obviously filter them out from the RSS Feeds. Love these teeny tiny coding projects!&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>May 8, 2021 05:59</title>
-      <link>http://localhost:1313/2021/05/08/may-8-2021-0559/</link>
+      <link>https://srikanthperinkulam.com/2021/05/08/may-8-2021-0559/</link>
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2021/05/08/may-8-2021-0559/</guid>
+      <guid>https://srikanthperinkulam.com/2021/05/08/may-8-2021-0559/</guid>
       <description>&lt;p&gt;Your post did show up on my site as a mention though! Some day I need to sit and sort this out!&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>May 8, 2021 06:21</title>
-      <link>http://localhost:1313/2021/05/08/may-8-2021-0621/</link>
+      <link>https://srikanthperinkulam.com/2021/05/08/may-8-2021-0621/</link>
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2021/05/08/may-8-2021-0621/</guid>
+      <guid>https://srikanthperinkulam.com/2021/05/08/may-8-2021-0621/</guid>
       <description>&lt;p&gt;Ha! Interesting read. From her lens, she found a quicker path to financial independence :).&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

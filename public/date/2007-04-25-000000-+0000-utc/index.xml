@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2007-04-25 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2007-04-25-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2007-04-25-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2007-04-25 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 25 Apr 2007 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2007-04-25-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2007-04-25-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GParted</title>
-      <link>http://localhost:1313/2007/04/25/gparted/</link>
+      <link>https://srikanthperinkulam.com/2007/04/25/gparted/</link>
       <pubDate>Wed, 25 Apr 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2007/04/25/gparted/</guid>
+      <guid>https://srikanthperinkulam.com/2007/04/25/gparted/</guid>
       <description>&lt;p&gt;A few days back I was trying to edit my login screen in windows. Things really didn&amp;rsquo;t work out the way I wanted it to and the system was left in an unstable state.I always have a stripped down Win98 installed to have a quick Xp re-installation in case things don&amp;rsquo;t work out fine. I wanted to edit my partition table so as to allocate the memory space to serve my needs. I installed Partition magic in 98 and tried to edit the table directly. Everything works out fine and when partitioning is processed and the system restarts, I get into an endless loop of restarts , for no apparent reason. I just couldn&amp;rsquo;t get into any OS. This is when the Gparted came into the picture. I&amp;rsquo;d burnt a Gparted ISO sometime back last year just to see if it was worth relying upon. I never used it though. Fortunately, I was reminded of it by the failure of partition magic and I popped in the CD into the drive and rebooted the system. In moments I had my disk configured and freshly re-organised!!Kudos to the developers of GParted! :-)&lt;/p&gt;&#xA;&lt;p&gt;Gparted is a bootable disk and you can configure your hard disk right from the boot prompt. It gives you a fundoo linux GUI and is pretty cool and simple to work with. Here is the site where you have an elaborate illustration of Gparted and its  image download link. Time to Gpart!  :-)&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

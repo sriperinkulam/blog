@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2020-01-12 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2020-01-12-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2020-01-12-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2020-01-12 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2020-01-12-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2020-01-12-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Weeknote 02 - Snow mischief</title>
-      <link>http://localhost:1313/2020/01/12/weeknote-02-snow-mischief/</link>
+      <link>https://srikanthperinkulam.com/2020/01/12/weeknote-02-snow-mischief/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2020/01/12/weeknote-02-snow-mischief/</guid>
+      <guid>https://srikanthperinkulam.com/2020/01/12/weeknote-02-snow-mischief/</guid>
       <description>&lt;p&gt;&lt;em&gt;A glimpse of the past week and the few articles, podcasts, tools, videos and music that captivated my attention:&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Earlier this week I helped Sharath setup a nextcloud instance on the RaspberryPi 4 that we got him for Christmas. Installed the DietPi OS, moved the user data over to a 5TB WD disk and while at it also setup a pi-hole for the network.&lt;/p&gt;&#xA;&lt;p&gt;Weather wise, this was one odd week. Had a good dusting of snow on Tuesday night and a balmy 60 degrees for most of the weekend. The kids had early school closures and we made sure we hit the trails.&lt;/p&gt;&#xA;&lt;p&gt;Gone are the crawling days. Shasta has moved on to walking and she&amp;rsquo;s getting pretty good at it. Also her mischief quotient is raising by the day!&lt;/p&gt;&#xA;&lt;p&gt;Meena found an interesting course in Tufts and has applied for the 2020 Fall deadline. Fingers crossed that she makes it! Some other exciting developments through this week might take us back to Boston this spring.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Interesting podcasts this week:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The Indicator from Planet Money: The Skyrocketing Cost Of Air Ambulances&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://play.podtrac.com/npr-510325/edge1.pod.npr.org/anon.npr-mp3/npr/indicator/2020/01/20200103&#34;&gt;https://play.podtrac.com/npr-510325/edge1.pod.npr.org/anon.npr-mp3/npr/indicator/2020/01/20200103&lt;/a&gt;_indicator_200103_air_ambulances_final.mp3&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Interesting reads this week:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://outline.com/XDFmDn&#34;&gt;Welcome to New Hollywood&lt;/a&gt;: Netflix has absolutely taken over the digital market. Oddly they rely on AWS!&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.theguardian.com/lifeandstyle/2019/jun/04/why-parents-are-addicted-to-calpol&#34;&gt;Why parents are addicted to Calpol&lt;/a&gt;: So true! It struck me so starkly when we moved to the states several years back. It&amp;rsquo;s amazing how quickly my family pops in paracetamols without any second thoughts.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://outline.com/3FULea&#34;&gt;The Shadow Commander&lt;/a&gt;: Quite an interesting read on recent developments in Iran and it&amp;rsquo;s past.&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

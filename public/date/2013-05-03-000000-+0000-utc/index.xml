@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2013-05-03 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2013-05-03-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2013-05-03-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2013-05-03 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 03 May 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2013-05-03-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2013-05-03-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mystery town</title>
-      <link>http://localhost:1313/2013/05/03/mystery-town/</link>
+      <link>https://srikanthperinkulam.com/2013/05/03/mystery-town/</link>
       <pubDate>Fri, 03 May 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2013/05/03/mystery-town/</guid>
+      <guid>https://srikanthperinkulam.com/2013/05/03/mystery-town/</guid>
       <description>&lt;p&gt;![](Mystery town.jpg)&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>The call</title>
-      <link>http://localhost:1313/2013/05/03/the-call/</link>
+      <link>https://srikanthperinkulam.com/2013/05/03/the-call/</link>
       <pubDate>Fri, 03 May 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2013/05/03/the-call/</guid>
+      <guid>https://srikanthperinkulam.com/2013/05/03/the-call/</guid>
       <description>&lt;p&gt;![](The call.jpg)&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

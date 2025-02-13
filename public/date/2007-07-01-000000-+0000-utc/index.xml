@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2007-07-01 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2007-07-01-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2007-07-01-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2007-07-01 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 01 Jul 2007 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2007-07-01-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2007-07-01-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fedora 7</title>
-      <link>http://localhost:1313/2007/07/01/fedora-7/</link>
+      <link>https://srikanthperinkulam.com/2007/07/01/fedora-7/</link>
       <pubDate>Sun, 01 Jul 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2007/07/01/fedora-7/</guid>
+      <guid>https://srikanthperinkulam.com/2007/07/01/fedora-7/</guid>
       <description>&lt;p&gt;The OSS and Red Hat community have launched their latest OS. Parting from their age old nomenclature, they now prefer to call it Fedora 7 and not Fedora Core 7. It&amp;rsquo;s available for download &lt;a href=&#34;http://fedoraproject.org/get-fedora.html&#34; title=&#34;Here&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;For those of you people with access to snail paced connectivity to the internet, there&amp;rsquo;s a provision to request for a free DVD. The Community releases only 200 free DVD&amp;rsquo;s a month in a given region. So if you&amp;rsquo;re pretty much interested in having a DVD for yourself, act fast &lt;a href=&#34;http://fedoraproject.org/wiki/Distribution/FreeMedia&#34; title=&#34;Here&#34;&gt;here&lt;/a&gt;.The request form purportedly, is going to be available only at around 1pm July 2nd PST, so that&amp;rsquo;s around 1:30 am July 3rd IST.&lt;/p&gt;&#xA;&lt;p&gt;Unlike other free distributions, the package will be posted to your address from India, so it should reach you in a couple of days :-) . Eagerly looking forward to lay my hands on it !&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

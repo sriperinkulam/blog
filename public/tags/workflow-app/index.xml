@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workflow-App on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/tags/workflow-app/index.xml</link>
+    <link>https://srikanthperinkulam.com/tags/workflow-app/index.xml</link>
     <description>Recent content in Workflow-App on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 02 Jun 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/workflow-app/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/tags/workflow-app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Independence</title>
-      <link>http://localhost:1313/2017/06/02/independence/</link>
+      <link>https://srikanthperinkulam.com/2017/06/02/independence/</link>
       <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/06/02/independence/</guid>
+      <guid>https://srikanthperinkulam.com/2017/06/02/independence/</guid>
       <description>&lt;p&gt;As planned a &lt;a href=&#34;https://srikanthperinkulam.com/2017/05/26/tweaks-and-squeaks/&#34;&gt;few days&lt;/a&gt; back, I rewrote some back-end code to minimize the dependency on the workflow app and better integrate with direct desktop publishing. But for a  few isolated kinks, this should be set. This should now give me more flexibility to post from indie publishing platforms and set the stage for other enhancements.&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

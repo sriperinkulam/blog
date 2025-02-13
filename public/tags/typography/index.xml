@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Typography on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/tags/typography/index.xml</link>
+    <link>https://srikanthperinkulam.com/tags/typography/index.xml</link>
     <description>Recent content in Typography on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 21 May 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/typography/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/tags/typography/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Better Web Type</title>
-      <link>http://localhost:1313/2017/05/21/better-web-type/</link>
+      <link>https://srikanthperinkulam.com/2017/05/21/better-web-type/</link>
       <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/05/21/better-web-type/</guid>
+      <guid>https://srikanthperinkulam.com/2017/05/21/better-web-type/</guid>
       <description>&lt;p&gt;Web design is 95% typography, Oliver Reichenstein famously claimed. So web designers and front-end developers should all have typography skills. Skills that go beyond merely choosing fonts but actually contribute to producing readable, legible and inviting content online.&lt;/p&gt;&#xA;&lt;p&gt;Source: &lt;a href=&#34;https://betterwebtype.com/&#34;&gt;Better Web Type is an easy-to-follow web typography email course for web designers &amp;amp; web developers&lt;/a&gt;&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

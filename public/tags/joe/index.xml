@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joe on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/tags/joe/index.xml</link>
+    <link>https://srikanthperinkulam.com/tags/joe/index.xml</link>
     <description>Recent content in Joe on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 10 Sep 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/joe/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/tags/joe/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bookmark:Why Not.</title>
-      <link>http://localhost:1313/2017/09/10/bookmarkwhy-not./</link>
+      <link>https://srikanthperinkulam.com/2017/09/10/bookmarkwhy-not./</link>
       <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/09/10/bookmarkwhy-not./</guid>
+      <guid>https://srikanthperinkulam.com/2017/09/10/bookmarkwhy-not./</guid>
       <description>&lt;p&gt;This guys is such an inspiration! [embed]https://www.youtube.com/watch?v=x6xz_dN16so[/embed]&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

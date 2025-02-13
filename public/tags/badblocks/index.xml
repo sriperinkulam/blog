@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Badblocks on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/tags/badblocks/index.xml</link>
+    <link>https://srikanthperinkulam.com/tags/badblocks/index.xml</link>
     <description>Recent content in Badblocks on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/badblocks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/tags/badblocks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Encrypting drives</title>
-      <link>http://localhost:1313/2020/11/01/encrypting-drives/</link>
+      <link>https://srikanthperinkulam.com/2020/11/01/encrypting-drives/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2020/11/01/encrypting-drives/</guid>
+      <guid>https://srikanthperinkulam.com/2020/11/01/encrypting-drives/</guid>
       <description>&lt;p&gt;Earlier last week one of my external hard-disks went kaput. Though it&amp;rsquo;s fair to assume the recent travel could have led to this, my guess is that it was just a case of an ill-fated drive. While I did lose all the data on that drive, I thankfully had duplicate copies of the over 200GB data on other drives or machines. This is the first time that I&amp;rsquo;m losing a hard-drive and I&amp;rsquo;m so glad I was prudent enough to have multiple copies. All thanks to the folks over at Backblaze who frequently &lt;a href=&#34;https://www.backblaze.com/blog/category/cloud-storage/hard-drive-stats/&#34;&gt;publish hard-drive failure statistics&lt;/a&gt; on their stock!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/20201017_100233-1200x1200.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Now, losing that data got me thinking if I was really wise in just storing that data naked without any encryption. If I did want to claim the warranty on the drive, I will have to send over the hard-drive to Seagate. I am just not comfortable sending it over now since technically, most if not all of it, can be forensically retrieved. On that thought while researching on possible encryption tools, I landed on &lt;a href=&#34;https://www.veracrypt.fr/&#34;&gt;VeraCrypt&lt;/a&gt;. I instantly formatted my backup drives, setup an encrypted container and pointed my selfhosted Nextcloud installation to that virtual &amp;lsquo;drive&amp;rsquo;. The initial formatting does take time since VeraCrypt replaces data bit-by-bit and creates a clean slate. Once that is done, decrypting the data is just a matter of seconds. While at it, I also subjected all my other hard-drives to &lt;a href=&#34;https://en.wikipedia.org/wiki/S.M.A.R.T.&#34;&gt;SMART&lt;/a&gt; tests and &lt;a href=&#34;https://en.wikipedia.org/wiki/Badblocks&#34;&gt;badblock&lt;/a&gt; tests to make sure they were following suit!&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s been about two weeks and I am super impressed with the ease and functionality of Veracrypt. It definitely is an additional step in the workflow. However, as they say - Privacy comes at a cost and I am willing to go that extra mile for an overall peace of mind.&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2020-12-21 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2020-12-21-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2020-12-21-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2020-12-21 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2020-12-21-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2020-12-21-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux and Bash 101</title>
-      <link>http://localhost:1313/2020/12/21/linux-and-bash-101/</link>
+      <link>https://srikanthperinkulam.com/2020/12/21/linux-and-bash-101/</link>
       <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2020/12/21/linux-and-bash-101/</guid>
+      <guid>https://srikanthperinkulam.com/2020/12/21/linux-and-bash-101/</guid>
       <description>&lt;p&gt;This is a terrific intro to all things linux and the terminal. Something I wish I&amp;rsquo;d come across when I was learning the ropes several years ago. I&amp;rsquo;d almost forgotten about &lt;code&gt;alias&lt;/code&gt;!&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

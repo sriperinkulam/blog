@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publishing on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/tags/publishing/index.xml</link>
+    <link>https://srikanthperinkulam.com/tags/publishing/index.xml</link>
     <description>Recent content in Publishing on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 11 Apr 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/publishing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/tags/publishing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PressBooks</title>
-      <link>http://localhost:1313/2017/04/11/pressbooks/</link>
+      <link>https://srikanthperinkulam.com/2017/04/11/pressbooks/</link>
       <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/04/11/pressbooks/</guid>
+      <guid>https://srikanthperinkulam.com/2017/04/11/pressbooks/</guid>
       <description>&lt;p&gt;Came across a really interesting open source book publishing platform - Pressbooks. Appa&amp;rsquo;s book dream is so much more closer! Adding that to my list of personal projects.&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

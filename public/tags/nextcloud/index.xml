@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nextcloud on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/tags/nextcloud/index.xml</link>
+    <link>https://srikanthperinkulam.com/tags/nextcloud/index.xml</link>
     <description>Recent content in Nextcloud on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 17 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/nextcloud/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/tags/nextcloud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NextcloudPi</title>
-      <link>http://localhost:1313/2024/05/17/nextcloudpi/</link>
+      <link>https://srikanthperinkulam.com/2024/05/17/nextcloudpi/</link>
       <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2024/05/17/nextcloudpi/</guid>
+      <guid>https://srikanthperinkulam.com/2024/05/17/nextcloudpi/</guid>
       <description>&lt;p&gt;Last weekend I got a bit cocky and decided to upgrade the distro on the NextcloudPi. The upgrade seemed to go well until it threw a PHP error which got me going in circles. In hindsight, I&amp;rsquo;d setup automatic upgrades on NextcloudPi and Nextcloud, which seems to have conflicted with the actual distribution&amp;rsquo;s update. Now I did take a backup, but that didn&amp;rsquo;t quite sit well with the now upgraded system and the myriad PHP issues.&lt;/p&gt;&#xA;&lt;p&gt;Had enough of the band-aid fixes and decided to migrate the nextcloud server to a laptop that was just lying around unused. Decided to stick with the &lt;a href=&#34;https://github.com/nextcloud/nextcloudpi/&#34;&gt;NexcloudPi OS&lt;/a&gt; since it has served me super awesome over the last seven years. I did make sure the auto upgrades were disabled though! Also RSync is awesome!&lt;/p&gt;&#xA;&lt;p&gt;An added  bonus is that I now have a spare RPi3 to tinker with! Not quite &lt;a href=&#34;https://srikanthperinkulam.com/2024/04/14/pico-de-aguila/&#34;&gt;dumbing down&lt;/a&gt;, am I?&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>3-2-1 Backup</title>
-      <link>http://localhost:1313/2021/11/29/3-2-1-backup/</link>
+      <link>https://srikanthperinkulam.com/2021/11/29/3-2-1-backup/</link>
       <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2021/11/29/3-2-1-backup/</guid>
+      <guid>https://srikanthperinkulam.com/2021/11/29/3-2-1-backup/</guid>
       <description>&lt;p&gt;Ouch! After a &lt;a href=&#34;https://srikanthperinkulam.com/2021/06/13/maps-and-files/&#34;&gt;good&lt;/a&gt; &lt;a href=&#34;https://srikanthperinkulam.com/2021/04/19/april-19-2021-2342/&#34;&gt;couple&lt;/a&gt; years of unhindered access, I&amp;rsquo;ve lost (remote) access to my RPI server. I&amp;rsquo;m guessing an auto upgrade might have disabled wireguard or flushed the  ip table rules. I should have had a secondary connection to the remote network since I did anticipate this happening sometime! Well, until I have physical access to the server, I&amp;rsquo;ll have to bank on my cold flash drive backups! So glad I have multiple accessible copies of the data files!&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Network auto-latch</title>
-      <link>http://localhost:1313/2019/10/25/network-auto-latch/</link>
+      <link>https://srikanthperinkulam.com/2019/10/25/network-auto-latch/</link>
       <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2019/10/25/network-auto-latch/</guid>
+      <guid>https://srikanthperinkulam.com/2019/10/25/network-auto-latch/</guid>
       <description>&lt;p&gt;I realised the raspberry pi that hosts my &lt;a href=&#34;https://srikanthperinkulam.com/?s=nextcloud&#34;&gt;nextcloud setup&lt;/a&gt; wasn&amp;rsquo;t quite latching back on to the network if the router was turned off or if the internet was sketchy. Was a pain to hard boot the device manually to reset it. Decided to write a short script to reset the network connection when it noticed something was off.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&#xA;ping -c4 192.168.0.1 &amp;gt; /dev/null&#xA;if [ $? != 0 ] &#xA;then&#xA;  echo &amp;#34;SOS..Restarting eth0 for network latch&amp;#34;&#xA;  /sbin/ifdown &amp;#39;eth0&amp;#39;&#xA;  sleep 5&#xA;  /sbin/ifup --force &amp;#39;eth0&amp;#39;&#xA;fi&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;A chron job runs every 10 minutes to take pulse of the network, runs the above code and picks up connectivity without manual intervention!&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

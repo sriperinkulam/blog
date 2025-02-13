@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2019-09-15 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2019-09-15-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2019-09-15-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2019-09-15 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 15 Sep 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2019-09-15-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2019-09-15-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kovalam Bike ride</title>
-      <link>http://localhost:1313/2019/09/15/kovalam-bike-ride/</link>
+      <link>https://srikanthperinkulam.com/2019/09/15/kovalam-bike-ride/</link>
       <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2019/09/15/kovalam-bike-ride/</guid>
+      <guid>https://srikanthperinkulam.com/2019/09/15/kovalam-bike-ride/</guid>
       <description>&lt;p&gt;Good to be back on the saddle after a while! ~50km ride to Kovalam and back on a very relaxed pace with folks from TFI Chennai.&lt;/p&gt;&#xA;&lt;p&gt;If only chennai had some better weather!&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

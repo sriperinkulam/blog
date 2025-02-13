@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2016-06-04 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2016-06-04-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2016-06-04-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2016-06-04 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 04 Jun 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2016-06-04-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2016-06-04-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Larz evenings</title>
-      <link>http://localhost:1313/2016/06/04/larz-evenings/</link>
+      <link>https://srikanthperinkulam.com/2016/06/04/larz-evenings/</link>
       <pubDate>Sat, 04 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2016/06/04/larz-evenings/</guid>
+      <guid>https://srikanthperinkulam.com/2016/06/04/larz-evenings/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/13257067_1711954479048054_1602427823_n.jpg&#34; alt=&#34;Larz evenings&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Wondering if the froggie can work its magic #indieweb</title>
-      <link>http://localhost:1313/2016/06/04/wondering-if-the-froggie-can-work-its-magic-%23indieweb/</link>
+      <link>https://srikanthperinkulam.com/2016/06/04/wondering-if-the-froggie-can-work-its-magic-%23indieweb/</link>
       <pubDate>Sat, 04 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2016/06/04/wondering-if-the-froggie-can-work-its-magic-%23indieweb/</guid>
+      <guid>https://srikanthperinkulam.com/2016/06/04/wondering-if-the-froggie-can-work-its-magic-%23indieweb/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/13167403_1742017819367239_674969842_n.jpg&#34; alt=&#34;Wondering if the froggie can work its magic #indieweb&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

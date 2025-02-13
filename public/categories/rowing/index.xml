@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rowing on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/categories/rowing/index.xml</link>
+    <link>https://srikanthperinkulam.com/categories/rowing/index.xml</link>
     <description>Recent content in Rowing on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/rowing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/categories/rowing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Back on the Erg!</title>
-      <link>http://localhost:1313/2020/10/23/back-on-the-erg/</link>
+      <link>https://srikanthperinkulam.com/2020/10/23/back-on-the-erg/</link>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2020/10/23/back-on-the-erg/</guid>
+      <guid>https://srikanthperinkulam.com/2020/10/23/back-on-the-erg/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Imagepipe_0-1200x1200.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Slowly getting back into the workout rhythm. With the Gym mostly all to myself in the USG housing, I&amp;rsquo;ve started rowing on the Erg. and also incorporated a few treadmill runs. Need to add in a few Ashtanga days and some long outdoor runs or bike rides during the weekend to add more flavor!&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

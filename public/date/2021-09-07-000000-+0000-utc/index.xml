@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2021-09-07 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2021-09-07-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2021-09-07-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2021-09-07 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 07 Sep 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2021-09-07-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2021-09-07-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>State of The Networks – Sep 2021</title>
-      <link>http://localhost:1313/2021/09/07/state-of-the-networks-sep-2021/</link>
+      <link>https://srikanthperinkulam.com/2021/09/07/state-of-the-networks-sep-2021/</link>
       <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2021/09/07/state-of-the-networks-sep-2021/</guid>
+      <guid>https://srikanthperinkulam.com/2021/09/07/state-of-the-networks-sep-2021/</guid>
       <description>&lt;p&gt;Over the last few months, I was able to take some time to explore a few self-hostable options. I got to explore &lt;a href=&#34;https://srikanthperinkulam.com/2021/07/28/caddy-through-the-tunnel/&#34;&gt;caddy&lt;/a&gt; (Which is terrific by the way!), setup &lt;a href=&#34;https://srikanthperinkulam.com/2021/07/15/guacamole-clientless-remote-desktop-access/&#34;&gt;guacamole&lt;/a&gt; and I&amp;rsquo;m also absolutely loving &lt;a href=&#34;https://srikanthperinkulam.com/2021/07/28/july-27-2021-2105/&#34;&gt;Navidrome&lt;/a&gt;. I got rid of OSMC since we weren&amp;rsquo;t quite using it as much and setup pi-hole to block ads network wide. With these changes, I think I am able to put these devices to real good use. While at it, I also setup a WireGuard tunnel from a VPS to access my local devices securely outside my home network.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Screenshot-from-2021-09-07-13-25-42-600x296.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Since my &lt;a href=&#34;https://srikanthperinkulam.com/2021/02/05/state-of-the-networks-feb-2021/&#34;&gt;February update&lt;/a&gt;, I haven&amp;rsquo;t changed the services on the cloud much. I did get rid of Bookstack, Known and Signal-CLI since I wasn&amp;rsquo;t using them as much. I am however using &lt;a href=&#34;https://srikanthperinkulam.com/?s=trilium&#34;&gt;Trilium notes&lt;/a&gt; exhaustively as my go-to notes and knowledge-base application.&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

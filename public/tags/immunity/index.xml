@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Immunity on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/tags/immunity/index.xml</link>
+    <link>https://srikanthperinkulam.com/tags/immunity/index.xml</link>
     <description>Recent content in Immunity on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/immunity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/tags/immunity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Immunity Amnesia</title>
-      <link>http://localhost:1313/2022/02/15/immunity-amnesia/</link>
+      <link>https://srikanthperinkulam.com/2022/02/15/immunity-amnesia/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2022/02/15/immunity-amnesia/</guid>
+      <guid>https://srikanthperinkulam.com/2022/02/15/immunity-amnesia/</guid>
       <description>&lt;p&gt;#TIL When infected with measles, the immune system takes a reboot and abruptly erases every memory of pathogen it&amp;rsquo;s had before, essentially making your body vulnerable to infections. Rebuilding immunity takes years&amp;hellip;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;in 2002, a group of Japanese scientists discovered that the receptor the measles virus binds to – a kind of molecular lock that allows it to enter the body – isn&amp;rsquo;t in the lungs, as you would expect for a respiratory virus. Instead, it&amp;rsquo;s on &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12008921/&#34;&gt;cells from the immune system&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Measles suppresses the immune system, and activates it at the same time,&amp;rdquo; says Swart. Though measles deletes immune memories, there is one exception to these losses. Oddly, the only virus you&amp;rsquo;ll definitely be able to recognise after falling sick with measles is measles itself. &lt;strong&gt;The measles paradox&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://bag.srkn.org/share/620bad720cc801.13031028&#34;&gt;This&lt;/a&gt; was a fascinating read!&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

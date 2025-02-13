@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2025-02-05 21:30:00 -0500 -0500 on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2025-02-05-213000--0500--0500/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2025-02-05-213000--0500--0500/index.xml</link>
     <description>Recent content in 2025-02-05 21:30:00 -0500 -0500 on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 05 Feb 2025 21:30:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2025-02-05-213000--0500--0500/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2025-02-05-213000--0500--0500/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Implementing static comments</title>
-      <link>http://localhost:1313/2025/02/05/implementing-static-comments/</link>
+      <link>https://srikanthperinkulam.com/2025/02/05/implementing-static-comments/</link>
       <pubDate>Wed, 05 Feb 2025 21:30:00 -0500</pubDate>
-      <guid>http://localhost:1313/2025/02/05/implementing-static-comments/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/comments.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;I bit the bullet and setup a rudimentary comment system for this site. For the last few months, I relied on &lt;a href=&#34;https://github.com/isso-comments/isso/&#34;&gt;ISSO&lt;/a&gt;, but it kinda felt a bit too heavy. Finally scratched the itch and switched over to a basic form and some javascript to push comments over to my self-hosted ntfy server. For now, I&amp;rsquo;ve left the moderation to manual mode - I have to copy over the comments manually from NTFY to a comments.json file. A GO script that usually publishes this site also builds the comments for each of the posts as needed  based on the posts&amp;rsquo; permalink. Pretty friction-less and nifty! &lt;a href=&#34;http://localhost:1313/2025/02/05/implementing-static-comments/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;</description>
+      <guid>https://srikanthperinkulam.com/2025/02/05/implementing-static-comments/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/comments.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;I bit the bullet and setup a rudimentary comment system for this site. For the last few months, I relied on &lt;a href=&#34;https://github.com/isso-comments/isso/&#34;&gt;ISSO&lt;/a&gt;, but it kinda felt a bit too heavy. Finally scratched the itch and switched over to a basic form and some javascript to push comments over to my self-hosted ntfy server. For now, I&amp;rsquo;ve left the moderation to manual mode - I have to copy over the comments manually from NTFY to a comments.json file. A GO script that usually publishes this site also builds the comments for each of the posts as needed  based on the posts&amp;rsquo; permalink. Pretty friction-less and nifty! &lt;a href=&#34;https://srikanthperinkulam.com/2025/02/05/implementing-static-comments/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;</description>
     </item>
   </channel>
 </rss>

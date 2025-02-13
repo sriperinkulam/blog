@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2008-01-27 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2008-01-27-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2008-01-27-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2008-01-27 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 27 Jan 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2008-01-27-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2008-01-27-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Hyderabad Journal</title>
-      <link>http://localhost:1313/2008/01/27/the-hyderabad-journal/</link>
+      <link>https://srikanthperinkulam.com/2008/01/27/the-hyderabad-journal/</link>
       <pubDate>Sun, 27 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2008/01/27/the-hyderabad-journal/</guid>
+      <guid>https://srikanthperinkulam.com/2008/01/27/the-hyderabad-journal/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s been a week since this idea conceived in my brain and this weekend I figured out some time to work on it. I&amp;rsquo;ve launched another blog in wordpress. But for a change this is something serious. The central idea is to develop an Ad free, simple interface site which could be a one stop site for all the latest happenings in Hyderabad and also serve as a travel guide in the city. I call it the &lt;strong&gt;Hyderabad Simplified Online Project (HSOP) :-)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;You may want to check it out &lt;a href=&#34;http://hyderabadjournal.wordpress.com/&#34; title=&#34;The HSOP Project&#34;&gt;HERE&lt;/a&gt;&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

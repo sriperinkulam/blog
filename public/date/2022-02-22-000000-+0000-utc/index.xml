@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2022-02-22 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2022-02-22-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2022-02-22-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2022-02-22 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2022-02-22-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2022-02-22-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>State of The Networks – Feb 2022</title>
-      <link>http://localhost:1313/2022/02/22/state-of-the-networks-feb-2022/</link>
+      <link>https://srikanthperinkulam.com/2022/02/22/state-of-the-networks-feb-2022/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2022/02/22/state-of-the-networks-feb-2022/</guid>
+      <guid>https://srikanthperinkulam.com/2022/02/22/state-of-the-networks-feb-2022/</guid>
       <description>&lt;p&gt;&lt;em&gt;A bi-yearly rundown on the state of the home-servers I run and applications I host on the cloud.&lt;/em&gt; &lt;em&gt;Published while listening to: &lt;a href=&#34;https://invidious.snopyta.org/watch?v=zkvNnRjIhPE&#34;&gt;Mist of Capricorn ( Manavyalakincharadate ) | Agam&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/wireguard-2.drawio.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;A few major changes since the &lt;a href=&#34;https://srikanthperinkulam.com/2021/09/07/state-of-the-networks-sep-2021/&#34;&gt;last September update&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;During the Jan trip, I moved the Odroid XU4 and NCP over to MD. Thanks to WireGuard, I can still access these remotely super seamlessly!&lt;/li&gt;&#xA;&lt;li&gt;Brought in the RPi4 NC to the same WireGuard network. Lesser maintenance!&lt;/li&gt;&#xA;&lt;li&gt;Not quite using the Navidrome and Calibre-web setup as much. Definitely nice to have though.&lt;/li&gt;&#xA;&lt;li&gt;Setup a couple &lt;a href=&#34;https://srikanthperinkulam.com/2022/02/20/bridged/&#34;&gt;Matrix Bridges&lt;/a&gt;. Ansible is pretty awesome! Need to front the &lt;a href=&#34;https://srikanthperinkulam.com/2022/01/25/snikket/&#34;&gt;Snikket instance&lt;/a&gt; I setup in Jan when I have the mind-space.&lt;/li&gt;&#xA;&lt;li&gt;I think I&amp;rsquo;m liking Caddy better than Traefik!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Next few months, I&amp;rsquo;ll probably focus a bit more on SSH hardening, implement more robust Firewalls and automating the backups.&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

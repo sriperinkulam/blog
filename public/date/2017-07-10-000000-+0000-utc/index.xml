@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2017-07-10 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2017-07-10-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2017-07-10-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2017-07-10 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 10 Jul 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2017-07-10-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2017-07-10-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Appalachian @ DWG</title>
-      <link>http://localhost:1313/2017/07/10/appalachian-@-dwg/</link>
+      <link>https://srikanthperinkulam.com/2017/07/10/appalachian-@-dwg/</link>
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/07/10/appalachian-@-dwg/</guid>
+      <guid>https://srikanthperinkulam.com/2017/07/10/appalachian-@-dwg/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/1499718952.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&#xA;@thestring.bean Met a few nobo&amp;rsquo;s and sobo&amp;rsquo;s yesterday at Mt Minci. Was reminded of your FKT attempt. All power to you!&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://twitter.com/intent/favorite?tweet_id=884514957924208640&#34;&gt;like&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/tweet?tweet_id=884514957924208640&#34;&gt;reply&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/retweet?tweet_id=884514957924208640&#34;&gt;repost&lt;/a&gt;&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Liked:« Oatmeal</title>
-      <link>http://localhost:1313/2017/07/10/liked-oatmeal/</link>
+      <link>https://srikanthperinkulam.com/2017/07/10/liked-oatmeal/</link>
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/07/10/liked-oatmeal/</guid>
+      <guid>https://srikanthperinkulam.com/2017/07/10/liked-oatmeal/</guid>
       <description>&lt;p&gt;Liked: « Oatmeal&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Home for the next month while we wait for our place in Portland to open up. 1 room with electricity and internet. No running water. Priorities.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Replied to:Hyannis notes | Srikanth Perinkulam</title>
-      <link>http://localhost:1313/2017/07/10/replied-tohyannis-notes-srikanth-perinkulam/</link>
+      <link>https://srikanthperinkulam.com/2017/07/10/replied-tohyannis-notes-srikanth-perinkulam/</link>
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/07/10/replied-tohyannis-notes-srikanth-perinkulam/</guid>
+      <guid>https://srikanthperinkulam.com/2017/07/10/replied-tohyannis-notes-srikanth-perinkulam/</guid>
       <description>&lt;p&gt;Philip, I dynamically add the &amp;lsquo;Liked:&amp;rsquo; and &amp;lsquo;Replied to:&amp;rsquo; phrase to the title of the post using some crude code in my back-end. Essentially, I use a couple of &lt;a href=&#34;https://workflow.is/&#34;&gt;workflows&lt;/a&gt; to fetch the link/article details and then add the markup et al using a custom functions in my wp install. Would be more than happy to share them if you&amp;rsquo;re interested in taking a look.&lt;/p&gt;&#xA;&lt;p&gt;Also I noticed your posts are not marked up with microformats for &lt;a href=&#34;http://indieweb.org/like&#34;&gt;like&lt;/a&gt; and &lt;a href=&#34;https://indieweb.org/reply&#34;&gt;replies&lt;/a&gt;. The &lt;a href=&#34;https://github.com/indieweb/wordpress-indieweb-press-this&#34;&gt;Indieweb PressThis&lt;/a&gt; bookmarklet should ideally add the necessary microformat markup to your posts. For some reason, It doesn&amp;rsquo;t seem to be doing so. I&amp;rsquo;ll take a look later today to see what&amp;rsquo;s transpiring there.&lt;/p&gt;&#xA;&lt;p&gt;Depending on your publishing preference there are a few other alternatives. Not sure if you&amp;rsquo;ve explored these already:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://quill.p3k.io/&#34;&gt;Quill&lt;/a&gt; : Aaron&amp;rsquo;s posting interface works great on both desktop and mobile devices&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://indieweb.org/Omnibear&#34;&gt;Omnibear&lt;/a&gt; : Keith&amp;rsquo;s Chrome bookmarklet&lt;/li&gt;&#xA;&lt;li&gt;Using the Bookmarklet Free or URL Forwarder apps on android and tweaking the settings mentioned in one of Chris Aldrich&amp;rsquo;s &lt;a href=&#34;http://stream.boffosocko.com/2016/sharing-from-the-indieweb-on-mobile-android-with-apps-and&#34;&gt;notes&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;The &lt;a href=&#34;https://github.com/colin-walker/wordpress-likes-and-replies/tree/master/includes&#34;&gt;Wordpress plugin&lt;/a&gt; developed by &lt;a href=&#34;http://colinwalker.blog/&#34;&gt;Colin Walker&lt;/a&gt; which coupled with his workflows could be used to post from an apple device.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;in reply to: &lt;a href=&#34;https://www.philipbrewer.net/2017/07/09/hyannis-notes-srikanth-perinkulam-2/&#34;&gt;Hyannis notes | Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;That previous post was an attempt to “like” this post using IndieWeb Press This. I’d used the tool successfully earlier, but this time I didn’t see the “Liked:” prefix on the post (and I don’t see the “Reply:” prefix on this one).&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

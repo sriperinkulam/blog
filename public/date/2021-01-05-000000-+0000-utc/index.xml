@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2021-01-05 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2021-01-05-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2021-01-05-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2021-01-05 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2021-01-05-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2021-01-05-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Surviving the Shark</title>
-      <link>http://localhost:1313/book-note/surviving-the-shark/</link>
+      <link>https://srikanthperinkulam.com/book-note/surviving-the-shark/</link>
       <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/book-note/surviving-the-shark/</guid>
+      <guid>https://srikanthperinkulam.com/book-note/surviving-the-shark/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/SurvivingTheShark.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&#xA;Quick read and the &lt;a href=&#34;https://lib.srkn.org/book/135&#34;&gt;summary&lt;/a&gt; is pretty apt. Good coffee time read. One of the last books I read in 2020. Just so happened that I came across this book in my collection while I was setting up my digital library. Timing was pretty interesting since I just about started surfing.&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

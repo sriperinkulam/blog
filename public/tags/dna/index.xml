@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dna on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/tags/dna/index.xml</link>
+    <link>https://srikanthperinkulam.com/tags/dna/index.xml</link>
     <description>Recent content in Dna on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/dna/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/tags/dna/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DNA, RNA, Vaccines and Humans</title>
-      <link>http://localhost:1313/2020/12/28/dna-rna-vaccines-and-humans/</link>
+      <link>https://srikanthperinkulam.com/2020/12/28/dna-rna-vaccines-and-humans/</link>
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2020/12/28/dna-rna-vaccines-and-humans/</guid>
+      <guid>https://srikanthperinkulam.com/2020/12/28/dna-rna-vaccines-and-humans/</guid>
       <description>&lt;p&gt;Over the last few days, I&amp;rsquo;ve been meandering through &lt;a href=&#34;https://berthub.eu/index.html&#34;&gt;Bert&lt;/a&gt;&amp;rsquo;s webpage and a few other sites - Such a treasure trove of information on the C-19 vaccine and biology/technology in general. No seriously, dive into these links for some great layman(ish) explanation of DNA, RNA, Vaccines and what not!&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://bag.srkn.org/share/5fea3c8962f2a2.96282489&#34;&gt;Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://bag.srkn.org/share/5fea38322bb2a0.08041300&#34;&gt;No, Really, mRNA Vaccines Are Not Going To Affect Your DNA&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://bag.srkn.org/share/5fea3d3bb2ac73.65468826&#34;&gt;The story of mRNA: From a loose idea to a tool that may help curb Covid&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://bag.srkn.org/share/5fea3e5f534579.64795290&#34;&gt;I Made a Covid-19 Vaccine in my Kitchen and it Worked&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Note: These links point to my &lt;a href=&#34;https://bag.srkn.org/&#34;&gt;Wallabag instance&lt;/a&gt;. I&amp;rsquo;d much prefer linking to the original article. However, I find this as a good way to save information which I can access later even if the original source vanishes.&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

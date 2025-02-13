@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2007-06-23 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2007-06-23-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2007-06-23-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2007-06-23 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 23 Jun 2007 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2007-06-23-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2007-06-23-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Feisty Fawn - Ubuntu 7.04</title>
-      <link>http://localhost:1313/2007/06/23/feisty-fawn-ubuntu-7.04/</link>
+      <link>https://srikanthperinkulam.com/2007/06/23/feisty-fawn-ubuntu-7.04/</link>
       <pubDate>Sat, 23 Jun 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2007/06/23/feisty-fawn-ubuntu-7.04/</guid>
+      <guid>https://srikanthperinkulam.com/2007/06/23/feisty-fawn-ubuntu-7.04/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve tried installing almost all flavours of Linux on my old system. Starting from Red Hat and going all the way till Ubuntu. Each installation came along with its appended troubles, thanks to my ignorance then. One main constriction I had was the hardware configuration of my machine. It was a pentium celeron running on 128mb Ram and a 20Gb hard disk. I had several issues with the mouse and configuring my internet connection. With passage of days I realised my mouse was designed to work with windows and finding device drivers for it in Linux was a big time pain. On the whole I had to restrain myself to low end operating systems.&lt;/p&gt;&#xA;&lt;p&gt;Last week I upgraded my Hardware config. From then, installing Linux has never been a problem. Installation gets done extremely fast but for a few glitches here and there. Tried installing Solaris 10 but for some reason the video device wasn&amp;rsquo;t identified (I&amp;rsquo;m still hooked with a 14&amp;rsquo;&amp;rsquo; LG monitor :-) ) and I had quite a problem running a graphic installation. Realising there was no point going in for a non graphical interface setup , I put in bay the Solaris installation. I had a FC4 DVD and I tried installing that . You wont believe me! The whole installation got done in just over 10 minutes!  :-) The main reason for installing FC4 was that I direly needed a net connection in the OS and my ISP gives me a provision for installation only though the Red hat Packet Manager ( RPM ) setup. Before I tried out the FC4 I forked in the Ubuntu 7.04 CD and tried booting from the Live CD to partition my HDD using the in built GParted software. But for some apparent reason the Live CD never booted and always led to the command prompt. Frustrated, I gave up and installed FC4 without properly partitioning the HDD.&lt;/p&gt;&#xA;&lt;p&gt;A few days later with a bit of googling I found that Ubuntut 7.04 had a bug that prevents it from booting on a SATA hard disk. They was a small fix up for that and once done, the setup was done with at lightening speed! Just six minutes on the clock! :-) Feisty Fawn has a Desktop Effects feature that can be enabled once you log in.  You need to see to believe it! Once this feature is enabled  the desktop gives you a wobbling sort of effect. There&amp;rsquo;s also this extremely cool Cube effect which helps you in organizing your workspace into four relative graphically independent desktops. The desktop swirls to the correspondin desktop on your command! All this for a single CD Distro!!! Just one backdrop of this distro is that you need to have an active net connection to download the other softwares that you may need to accentuate its working&amp;hellip;But for that Ubuntu 7.04 rocks!!&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

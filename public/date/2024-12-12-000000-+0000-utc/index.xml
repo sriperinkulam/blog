@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2024-12-12 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2024-12-12-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2024-12-12-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2024-12-12 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2024-12-12-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2024-12-12-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Around this day</title>
-      <link>http://localhost:1313/rewind/</link>
+      <link>https://srikanthperinkulam.com/rewind/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/rewind/</guid>
+      <guid>https://srikanthperinkulam.com/rewind/</guid>
       <description></description>
     </item>
     <item>
       <title>Reader</title>
-      <link>http://localhost:1313/reader/</link>
+      <link>https://srikanthperinkulam.com/reader/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reader/</guid>
+      <guid>https://srikanthperinkulam.com/reader/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2023-07-22 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2023-07-22-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2023-07-22-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2023-07-22 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 22 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2023-07-22-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2023-07-22-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cable talk</title>
-      <link>http://localhost:1313/2023/07/22/cable-talk/</link>
+      <link>https://srikanthperinkulam.com/2023/07/22/cable-talk/</link>
       <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2023/07/22/cable-talk/</guid>
+      <guid>https://srikanthperinkulam.com/2023/07/22/cable-talk/</guid>
       <description>&lt;p&gt;Over the last couple weeks, a colleague and I have been trying to clean up the cable mismanagement behind our racks. To work on the equipment you&amp;rsquo;re literally standing on about 1 feet of coiled cable mess. This issue has probably been there over the last several years and nobody has paid much attention to it. Likely because it does not affect the actual functioning of the equipment? And also, this is painstakingly unrewarding work.&lt;/p&gt;&#xA;&lt;p&gt;Every single day we&amp;rsquo;ve been behind those racks, we keep thinking - why would someone leave so much of surplus cable and more importantly leave it so disorganized? I believe the reasons are multi-fold. Experience (or lack thereof), workmanship issues, time constraints, personnel turnovers and culmination of several unintentional judgement calls is what comes to mind. And then it also strikes me that I&amp;rsquo;m probably making a heavy judgement without having exposure to the situation my predecessors were dealing with? There was probably a solid reason why they had left so much slack in the cable. We will never know. Ultimately we&amp;rsquo;re here and we&amp;rsquo;re working on this ‘mess’. A few years down the lane my successors would probably think why the cables were so short and didn&amp;rsquo;t have much surplus. I guess you just take a call on what&amp;rsquo;s right at this moment and hope it works for the next few years…&lt;/p&gt;&#xA;&lt;p&gt;In work environments where there&amp;rsquo;s heavy turnover - either because of the nature of the job or because of the team dynamics, how do you set the bar for quality workmanship?&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

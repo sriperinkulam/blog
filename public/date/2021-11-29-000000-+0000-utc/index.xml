@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2021-11-29 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2021-11-29-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2021-11-29-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2021-11-29 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2021-11-29-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2021-11-29-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3-2-1 Backup</title>
-      <link>http://localhost:1313/2021/11/29/3-2-1-backup/</link>
+      <link>https://srikanthperinkulam.com/2021/11/29/3-2-1-backup/</link>
       <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2021/11/29/3-2-1-backup/</guid>
+      <guid>https://srikanthperinkulam.com/2021/11/29/3-2-1-backup/</guid>
       <description>&lt;p&gt;Ouch! After a &lt;a href=&#34;https://srikanthperinkulam.com/2021/06/13/maps-and-files/&#34;&gt;good&lt;/a&gt; &lt;a href=&#34;https://srikanthperinkulam.com/2021/04/19/april-19-2021-2342/&#34;&gt;couple&lt;/a&gt; years of unhindered access, I&amp;rsquo;ve lost (remote) access to my RPI server. I&amp;rsquo;m guessing an auto upgrade might have disabled wireguard or flushed the  ip table rules. I should have had a secondary connection to the remote network since I did anticipate this happening sometime! Well, until I have physical access to the server, I&amp;rsquo;ll have to bank on my cold flash drive backups! So glad I have multiple accessible copies of the data files!&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

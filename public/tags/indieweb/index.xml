@@ -2,115 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Indieweb on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/tags/indieweb/index.xml</link>
+    <link>https://srikanthperinkulam.com/tags/indieweb/index.xml</link>
     <description>Recent content in Indieweb on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/indieweb/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/tags/indieweb/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>April 30, 2021 18:07</title>
-      <link>http://localhost:1313/2021/04/30/april-30-2021-1807/</link>
+      <link>https://srikanthperinkulam.com/2021/04/30/april-30-2021-1807/</link>
       <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2021/04/30/april-30-2021-1807/</guid>
+      <guid>https://srikanthperinkulam.com/2021/04/30/april-30-2021-1807/</guid>
       <description>&lt;p&gt;Switched over to consuming Twitter via RSS feeds. For now I am using Yarns on WP to collect the feeds and the Indigenous app / Monocle-web social reader to read/interact with tweets. With this setup, I get to stay clear of the tracking and ads [Last time I checked uBlock Origin blocked 90 trackers/ads in 3 minutes!] and more importantly use my website as the primary place where I post. While I am not quite active on twitter, this should be a great go-between to reconnect with folks who use it for their primary digital presence.&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Deploying Known on a docker stack</title>
-      <link>http://localhost:1313/2020/04/28/deploying-known-on-a-docker-stack/</link>
+      <link>https://srikanthperinkulam.com/2020/04/28/deploying-known-on-a-docker-stack/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2020/04/28/deploying-known-on-a-docker-stack/</guid>
+      <guid>https://srikanthperinkulam.com/2020/04/28/deploying-known-on-a-docker-stack/</guid>
       <description>&lt;p&gt;To migrate my php applications that did not have a handy docker-compose available, I needed a vanilla setup for my stack-based docker environment. &lt;a href=&#34;https://withknown.com/opensource/&#34;&gt;Known&lt;/a&gt; is one of those apps and so the first step was to build that PHP environment.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Setting up a Dockerhub repository and building a custom PHP image&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;[If you decide to use my image, you would not have to build this yourself. Skip ahead to the Deploying Known section]&lt;/p&gt;&#xA;&lt;p&gt;Most php based apps also need specific extensions built-in. While I am sure they&amp;rsquo;re out there on the Docker hub repository, I was not able to easily find any images that met my specific needs [php extensions for gd, zip, pdo_mysql etc]. So I went ahead and &lt;a href=&#34;https://hub.docker.com/r/sriperinkulam/php-7.4.3-apache-buster-plus&#34;&gt;setup my own repository on Docker Hub&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Something I learnt today was that a docker stack only accepts pre-built images. Which essentially means you cannot use the regular &lt;a href=&#34;https://docs.docker.com/engine/reference/commandline/build/&#34;&gt;build command&lt;/a&gt; on the fly in your docker-compose file. A quick work-around to that is to build the image locally and then publish it to a public repository from where the stack can easily access it.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Create a dockerfile: &lt;code&gt;sudo nano dockerfile&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Copy over contents from &lt;a href=&#34;https://gist.github.com/sriperinkulam/26d8702d946a8bad22d7623892be816c&#34;&gt;my dockerfile gist&lt;/a&gt;. Edit or update if you need any additional extensions. Do note that I am pulling a debian buster image here. An alpine image would be optimal but lets&amp;rsquo; run with this for now.&lt;/li&gt;&#xA;&lt;li&gt;Build the image locally: &lt;code&gt;docker build -t sriperinkulam/php-7.4.3-apache-buster-plus:latest .&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Edit the image and tag name as needed. If your gist file is defined correctly, the image should be ready in a few minutes. It took me a few iterations to get this working with all the extensions I needed and shouldn&amp;rsquo;t give you any errors during the build process.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Login to your Dockerhub repo: &lt;code&gt;docker login&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Push your image over to your repository: &lt;code&gt;docker push sriperinkulam/php-7.4.3-apache-buster-plus:latest&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Within a few minutes, your image should be available for easy fetch whenever needed!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Setting up and deploying the Known install&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Create a folder for the known installation:&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;code&gt;sudo mkdir known &amp;amp;&amp;amp; cd known&lt;/code&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Copy over my &amp;lsquo;known.yml&amp;rsquo; gist from &lt;a href=&#34;https://gist.github.com/sriperinkulam/9ea9b57a052629ed5b75071c2bafdb00&#34;&gt;here&lt;/a&gt; and paste into a known.yml file.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;code&gt;sudo nano known.yml&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is where we use the image we built earlier! Make sure you update the passwords there-in.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Create an &amp;lsquo;app&amp;rsquo; folder. This is where we will copy in the core known package.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;code&gt;sudo mkdir app &amp;amp;&amp;amp; cd app&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.marcus-povey.co.uk/known/&#34;&gt;Marcus Povey&lt;/a&gt; does the heavy lifting of packaging the known install &amp;lsquo;unofficially&amp;rsquo;. Download his latest pre-packaged release from &lt;a href=&#34;https://withknown.marcus-povey.co.uk/&#34;&gt;his portal&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;wget https://withknown.marcus-povey.co.uk/&amp;lt;package&amp;gt;&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Finally unzip/untar the package.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Step back into the main &amp;lsquo;known&amp;rsquo; directory and deploy the stack that we defined in the known.yml file.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;code&gt;cd ..&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;DOMAIN=known.domain.org SCHEME=https docker stack deploy -c known.yml known&lt;/code&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Assuming you&amp;rsquo;ve already setup the traefik container, as mentioned in my &lt;a href=&#34;https://srikanthperinkulam.com/2020/04/19/self-hosting-jitsi-video-conferencing/&#34;&gt;Jitsi post&lt;/a&gt;, you should now have Known up and running. Navigate to the domain and you should see the warmup page.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Key in the db credentials that you setup in the &lt;em&gt;known.yml&lt;/em&gt; file. The database would need to be set as &lt;em&gt;mariadb,&lt;/em&gt; since that&amp;rsquo;s how we&amp;rsquo;ve defined it in the known.yml file. Also make sure you have the &lt;em&gt;Uploads&lt;/em&gt; folder writable by www-data:&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;code&gt;sudo chown -R www-data /var/www/html/Uploads/&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Setup your user account and proceed with the regular administration controls!&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Fired up!</title>
-      <link>http://localhost:1313/2017/11/04/fired-up/</link>
+      <link>https://srikanthperinkulam.com/2017/11/04/fired-up/</link>
       <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/11/04/fired-up/</guid>
+      <guid>https://srikanthperinkulam.com/2017/11/04/fired-up/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/1509819219.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&#xA;Finally got around procuring a &lt;a href=&#34;https://www.raspberrypi.org/products/raspberry-pi-3-model-b/&#34;&gt;pi3&lt;/a&gt; and setup the &lt;a href=&#34;https://nextcloud.com/box&#34;&gt;Nextcloud Box&lt;/a&gt;! Getting this up and running was super fun and pretty straight forward.&lt;/p&gt;&#xA;&lt;p&gt;The OS Image that was delivered with the box was built for the pi2. So I had to format the drive with Gparted and flashed the pi3 image with &lt;a href=&#34;https://etcher.io/&#34;&gt;Etcher&lt;/a&gt; (One nifty piece of software!). Once the hardware was fired up, it just took care of itself. The web install was a 1-click setup.&lt;/p&gt;&#xA;&lt;p&gt;Early this year as I initiated taking more control over my data, I also setup a &lt;a href=&#34;https://meandsri.ddns.net&#34;&gt;Nextcloud server on the cloud&lt;/a&gt;. It&amp;rsquo;s been about eight months now and am thoroughly impressed with it. With the incredible iOS and android apps and the nifty client for linux I&amp;rsquo;m more than convinced the take this a step further and setup my personal home server.&lt;/p&gt;&#xA;&lt;p&gt;Over the next few weeks as I tinker more with this, I need to make this a more robust setup and make full use of the snappy Ubuntu core.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://twitter.com/intent/favorite?tweet_id=926942668512428032&#34;&gt;like&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/tweet?tweet_id=926942668512428032&#34;&gt;reply&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/retweet?tweet_id=926942668512428032&#34;&gt;repost&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://twitter.com/intent/favorite?tweet_id=926942668512428032&#34;&gt;like&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/tweet?tweet_id=926942668512428032&#34;&gt;reply&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/retweet?tweet_id=926942668512428032&#34;&gt;repost&lt;/a&gt;&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Debugging and feeds</title>
-      <link>http://localhost:1313/2017/07/12/debugging-and-feeds/</link>
+      <link>https://srikanthperinkulam.com/2017/07/12/debugging-and-feeds/</link>
       <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/07/12/debugging-and-feeds/</guid>
+      <guid>https://srikanthperinkulam.com/2017/07/12/debugging-and-feeds/</guid>
       <description>&lt;p&gt;Realized today that a &lt;a href=&#34;https://srikanthperinkulam.com/2017/06/30/squashing-the-bug/&#34;&gt;code fix&lt;/a&gt; that I had implemented sometime back, inadvertently introduced a minor bug in my workflow. Will have to get around fixing this sometime later this week.&lt;/p&gt;&#xA;&lt;p&gt;On another note, I decided to temporarily suspend my self-hosted &lt;a href=&#34;https://freshrss.org/&#34;&gt;freshRSS&lt;/a&gt; installation and moved my feeds to &lt;a href=&#34;https://theoldreader.com/&#34;&gt;The Old Reader&lt;/a&gt;. Currently I don&amp;rsquo;t see a huge benefit of self hosting it unless I&amp;rsquo;m able to implement responding directly from that interface.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Replied to:Hyannis notes | Srikanth Perinkulam</title>
-      <link>http://localhost:1313/2017/07/10/replied-tohyannis-notes-srikanth-perinkulam/</link>
+      <link>https://srikanthperinkulam.com/2017/07/10/replied-tohyannis-notes-srikanth-perinkulam/</link>
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/07/10/replied-tohyannis-notes-srikanth-perinkulam/</guid>
+      <guid>https://srikanthperinkulam.com/2017/07/10/replied-tohyannis-notes-srikanth-perinkulam/</guid>
       <description>&lt;p&gt;Philip, I dynamically add the &amp;lsquo;Liked:&amp;rsquo; and &amp;lsquo;Replied to:&amp;rsquo; phrase to the title of the post using some crude code in my back-end. Essentially, I use a couple of &lt;a href=&#34;https://workflow.is/&#34;&gt;workflows&lt;/a&gt; to fetch the link/article details and then add the markup et al using a custom functions in my wp install. Would be more than happy to share them if you&amp;rsquo;re interested in taking a look.&lt;/p&gt;&#xA;&lt;p&gt;Also I noticed your posts are not marked up with microformats for &lt;a href=&#34;http://indieweb.org/like&#34;&gt;like&lt;/a&gt; and &lt;a href=&#34;https://indieweb.org/reply&#34;&gt;replies&lt;/a&gt;. The &lt;a href=&#34;https://github.com/indieweb/wordpress-indieweb-press-this&#34;&gt;Indieweb PressThis&lt;/a&gt; bookmarklet should ideally add the necessary microformat markup to your posts. For some reason, It doesn&amp;rsquo;t seem to be doing so. I&amp;rsquo;ll take a look later today to see what&amp;rsquo;s transpiring there.&lt;/p&gt;&#xA;&lt;p&gt;Depending on your publishing preference there are a few other alternatives. Not sure if you&amp;rsquo;ve explored these already:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://quill.p3k.io/&#34;&gt;Quill&lt;/a&gt; : Aaron&amp;rsquo;s posting interface works great on both desktop and mobile devices&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://indieweb.org/Omnibear&#34;&gt;Omnibear&lt;/a&gt; : Keith&amp;rsquo;s Chrome bookmarklet&lt;/li&gt;&#xA;&lt;li&gt;Using the Bookmarklet Free or URL Forwarder apps on android and tweaking the settings mentioned in one of Chris Aldrich&amp;rsquo;s &lt;a href=&#34;http://stream.boffosocko.com/2016/sharing-from-the-indieweb-on-mobile-android-with-apps-and&#34;&gt;notes&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;The &lt;a href=&#34;https://github.com/colin-walker/wordpress-likes-and-replies/tree/master/includes&#34;&gt;Wordpress plugin&lt;/a&gt; developed by &lt;a href=&#34;http://colinwalker.blog/&#34;&gt;Colin Walker&lt;/a&gt; which coupled with his workflows could be used to post from an apple device.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;in reply to: &lt;a href=&#34;https://www.philipbrewer.net/2017/07/09/hyannis-notes-srikanth-perinkulam-2/&#34;&gt;Hyannis notes | Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;That previous post was an attempt to “like” this post using IndieWeb Press This. I’d used the tool successfully earlier, but this time I didn’t see the “Liked:” prefix on the post (and I don’t see the “Reply:” prefix on this one).&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Replied to:Indieweb for Journalism</title>
-      <link>http://localhost:1313/2017/07/07/replied-toindieweb-for-journalism/</link>
+      <link>https://srikanthperinkulam.com/2017/07/07/replied-toindieweb-for-journalism/</link>
       <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/07/07/replied-toindieweb-for-journalism/</guid>
+      <guid>https://srikanthperinkulam.com/2017/07/07/replied-toindieweb-for-journalism/</guid>
       <description>&lt;p&gt;Thanks for setting this up, Chris! Some interesting plugins out there on the WP front.&lt;/p&gt;&#xA;&lt;p&gt;in reply to: &lt;a href=&#34;http://boffosocko.com/2017/07/06/indieweb-wiki-and-journalism/&#34;&gt;Indieweb for Journalism&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;I’ve been meaning to do it for quite a while, but I’ve finally started a stub in the Indieweb wiki for the topic . There is a rapidly growing group of writers and journalists who have been joining the Indieweb movement, and it’s long overdue to create a list of resources specific to the topic to help out ourselves and others in the future.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Squashing the bug</title>
-      <link>http://localhost:1313/2017/06/30/squashing-the-bug/</link>
+      <link>https://srikanthperinkulam.com/2017/06/30/squashing-the-bug/</link>
       <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/06/30/squashing-the-bug/</guid>
+      <guid>https://srikanthperinkulam.com/2017/06/30/squashing-the-bug/</guid>
       <description>&lt;p&gt;Squashed a minor bug in my code for &amp;lsquo;favorite&amp;rsquo; posts. The post wasn&amp;rsquo;t getting marked up with Microformats when the content (response) was blank.&lt;/p&gt;&#xA;&lt;p&gt;The way it&amp;rsquo;s currently setup, I have just one workflow for all &amp;rsquo;types&amp;rsquo; of post (podcast, reply, like, repost, bookmark, read etc.) and looks like I missed a logic flow that &amp;rsquo;like&amp;rsquo; posts may not necessarily have a note from me. A quick conditional check and the workflow works like a charm!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Replied to:This year: active community members are blogging on</title>
-      <link>http://localhost:1313/2017/06/22/replied-tothis-year-active-community-members-are-blogging-on/</link>
+      <link>https://srikanthperinkulam.com/2017/06/22/replied-tothis-year-active-community-members-are-blogging-on/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/06/22/replied-tothis-year-active-community-members-are-blogging-on/</guid>
+      <guid>https://srikanthperinkulam.com/2017/06/22/replied-tothis-year-active-community-members-are-blogging-on/</guid>
       <description>&lt;p&gt;Wow, didn&amp;rsquo;t realize this was 12 years in the making! Hats off for all the efforts!&lt;/p&gt;&#xA;&lt;p&gt;in reply to: &lt;a href=&#34;http://tantek.com/2017/171/t1/microformats-community-blogging&#34;&gt;This year: active community members are blogging on&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🎂 #microformats.org turned 12 today! This year: active community members are blogging on microformats.org&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Workflow logic</title>
-      <link>http://localhost:1313/2017/06/22/workflow-logic/</link>
+      <link>https://srikanthperinkulam.com/2017/06/22/workflow-logic/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/06/22/workflow-logic/</guid>
+      <guid>https://srikanthperinkulam.com/2017/06/22/workflow-logic/</guid>
       <description>&lt;p&gt;While responding to one of &lt;a href=&#34;http://tantek.com/2017/171/t1/microformats-community-blogging&#34;&gt;Tantek&amp;rsquo;s post&lt;/a&gt; today I realized I had to tweak my publishing workflow to pick &amp;rsquo;the&amp;rsquo; link I was responding to.&lt;/p&gt;&#xA;&lt;p&gt;Should possibly consider using Colin&amp;rsquo;s &lt;a href=&#34;https://colinwalker.blog/2017/06/20/20062017-1538/&#34;&gt;Dom&lt;/a&gt; method to fetch article meta&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Webactions</title>
-      <link>http://localhost:1313/2017/06/18/webactions/</link>
+      <link>https://srikanthperinkulam.com/2017/06/18/webactions/</link>
       <pubDate>Sun, 18 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/06/18/webactions/</guid>
+      <guid>https://srikanthperinkulam.com/2017/06/18/webactions/</guid>
       <description>&lt;p&gt;Testing out a very primitive form of &lt;a href=&#34;https://Indieweb.org/web_actions&#34;&gt;webactions&lt;/a&gt;. If the code works the way it runs in my mind, twitter specific response buttons should show up below this text! Need to spend more time later to add markup for indie-action.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://twitter.com/intent/favorite?tweet_id=876266448586407936&#34;&gt;like&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/tweet?tweet_id=876266448586407936&#34;&gt;reply&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/retweet?tweet_id=876266448586407936&#34;&gt;repost&lt;/a&gt;&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>webmentions</title>
-      <link>http://localhost:1313/2017/06/09/webmentions/</link>
+      <link>https://srikanthperinkulam.com/2017/06/09/webmentions/</link>
       <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/06/09/webmentions/</guid>
+      <guid>https://srikanthperinkulam.com/2017/06/09/webmentions/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;&#xA; &lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Need to figure out why certain #webmentions from my site are being sent as anonymous. Adding that to my ever expanding list of to-do&amp;rsquo;s.&lt;/p&gt;&#xA;&lt;p&gt;Since I started tweaking my portal and started getting deeper into the code, there&amp;rsquo;s been a constant fire in my brain to further tweak and tinker with things. This is addictive!&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Independence</title>
-      <link>http://localhost:1313/2017/06/02/independence/</link>
+      <link>https://srikanthperinkulam.com/2017/06/02/independence/</link>
       <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/06/02/independence/</guid>
+      <guid>https://srikanthperinkulam.com/2017/06/02/independence/</guid>
       <description>&lt;p&gt;As planned a &lt;a href=&#34;https://srikanthperinkulam.com/2017/05/26/tweaks-and-squeaks/&#34;&gt;few days&lt;/a&gt; back, I rewrote some back-end code to minimize the dependency on the workflow app and better integrate with direct desktop publishing. But for a  few isolated kinks, this should be set. This should now give me more flexibility to post from indie publishing platforms and set the stage for other enhancements.&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Response to Colin&#39;s post</title>
-      <link>http://localhost:1313/2017/05/26/response-to-colins-post/</link>
+      <link>https://srikanthperinkulam.com/2017/05/26/response-to-colins-post/</link>
       <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/05/26/response-to-colins-post/</guid>
+      <guid>https://srikanthperinkulam.com/2017/05/26/response-to-colins-post/</guid>
       <description>&lt;p&gt;I really like your &amp;lsquo;how-to&amp;rsquo; getting plugged posts, Colin! Always something to glean! Most of the improvisations I make on my site have been pretty crude - I dice the meat in an mu-plugin (essentially a custom functions file) and leave it at that. I really need to work on better documenting or standardizing my code.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://colinwalker.blog/2017/05/25/getting-plugged-in-part-5-settings/&#34;&gt;Getting plugged in – part 5: settings&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;What started as a quick update to split the plugin into parts (so that it wasn’t all one monolithic file) became quite a major one. My original plan was to move both hooks for updating the post content to separate included files – it hasn’t quite gone according to plan.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;</description>
     </item>
     <item>
       <title>Tweaks and squeaks</title>
-      <link>http://localhost:1313/2017/05/26/tweaks-and-squeaks/</link>
+      <link>https://srikanthperinkulam.com/2017/05/26/tweaks-and-squeaks/</link>
       <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/05/26/tweaks-and-squeaks/</guid>
+      <guid>https://srikanthperinkulam.com/2017/05/26/tweaks-and-squeaks/</guid>
       <description>&lt;p&gt;Strongly considering setting up an updated workflow to publish from my mobile device. Currently chunk of the processing is handled by and within the &amp;lsquo;workflow&amp;rsquo; app. Should probably move those controls from the app over to a custom function for better flexibility. This long weekend should be a good timeframe to get the wheels rolling.&lt;/p&gt;&#xA;&lt;p&gt;Also the workflow app seems to be picking up an additional variable - calshow in urls from posts that are responses. Need to figure out what&amp;rsquo;s churning there!&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Facepiles</title>
-      <link>http://localhost:1313/2017/05/24/facepiles/</link>
+      <link>https://srikanthperinkulam.com/2017/05/24/facepiles/</link>
       <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/05/24/facepiles/</guid>
+      <guid>https://srikanthperinkulam.com/2017/05/24/facepiles/</guid>
       <description>&lt;p&gt;Building on &lt;a href=&#34;https://srikanthperinkulam.com/2017/05/22/or-shall-we/&#34;&gt;yesterday&amp;rsquo;s work&lt;/a&gt;, I went ahead and setup some code to better display post responses. This website now supports &lt;a href=&#34;https://indieweb.org/facepile&#34;&gt;facepiles&lt;/a&gt;! There&amp;rsquo;s a bit of work left in terms of design and visual appeal but I guess most part of the job is done!&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

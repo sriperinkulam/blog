@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Torna-Night-Hike on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/tags/torna-night-hike/index.xml</link>
+    <link>https://srikanthperinkulam.com/tags/torna-night-hike/index.xml</link>
     <description>Recent content in Torna-Night-Hike on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 01 Mar 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/torna-night-hike/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/tags/torna-night-hike/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Torna by night</title>
-      <link>http://localhost:1313/2011/03/01/torna-by-night/</link>
+      <link>https://srikanthperinkulam.com/2011/03/01/torna-by-night/</link>
       <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2011/03/01/torna-by-night/</guid>
+      <guid>https://srikanthperinkulam.com/2011/03/01/torna-by-night/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;&#xA;</description>
     </item>
   </channel>

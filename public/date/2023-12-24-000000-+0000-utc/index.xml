@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2023-12-24 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2023-12-24-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2023-12-24-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2023-12-24 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 24 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2023-12-24-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2023-12-24-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dumbing down</title>
-      <link>http://localhost:1313/2023/12/24/dumbing-down/</link>
+      <link>https://srikanthperinkulam.com/2023/12/24/dumbing-down/</link>
       <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2023/12/24/dumbing-down/</guid>
+      <guid>https://srikanthperinkulam.com/2023/12/24/dumbing-down/</guid>
       <description>&lt;p&gt;A few things I&amp;rsquo;d really like to dumb down or sort out over the next few weeks:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Site&lt;/strong&gt;: This site runs on WordPress, has facets of the indieweb, has ActivityPub and a crude implementation of self engineered micropost interface. All cool but needs quite a trim to make the best use of all these features.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hardware/Infra&lt;/strong&gt;: VPS, VPN, Odroid for reverse proxy, NCP, NUC, Moose, External hard disks&amp;hellip;Love the current implementation for the various utilities they serve. However, I see myself spending lesser and lesser time in front of the PC. Which is good? But which also means I need to find a better way to manage these in the little time I want to spend.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;GPX&lt;/strong&gt;: Go on a hike or ride? Automatically log this on my site. Gotta have that super neat Stamen map. I did get really close to setting this up &lt;a href=&#34;https://srikanthperinkulam.com/2022/02/09/garmin-plugin-2/&#34;&gt;sometime back&lt;/a&gt; but got left on the wayside. Also time to update my &lt;a href=&#34;https://srikanthperinkulam.com/garmin-stats/&#34;&gt;Outdoors plugin&lt;/a&gt;?&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Firefly3&lt;/strong&gt;: Love this tool for finance tracking. Need to build that rule engine to automate some of those imports and reports.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Snikket/Matrix/Slidge&lt;/strong&gt;: Need to get this sorted out to be part of those groups that still rely on WhatsApp. I setup a &lt;a href=&#34;https://srikanthperinkulam.com/2022/02/20/bridged/&#34;&gt;bridge&lt;/a&gt; sometime back but deleted it because I was rarely using it. More of a nice-to-have so may not quite get to this anytime soon.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Memories&lt;/strong&gt;: Selective photo sharing with family or friends. Send a link instead of sharing photos individually. Love the nextcloud setup so far. Would be neat if I can take this up a notch.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Music&lt;/strong&gt;: Kinda like my current Navidrome setup. Would like a bit more flexibility in terms of song or folder access though. Smarter playlists? Also multidevice sync? Music system?&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Notes Sync&lt;/strong&gt;: Currently relying on Signal notes to self and Trilium send for bookmarks. Need to automate this for self sorting with tags in Trilium notes.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Smart sceen&lt;/strong&gt;: On demand and power efficient display for Calendars, Adana, Gallery, dashboard display, news updates etc. Thinking MagicMirror but a bit more optimized. Repurpose that RPi or Odroid once it&amp;rsquo;s all integrated into the NUC?&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

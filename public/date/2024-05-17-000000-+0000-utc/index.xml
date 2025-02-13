@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2024-05-17 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2024-05-17-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2024-05-17-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2024-05-17 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 17 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2024-05-17-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2024-05-17-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NextcloudPi</title>
-      <link>http://localhost:1313/2024/05/17/nextcloudpi/</link>
+      <link>https://srikanthperinkulam.com/2024/05/17/nextcloudpi/</link>
       <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2024/05/17/nextcloudpi/</guid>
+      <guid>https://srikanthperinkulam.com/2024/05/17/nextcloudpi/</guid>
       <description>&lt;p&gt;Last weekend I got a bit cocky and decided to upgrade the distro on the NextcloudPi. The upgrade seemed to go well until it threw a PHP error which got me going in circles. In hindsight, I&amp;rsquo;d setup automatic upgrades on NextcloudPi and Nextcloud, which seems to have conflicted with the actual distribution&amp;rsquo;s update. Now I did take a backup, but that didn&amp;rsquo;t quite sit well with the now upgraded system and the myriad PHP issues.&lt;/p&gt;&#xA;&lt;p&gt;Had enough of the band-aid fixes and decided to migrate the nextcloud server to a laptop that was just lying around unused. Decided to stick with the &lt;a href=&#34;https://github.com/nextcloud/nextcloudpi/&#34;&gt;NexcloudPi OS&lt;/a&gt; since it has served me super awesome over the last seven years. I did make sure the auto upgrades were disabled though! Also RSync is awesome!&lt;/p&gt;&#xA;&lt;p&gt;An added  bonus is that I now have a spare RPi3 to tinker with! Not quite &lt;a href=&#34;https://srikanthperinkulam.com/2024/04/14/pico-de-aguila/&#34;&gt;dumbing down&lt;/a&gt;, am I?&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

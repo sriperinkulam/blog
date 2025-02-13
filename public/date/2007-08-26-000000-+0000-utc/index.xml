@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2007-08-26 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2007-08-26-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2007-08-26-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2007-08-26 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 26 Aug 2007 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2007-08-26-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2007-08-26-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ubuntu: BSNL Broadband Connection</title>
-      <link>http://localhost:1313/2007/08/26/ubuntu-bsnl-broadband-connection/</link>
+      <link>https://srikanthperinkulam.com/2007/08/26/ubuntu-bsnl-broadband-connection/</link>
       <pubDate>Sun, 26 Aug 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2007/08/26/ubuntu-bsnl-broadband-connection/</guid>
+      <guid>https://srikanthperinkulam.com/2007/08/26/ubuntu-bsnl-broadband-connection/</guid>
       <description>&lt;p&gt;Holla&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;My first post typed in from Ubuntu with it hooked to the net!!!&lt;/p&gt;&#xA;&lt;p&gt;Just managed to configure the Broadband connection in Ubuntu!! Am on cloud nine, given the fact that I&amp;rsquo;d been struggling in vain for the past few months to get a few Linux flavours hooked on to the net. Believe me, There couldn&amp;rsquo;t be anything else that&amp;rsquo;s as simple as this!!&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s the trick ( if at all it could be called that!) for those novices ( obviously like me! ) who haven&amp;rsquo;t yet had luck configuring their systems.&lt;/p&gt;&#xA;&lt;p&gt;1&amp;gt; Switch off your modem&lt;/p&gt;&#xA;&lt;p&gt;2&amp;gt;Open the Network settings Dialog box ( System&amp;gt; Administration&amp;gt; Network)&lt;/p&gt;&#xA;&lt;p&gt;3&amp;gt;Select &amp;lsquo;Wired Connection&amp;rsquo; and click on the Properties.&lt;/p&gt;&#xA;&lt;p&gt;4&amp;gt; In the &amp;lsquo;Connection Settings&amp;rsquo; Menu select &amp;lsquo;Static IP &amp;rsquo; type in the following values and save:&lt;/p&gt;&#xA;&lt;p&gt;IP Address : 192.168.1.2&lt;/p&gt;&#xA;&lt;p&gt;/* Assigning the Ethernet Card an IP different from that of the modem*/&lt;/p&gt;&#xA;&lt;p&gt;Subnet Mask: 255.255.255.0&lt;/p&gt;&#xA;&lt;p&gt;/* No idea why this value is always this :-) */&lt;/p&gt;&#xA;&lt;p&gt;Gateway address: 192.168.1.1&lt;/p&gt;&#xA;&lt;p&gt;/* The Modem is being made the default gateway*/&lt;/p&gt;&#xA;&lt;p&gt;5&amp;gt;Switch on the Modem and wait for a few minutes for the values to get recorded.&lt;/p&gt;&#xA;&lt;p&gt;6&amp;gt;In the Terminal ( Applications&amp;gt;Accessories&amp;gt; Terminal) type &amp;lsquo;sudo pppoeconf&amp;rsquo;&lt;/p&gt;&#xA;&lt;p&gt;6&amp;gt;A window pops with a blue screen notifying that an ethernet device has been found. Just follow the on screen instructions till you reach the screen which asks you for your BSNL UID and PASS. Ping in the values (after deleting the text Username from the line) and you&amp;rsquo;re done!! :-)&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve still got to figure out how to disconnect from the n/w though that shouldn&amp;rsquo;t be a big issue&amp;hellip;..&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;[Update: 22-Oct-09]&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Just type the following commands in the terminal:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;sudo ifconfig eth0 192.168.1.2 netmask 255.255.255.0 up&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;sudo route add default gw 192.168.1.1 eth0&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;This could also do the trick.&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

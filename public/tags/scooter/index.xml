@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scooter on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/tags/scooter/index.xml</link>
+    <link>https://srikanthperinkulam.com/tags/scooter/index.xml</link>
     <description>Recent content in Scooter on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/scooter/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/tags/scooter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Breezy</title>
-      <link>http://localhost:1313/2023/05/29/breezy/</link>
+      <link>https://srikanthperinkulam.com/2023/05/29/breezy/</link>
       <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2023/05/29/breezy/</guid>
+      <guid>https://srikanthperinkulam.com/2023/05/29/breezy/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Imagepipe_4.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Built out this cool scooter for S. Kinda neat how they&amp;rsquo;ve designed this - To turn, the rider needs to lean in the direction of the turn. Not sure if the kiddo will appreciate it. It sure did keep me busy for a couple hours!&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

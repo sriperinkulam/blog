@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2017-05-12 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2017-05-12-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2017-05-12-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2017-05-12 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 May 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2017-05-12-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2017-05-12-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>It&#39;s time!</title>
-      <link>http://localhost:1313/2017/05/12/its-time/</link>
+      <link>https://srikanthperinkulam.com/2017/05/12/its-time/</link>
       <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/05/12/its-time/</guid>
+      <guid>https://srikanthperinkulam.com/2017/05/12/its-time/</guid>
       <description>&lt;p&gt;D-1 day! Hoping the weather system stays just like today&amp;rsquo;s. All set and packed for the run. Tomorrow by this time I should be somewhere near the finish!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/FullSizeRender.jpg&#34; alt=&#34;FullSizeRender.jpg&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Some thoughts on Keybase, online security, and verification of identity</title>
-      <link>http://localhost:1313/2017/05/12/some-thoughts-on-keybase-online-security-and-verification-of-identity/</link>
+      <link>https://srikanthperinkulam.com/2017/05/12/some-thoughts-on-keybase-online-security-and-verification-of-identity/</link>
       <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/05/12/some-thoughts-on-keybase-online-security-and-verification-of-identity/</guid>
+      <guid>https://srikanthperinkulam.com/2017/05/12/some-thoughts-on-keybase-online-security-and-verification-of-identity/</guid>
       <description>&lt;p&gt;I’m going to stick my neck out a bit and say that, online, identity is the most important factor in any conversation or transaction. That’s not to say I’m a believer in tying these things to real-world, offline identities.&lt;/p&gt;&#xA;&lt;p&gt;Just read: &lt;a href=&#34;http://dougbelshaw.com/blog/2017/05/12/keybase-security/&#34;&gt;Some thoughts on Keybase, online security, and verification of identity&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://dougbelshaw.com/blog/2017/05/12/keybase-security/&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

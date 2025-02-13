@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2025-01-13 06:30:00 -0500 -0500 on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2025-01-13-063000--0500--0500/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2025-01-13-063000--0500--0500/index.xml</link>
     <description>Recent content in 2025-01-13 06:30:00 -0500 -0500 on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 13 Jan 2025 06:30:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2025-01-13-063000--0500--0500/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2025-01-13-063000--0500--0500/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blue Dell alert</title>
-      <link>http://localhost:1313/2025/01/13/blue-dell-alert/</link>
+      <link>https://srikanthperinkulam.com/2025/01/13/blue-dell-alert/</link>
       <pubDate>Mon, 13 Jan 2025 06:30:00 -0500</pubDate>
-      <guid>http://localhost:1313/2025/01/13/blue-dell-alert/</guid>
-      <description>&lt;p&gt;Around 0300 today, I was woken up rudely to a blaring sound. For a moment I assumed it was from the Seismic City alert system that CDMX has. Turned out, it was from the old blue dell laptop that I currently use to run NextcloudPi. For some reason, looks like it rebooted and went into a huge panic mode because it lost time sync. Yanked all the cables and shut it down. Something to figure out over the next few days when I have time. &lt;a href=&#34;http://localhost:1313/2025/01/13/blue-dell-alert/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;</description>
+      <guid>https://srikanthperinkulam.com/2025/01/13/blue-dell-alert/</guid>
+      <description>&lt;p&gt;Around 0300 today, I was woken up rudely to a blaring sound. For a moment I assumed it was from the Seismic City alert system that CDMX has. Turned out, it was from the old blue dell laptop that I currently use to run NextcloudPi. For some reason, looks like it rebooted and went into a huge panic mode because it lost time sync. Yanked all the cables and shut it down. Something to figure out over the next few days when I have time. &lt;a href=&#34;https://srikanthperinkulam.com/2025/01/13/blue-dell-alert/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;</description>
     </item>
   </channel>
 </rss>

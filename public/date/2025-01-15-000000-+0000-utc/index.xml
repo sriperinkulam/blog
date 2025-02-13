@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2025-01-15 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2025-01-15-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2025-01-15-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2025-01-15 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2025-01-15-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2025-01-15-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://srikanthperinkulam.com/contact/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://srikanthperinkulam.com/contact/</guid>
       <description>&lt;p&gt;The best way to reach me is via this site. Send me a message or just reply to one of my posts. I’m reasonably active on the following portals:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Micro.blog: &lt;a href=&#34;https://micro.blog/sp&#34;&gt;@sp&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Fediverse: &lt;a href=&#34;https://chat.srkn.org/@ssp&#34;&gt;@ssp@chat.srkn.org&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Matrix: @ssp:matrix.srkn.org&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
     </item>
   </channel>

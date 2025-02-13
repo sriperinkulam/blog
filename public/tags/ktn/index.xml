@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ktn on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/tags/ktn/index.xml</link>
+    <link>https://srikanthperinkulam.com/tags/ktn/index.xml</link>
     <description>Recent content in Ktn on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 09 Mar 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ktn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/tags/ktn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>De-clutter</title>
-      <link>http://localhost:1313/2022/03/09/de-clutter/</link>
+      <link>https://srikanthperinkulam.com/2022/03/09/de-clutter/</link>
       <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2022/03/09/de-clutter/</guid>
+      <guid>https://srikanthperinkulam.com/2022/03/09/de-clutter/</guid>
       <description>&lt;p&gt;Over the last few months, I have been able to drastically reduce the digital clutter with two key tools - &lt;a href=&#34;https://anonaddy.com/&#34;&gt;Anonaddy&lt;/a&gt; and &lt;a href=&#34;https://kill-the-newsletter.com/&#34;&gt;KTN&lt;/a&gt;. Anonaddy lets you spin up email aliases on-the-go and sever them as needed.  KTN let&amp;rsquo;s you subscribe to newsletters in your feed reader via RSS. Pretty cool concept and I love how easy it is to use! Highly recommend!&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Fall cleaning</title>
-      <link>http://localhost:1313/2021/11/23/fall-cleaning/</link>
+      <link>https://srikanthperinkulam.com/2021/11/23/fall-cleaning/</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2021/11/23/fall-cleaning/</guid>
+      <guid>https://srikanthperinkulam.com/2021/11/23/fall-cleaning/</guid>
       <description>&lt;p&gt;Black Friday week is a great time to unsubscribe or delete your inactive accounts! Most portals reach out offering &amp;lsquo;deals&amp;rsquo; around this time and this is just enough to nudge me to &amp;lsquo;clean up&amp;rsquo; my subscriptions. I skimmed through the emails I received over the last year and was shocked to find that 130 different portals had my e-mail address! Time to crank up &amp;lsquo;&lt;a href=&#34;https://kill-the-newsletter.com/&#34;&gt;Kill-the-newsletter&lt;/a&gt;&amp;rsquo; and feed my feed-reader.&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

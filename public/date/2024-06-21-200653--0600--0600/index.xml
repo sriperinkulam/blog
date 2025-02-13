@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2024-06-21 20:06:53 -0600 -0600 on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2024-06-21-200653--0600--0600/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2024-06-21-200653--0600--0600/index.xml</link>
     <description>Recent content in 2024-06-21 20:06:53 -0600 -0600 on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 21 Jun 2024 20:06:53 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2024-06-21-200653--0600--0600/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2024-06-21-200653--0600--0600/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PhotoPrism Albums</title>
-      <link>http://localhost:1313/2024/06/21/photoprism-albums/</link>
+      <link>https://srikanthperinkulam.com/2024/06/21/photoprism-albums/</link>
       <pubDate>Fri, 21 Jun 2024 20:06:53 -0600</pubDate>
-      <guid>http://localhost:1313/2024/06/21/photoprism-albums/</guid>
+      <guid>https://srikanthperinkulam.com/2024/06/21/photoprism-albums/</guid>
       <description>&lt;p&gt;M and I tend to share photos with family and friends on various chat groups. While straightforward, It felt redundant to share copies of the same pictures in multiple places. I’ve been looking for options to share album links instead that would give us a bit more control. All our photos are primarily saved in a Nextcloud self-hosted instance. I explored a few options of album shares there but wasn’t quite happy. Pixelfed was another option I explored. It did check most of the requirements but I wasn’t quite comfortable relying on a software that’s mostly dependent on just one developer. Also the unlisted feature on their albums seemed half-baked and not yet ready for prime-time. Finally played a bit with PhotoPrism and so far it seems to be something that checks all the boxes. With private links, a PWA app and great thumbnails this might be the closest solution for my photo needs.&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

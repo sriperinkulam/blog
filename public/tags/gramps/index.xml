@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gramps on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/tags/gramps/index.xml</link>
+    <link>https://srikanthperinkulam.com/tags/gramps/index.xml</link>
     <description>Recent content in Gramps on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 25 Apr 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/gramps/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/tags/gramps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>April 25, 2021 15:52</title>
-      <link>http://localhost:1313/2021/04/25/april-25-2021-1552/</link>
+      <link>https://srikanthperinkulam.com/2021/04/25/april-25-2021-1552/</link>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2021/04/25/april-25-2021-1552/</guid>
+      <guid>https://srikanthperinkulam.com/2021/04/25/april-25-2021-1552/</guid>
       <description>&lt;p&gt;Meena&amp;rsquo;s been interested in building our family tree for a while now. Installed Gramps on her machine and she&amp;rsquo;s feeding this nifty application with all the family data. This is going to be an extended project and can&amp;rsquo;t wait to see what comes out of it. Haven&amp;rsquo;t researched much but looks like Gramps does not have a shared/collaborative edit features. It does have good export features, so should be easy to move data around to other applications if needed.&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

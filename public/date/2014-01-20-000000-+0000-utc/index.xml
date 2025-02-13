@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2014-01-20 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
-    <link>http://localhost:1313/date/2014-01-20-000000-&#43;0000-utc/index.xml</link>
+    <link>https://srikanthperinkulam.com/date/2014-01-20-000000-&#43;0000-utc/index.xml</link>
     <description>Recent content in 2014-01-20 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 20 Jan 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/date/2014-01-20-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srikanthperinkulam.com/date/2014-01-20-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Little Red Lighthouse</title>
-      <link>http://localhost:1313/2014/01/20/the-little-red-lighthouse/</link>
+      <link>https://srikanthperinkulam.com/2014/01/20/the-little-red-lighthouse/</link>
       <pubDate>Mon, 20 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2014/01/20/the-little-red-lighthouse/</guid>
+      <guid>https://srikanthperinkulam.com/2014/01/20/the-little-red-lighthouse/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;TheLittleRedLighthouse.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;</description>
     </item>
   </channel>
