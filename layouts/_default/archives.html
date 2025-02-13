@@ -4,14 +4,16 @@
         {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
         {{ $latestYear := "" }}
         {{ range $pages.GroupByPublishDate "2006" }}
-            <h3 class="accordion-header" id="{{.Key | urlize}}" onclick="showPosts('{{.Key | urlize}}', this)">
-                {{.Key}}
+            {{ $year := .Key }}
+            {{ $totalPosts := len .Pages }}
+            <h3 class="accordion-header" id="{{ $year | urlize }}" onclick="showPosts('{{ $year | urlize }}', this)" tabindex="0" role="button" aria-expanded="false" aria-controls="posts-content">
+                {{ $year }}<sup class="post-count">{{ $totalPosts }}</sup>
             </h3>
-            {{ if eq $latestYear "" }} {{ $latestYear = .Key }} {{ end }}
+            {{ if eq $latestYear "" }} {{ $latestYear = $year }} {{ end }}
         {{ end }}
     </div>
     <div class="accordion-posts">
-        <div id="posts-content">
+        <div id="posts-content" aria-live="polite">
             <p>Select a year from the left to view posts.</p>
         </div>
     </div>
@@ -20,10 +22,12 @@
 <style>
 .accordion-container {
     display: flex;
+    flex-wrap: nowrap; /* Prevent wrapping */
 }
 
 .accordion-navigation {
-    width: 25%;
+    flex: 0 0 auto; /* Allow navigation to take only necessary space */
+    min-width: 75px; /* Set a minimum width for better usability */
     border-right: 1px solid #ccc;
 }
 
@@ -32,9 +36,11 @@
     padding: 10px;
     background-color: var(--bg-color);
     color: var(--text-color);
+    transition: background-color 0.3s; /* Smooth transition */
 }
 
-.accordion-header:hover {
+.accordion-header:hover,
+.accordion-header:focus {
     background-color: var(--hover-bg-color);
 }
 
@@ -43,18 +49,67 @@
     color: var(--selected-text-color);
 }
 
+.post-count {
+    font-size: 0.5em; /* Further reduce font size */
+    color: var(--text-color);
+    vertical-align: super;
+    margin-left: 5px;
+    line-height: 0;
+}
+
 .accordion-posts {
-    width: 75%;
-    padding: 20px;
+    flex: 1; /* Allow posts section to take remaining space */
+    padding: 5px;
     background-color: var(--bg-color);
     color: var(--text-color);
+    overflow-x: auto;
+}
+
+.item-list {
+    list-style-type: none; /* Remove default list styling */
+    padding: 0; /* Remove padding */
+}
+
+.item-list li {
+    margin-bottom: 10px; /* Space between items */
+}
+
+.item-list p {
+    margin: 0; /* Remove margin for paragraphs */
+}
+
+.item-list strong {
+    margin-right: 2px; /* Set margin to 2px for a small space */
+    white-space: nowrap; /* Prevent date from wrapping */
+    display: inline; /* Ensure date is inline */
+}
+
+.item-list a {
+    word-wrap: break-word; /* Allow long titles to wrap */
+    display: inline; /* Ensure title is inline */
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+    .accordion-container {
+        flex-direction: row; /* Keep navigation and posts side by side */
+    }
+
+    .accordion-navigation {
+        width: auto; /* Allow navigation to take only necessary space */
+        border-right: none; /* Remove right border */
+    }
+
+    .accordion-posts {
+        width: 100%; /* Full width for posts */
+    }
 }
 </style>
 
 <script>
 const postsData = {
     {{ range $pages.GroupByPublishDate "2006" }}
-        "{{.Key | urlize}}": `
+        "{{ .Key | urlize }}": `
             <ul class="item-list">
                 {{ range sort .Pages "PublishDate" "desc" }}
                     <li>
@@ -63,7 +118,7 @@ const postsData = {
                                 <time datetime="{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" }}">
                                     {{ .PublishDate.Format "Jan 02" }}
                                 </time>
-                            </strong>: <a href="{{.Permalink}}"><u>{{.Title}}</u></a>
+                            </strong>: <a href="{{ .Permalink }}"><u>{{ .Title }}</u></a>
                         </p>
                     </li>
                 {{ end }}
@@ -76,12 +131,16 @@ function showPosts(year, header) {
     const postsContent = document.getElementById('posts-content');
     postsContent.innerHTML = postsData[year] || '<p>No posts available for this year.</p>';
 
-    // Remove 'selected' class from all headers
+    // Update aria-expanded attribute for accessibility
     const headers = document.querySelectorAll('.accordion-header');
-    headers.forEach(h => h.classList.remove('selected'));
+    headers.forEach(h => {
+        h.classList.remove('selected');
+        h.setAttribute('aria-expanded', 'false');
+    });
 
     // Add 'selected' class to the clicked header
     header.classList.add('selected');
+    header.setAttribute('aria-expanded', 'true');
 }
 
 // Show the latest year's posts by default

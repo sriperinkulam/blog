@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2015-04-02 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/date/2015-04-02-000000-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2015-04-02 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/date/2015-04-02-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>America&#39;s Bitter Pill</title>
+      <link>http://localhost:1313/book-note/americas-bitter-pill/</link>
+      <pubDate>Thu, 02 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/book-note/americas-bitter-pill/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

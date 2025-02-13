@@ -1,22 +1,59 @@
-<div class="comments"><h3> 💬 Comments </h3> 
-<script data-isso="https://isso.srikanthperinkulam.com/"
-                    data-isso-id="thread-id"
-                    data-isso-css="true"
-                    data-isso-lang="en"
-                    data-isso-reply-to-self="true"
-                    data-isso-reply-notifications="true"
-                    data-isso-require-author="true"
-                    data-isso-require-email="false"
-                    data-isso-max-comments-top="10"
-                    data-isso-max-comments-nested="5"
-                    data-isso-reveal-on-click="5"
-                    data-isso-avatar="false"
-                    data-isso-gravatar="true"
-                    data-isso-feed="false"
-                    data-isso-vote="true"
-                    src="https://isso.srikanthperinkulam.com/js/embed.min.js"></script>
+<div class="comments">
+    <button id="toggle-comments" class="btn btn-primary" style="margin: 10px 0; padding: 10px 20px; font-size: 16px; border-radius: 5px;">
+        💬 Show Interactions and Comments
+    </button>
+    
+    <div id="comments-section" style="display: none;">
+        <script data-isso="https://isso.srikanthperinkulam.com/"
+                data-isso-id="thread-id"
+                data-isso-css="true"
+                data-isso-lang="en"
+                data-isso-reply-to-self="true"
+                data-isso-reply-notifications="true"
+                data-isso-require-author="true"
+                data-isso-require-email="false"
+                data-isso-max-comments-top="10"
+                data-isso-max-comments-nested="5"
+                data-isso-reveal-on-click="5"
+                data-isso-avatar="false"
+                data-isso-gravatar="true"
+                data-isso-feed="false"
+                data-isso-vote="true"
+                src="https://isso.srikanthperinkulam.com/js/embed.min.js"></script>
 
-<section id="isso-thread">
-    <noscript>Javascript needs to be activated to view comments.</noscript>
-</section>
+        <section id="isso-thread">
+            <noscript>Javascript needs to be activated to view comments.</noscript>
+        </section>
+    </div>
 </div>
+
+<script>
+    document.getElementById('toggle-comments').addEventListener('click', function() {
+        var commentsSection = document.getElementById('comments-section');
+        if (commentsSection.style.display === 'none') {
+            commentsSection.style.display = 'block';
+            this.textContent = '💬 Hide Interactions and Comments';
+        } else {
+            commentsSection.style.display = 'none';
+            this.textContent = '💬 Show Interactions and Comments';
+        }
+    });
+</script>
+
+<style>
+    .btn {
+        background-color: #007bff; /* Bootstrap primary color */
+        color: white;
+        border: none;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+    .btn:hover {
+        background-color: #0056b3; /* Darker shade for hover effect */
+    }
+
+    .btn:focus {
+        outline: none; /* Remove outline on focus */
+    }
+</style>

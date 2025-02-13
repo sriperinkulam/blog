@@ -2,12 +2,13 @@
     {{ $images := .Get "images" | default "images" }}
     {{ $imageDir := (printf "%s/%s/%s" "/content" .Page.File.Dir $images) }}
     {{ $imageFiles := readDir $imageDir }}
-    
+    {{ $permalink := .Page.Permalink }}
     <ul class="photo-list {{ if eq (len $imageFiles) 1 }}single-image{{ end }}">
         {{ range $imageFiles }}
             {{ $imagePath := (printf "%s/%s" $images .Name) }} <!-- Store the image path -->
+            {{ $imageFile := (printf "%s%s" $permalink $imagePath) }} 
             <li>
-                <img src=".{{ $imagePath | relURL }}" alt="{{ .Name }}" />
+                <a href="{{ $imageFile | absURL }}"><img src=".{{ $imagePath | relURL }}" alt="{{ .Name }}" /><a>
             </li>
         {{ end }}
     </ul>

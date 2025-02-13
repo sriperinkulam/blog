@@ -17,6 +17,8 @@ tags:
 - Nevado de Toluca
 title: Arista de Humboldt
 year: 2024
+gpxFile: "activity_17616097029.gpx" 
+jsonFile: "2024-11-24 11:12:230:00_17616097029_summary.json"
 ---
 
 A few weeks ago I sent out a poll to the ESC group to gauge interest in a group hike at Nevado de Toluca. There was reasonable interest and we slotted this to be a family hike on the 24th. The Padilla's and Johnston's had to drop off last minute. It was just going to be Hadley and the Arturo's now with the three of us. We reached the Shuttle point around 1015, hopped in a shuttle and got to the trail-head around 1100. Couldn't wait to hop off the shuttle - the gasoline stench coupled with the super dusty windy roads was more than churning my tummy. S did terrific with no complaints!

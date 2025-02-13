@@ -6,14 +6,12 @@
     <description>Recent content in Workout-Dummy-Test on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
-    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
     <lastBuildDate>Sun, 19 Sep 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/workout-dummy-test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Post</title>
       <link>http://localhost:1313/2021/09/19/test-post/</link>
-      <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/2021/09/19/test-post/</guid>
       <description>&lt;p&gt;Testing front-end post publishing. This shouldn&amp;rsquo;t show-up in the feeds but should show-up under the Micro-posts page&lt;/p&gt;&#xA;</description>
     </item>

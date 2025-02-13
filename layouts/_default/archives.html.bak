@@ -4,10 +4,12 @@
         {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
         {{ $latestYear := "" }}
         {{ range $pages.GroupByPublishDate "2006" }}
-            <h3 class="accordion-header" id="{{.Key | urlize}}" onclick="showPosts('{{.Key | urlize}}', this)">
-                {{.Key}}
+            {{ $year := .Key }}
+            {{ $totalPosts := len .Pages }}
+            <h3 class="accordion-header" id="{{ $year | urlize }}" onclick="showPosts('{{ $year | urlize }}', this)">
+                {{ $year }}<sup class="post-count">{{ $totalPosts }}</sup>
             </h3>
-            {{ if eq $latestYear "" }} {{ $latestYear = .Key }} {{ end }}
+            {{ if eq $latestYear "" }} {{ $latestYear = $year }} {{ end }}
         {{ end }}
     </div>
     <div class="accordion-posts">
@@ -23,7 +25,7 @@
 }
 
 .accordion-navigation {
-    width: 20%;
+    width: 15%;
     border-right: 1px solid #ccc;
 }
 
@@ -43,18 +45,48 @@
     color: var(--selected-text-color);
 }
 
+.post-count {
+    font-size: 0.5em; /* Further reduce font size */
+    color: var(--text-color); /* Use the same text color */
+    vertical-align: super; /* Align as superscript */
+    margin-left: 5px; /* Add space between year and sup */
+    line-height: 0; /* Adjust line height to raise the sup */
+}
+
 .accordion-posts {
-    width: 80%;
+    width: 85%;
     padding: 20px;
     background-color: var(--bg-color);
     color: var(--text-color);
+    overflow-x: auto; /* Enable horizontal scrolling */
+}
+
+.post-divider {
+    border-top: 1px solid #ccc;
+    margin: 10px 0; /* Add some space around the divider */
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+    .accordion-container {
+        flex-direction: column; /* Stack the navigation and posts vertically */
+    }
+
+    .accordion-navigation {
+        width: 100%; /* Full width for navigation */
+        border-right: none; /* Remove right border */
+    }
+
+    .accordion-posts {
+        width: 100%; /* Full width for posts */
+        max-width: 100%; /* Ensure it doesn't exceed the screen width */
+    }
 }
 </style>
-
 <script>
 const postsData = {
     {{ range $pages.GroupByPublishDate "2006" }}
-        "{{.Key | urlize}}": `
+        "{{ .Key | urlize }}": `
             <ul class="item-list">
                 {{ range sort .Pages "PublishDate" "desc" }}
                     <li>
@@ -63,7 +95,7 @@ const postsData = {
                                 <time datetime="{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" }}">
                                     {{ .PublishDate.Format "Jan 02" }}
                                 </time>
-                            </strong>: <a href="{{.Permalink}}"><u>{{.Title}}</u></a>
+                            </strong>: <a href="{{ .Permalink }}"><u>{{ .Title }}</u></a>
                         </p>
                     </li>
                 {{ end }}

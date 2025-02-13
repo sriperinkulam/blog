@@ -1,0 +1,183 @@
+{{ define "main" }}
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+  <main>
+
+<H1>Garmin Activity Data</H1>  
+<br>
+{{ $files := (readDir "assets/data/garmin/activities/jsons/") }}
+{{ $files := sort $files "Name" "desc" }}
+{{ range $files }}
+{{ printf "Found file: %s" .Name }}
+{{ if and (eq (path.Ext .Name) ".json") (not (hasPrefix .Name "0000_")) }}
+{{ $data := dict }}
+{{ $p := printf "data/garmin/activities/jsons/%s" .Name }}
+{{ with resources.Get $p }}
+ {{ $data = . | transform.Unmarshal }}
+{{ else }}
+  {{ errorf "Unable to get resource %q" $p }}
+{{ end }}
+
+{{ $run_emoji := "🏃" }}
+{{ $hike_emoji := "🥾" }}
+{{ $bike_emoji := "🚴‍" }}
+{{ $other_emoji := "🤸" }}
+{{ $yoga_emoji := "🧘" }}
+{{ $heart_emoji := "🫀" }}
+{{ $distance := 1 }}
+{{ $duration := "" }}
+{{ $pace := "" }}
+
+{{ $activityid := cast.ToString $data.activityId }}
+{{ $activityname := cast.ToString $data.activityName }}
+{{ $activitytype := $data.activityTypeDTO.typeKey }}
+
+
+{{ $distance := $data.summaryDTO.distance }}
+{{ if or (eq (printf "%T" $distance) "float64") (eq (printf "%T" $distance) "int") (gt $distance 0.1) }}
+{{ $distance = math.Div $distance 1609.344 }}
+{{ $distance = div (math.Round (mul $distance 100)) 100 }}
+{{ else }}
+{{ $distance = 0.1 }}
+{{ end }}
+
+{{ $starttime := time $data.summaryDTO.startTimeLocal }}
+{{ $activityyear := $starttime.Format "2006" }}
+{{ $activitymonth := $starttime.Format "01" }}
+{{ $activityday := $starttime.Format "02" }}
+{{ $activitydate := $starttime.Format "2006-01-02" }}
+{{ $activitystarttime := $starttime.Format "15:04:05" }}
+
+
+{{ $seconds := $data.summaryDTO.duration }}
+{{ if or (eq (printf "%T" $seconds) "float64") (eq (printf "%T" $seconds) "int") }}
+{{ $hours := int (div $seconds 3600)}}
+{{ $minutes := div (mod $seconds 3600) 60 }}
+{{ $remainingSeconds := mod $seconds 60 }}
+{{ $duration = printf "%02d:%02d:%02d" $hours $minutes $remainingSeconds }}
+{{ else }}
+{{ $duration = "" }}
+{{ end }}
+
+{{ $movseconds := $data.summaryDTO.movingDuration }}
+{{ if or (eq (printf "%T" $movseconds) "float64") (eq (printf "%T" $movseconds) "int") }}
+{{ $movhours := int (div $movseconds 3600)}}
+{{ $movminutes := div (mod $movseconds 3600) 60 }}
+{{ $movremainingSeconds := mod $movseconds 60 }}
+{{ $movduration := printf "%02d:%02d:%02d" $movhours $movminutes $movremainingSeconds }}
+{{ else }}
+{{ $movduration := 0 }}
+{{ end }}
+
+{{ $calories := int $data.summaryDTO.calories }}
+{{ $averagehr := $data.summaryDTO.averageHR }}
+{{ $maxhr := $data.summaryDTO.maxHR }}
+
+{{ if gt $distance 0 }}
+{{ $pace = div (div $data.summaryDTO.duration 60) $distance }}
+{{ $pace = div (math.Round (mul $pace 100)) 100 }}
+{{ else }}
+{{ $pace = "n/a" }}
+{{ end }}
+
+{{ $location := $data.locationName }}
+
+{{ $elevationgain := $data.summaryDTO.elevationGain }}
+{{ if or (eq (printf "%T" $elevationgain) "float64") (eq (printf "%T" $elevationgain) "int") }}
+{{ $elevationgain = div $elevationgain 0.3048 }}
+{{ else }}
+{{ $elevationgain := 0 }}
+{{ end }}
+
+
+{{ $elevationloss := $data.summaryDTO.elevationLoss }}
+{{ if or (eq (printf "%T" $elevationloss) "float64") (eq (printf "%T" $elevationloss) "int") }}
+{{ $elevationloss = div $elevationloss 0.3048 }}
+{{ else }}
+{{ $elevationloss := 0 }}
+{{ end }}
+
+{{ $maxelevation := $data.summaryDTO.maxElevation }}
+{{ if or (eq (printf "%T" $maxelevation) "float64") (eq (printf "%T" $maxelevation) "int") }}
+{{ $maxelevation = div $maxelevation 0.3048 }}
+{{ else }}
+{{ $maxelevation := 0 }}
+{{ end }}
+
+{{ $minelevation := $data.summaryDTO.minElevation }}
+{{ if or (eq (printf "%T" $minelevation) "float64") (eq (printf "%T" $minelevation) "int") }}
+{{ $minelevation = div $minelevation 0.3048 }}
+{{ else }}
+{{ $minelevation := 0 }}
+{{ end }}
+
+
+{{ if eq $activitytype "cycling" }}
+<p> {{ $activitydate }} | {{ $activitystarttime }}: <b> {{ $activityname }} </b> {{ $bike_emoji }} <br>
+    Rode {{ $distance }} mi. in {{ $duration }} at {{ $pace }} min/mile. <br>
+    Elevation Gain: {{ lang.FormatNumberCustom 2 $elevationgain }} ft.<br>
+    Elevation Loss: {{ lang.FormatNumberCustom 2 $elevationloss }} ft.<br>
+    Elevation - Max: {{ lang.FormatNumberCustom 2 $maxelevation }} ft. | Min: {{ lang.FormatNumberCustom 2 $minelevation }} ft.<br>
+    Calories: {{ $calories }}<br>
+    {{ $heart_emoji }} Average HR: {{ $averagehr }} | Max HR: {{ $maxhr }} <br>
+    {{if $location }}
+    Location: {{ $location }}
+    {{ end }}
+<hr></p>
+{{ else if eq $activitytype "running" }}
+<p> {{ $activitydate }} | {{ $activitystarttime }}: <b> {{ $activityname }} </b> {{ $run_emoji }} <br>
+    Ran {{ $distance }} mi. in {{ $duration }} at {{ $pace }} min/mile. <br>
+    Elevation Gain: {{ lang.FormatNumberCustom 2 $elevationgain }} ft.<br>
+    Elevation Loss: {{ lang.FormatNumberCustom 2 $elevationloss }} ft.<br>
+    Elevation - Max: {{ lang.FormatNumberCustom 2 $maxelevation }} ft. | Min: {{ lang.FormatNumberCustom 2 $minelevation }} ft.<br>
+    Calories: {{ $calories }}<br>
+    {{ $heart_emoji }} Average HR: {{ $averagehr }} | Max HR: {{ $maxhr }} <br>
+    {{if $location }}
+    Location: {{ $location }}
+    {{ end }}
+<hr></p>
+{{ else if eq $activitytype "hiking" }}
+<p> {{ $activitydate }} | {{ $activitystarttime }}: <b> {{ $activityname }} </b> {{ $hike_emoji }} <br>
+    Hiked {{ $distance }} mi. in {{ $duration }} at {{ $pace }} min/mile. <br>
+    Elevation Gain: {{ lang.FormatNumberCustom 2 $elevationgain }} ft.<br>
+    Elevation Loss: {{ lang.FormatNumberCustom 2 $elevationloss }} ft.<br>
+    Elevation - Max: {{ lang.FormatNumberCustom 2 $maxelevation }} ft. | Min: {{ lang.FormatNumberCustom 2 $minelevation }} ft.<br>
+    Calories: {{ $calories }}<br>
+    {{ $heart_emoji }} Average HR: {{ $averagehr }} | Max HR: {{ $maxhr }} <br>
+    {{if $location }}
+    Location: {{ $location }}
+    {{ end }}
+<hr></p>
+{{ else if eq $activitytype "other" }}
+<p> {{ $activitydate }} | {{ $activitystarttime }}: <b> {{ $activityname }} </b> {{ $other_emoji }} <br>
+    Covered {{ $distance }} mi. in {{ $duration }} at {{ $pace }} min/mile. <br>
+    Elevation Gain: {{ lang.FormatNumberCustom 2 $elevationgain }} ft.<br>
+    Elevation Loss: {{ lang.FormatNumberCustom 2 $elevationloss }} ft.<br>
+    Elevation - Max: {{ lang.FormatNumberCustom 2 $maxelevation }} ft. | Min: {{ lang.FormatNumberCustom 2 $minelevation }} ft.<br>
+    Calories: {{ $calories }}<br>
+    {{ $heart_emoji }} Average HR: {{ $averagehr }} | Max HR: {{ $maxhr }} <br>
+    {{if $location }}
+    Location: {{ $location }}
+    {{ end }}
+<hr></p>
+
+{{ else }}
+    <p></p>
+{{ end }}
+
+{{ end }} <!-- Ending If -->
+
+{{ end }} <!-- ENding range files -->
+
+
+
+
+</main>
+
+
+
+
+
+{{end}}

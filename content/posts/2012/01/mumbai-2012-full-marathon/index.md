@@ -7,4 +7,4 @@ tags:
 title: Mumbai 2012 Full Marathon
 ---
 
-[![Mumbai 2012](images/Mumbai-2012-724x1024.jpeg)](https://srikanthperinkulam.com/wp-content/uploads/2015/03/Mumbai-2012.jpeg)
+![Mumbai 2012](Mumbai2012.jpeg)

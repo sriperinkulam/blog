@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leaflet GPX Map</title>
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    
+    <style>
+        .leaflet-map-container {
+            /* Styles specific to the map container */
+        }
+
+        .leaflet-map-container #map {
+            height: 500px; /* Set the height of the map */
+        }
+
+        .leaflet-map-container .start-icon,
+        .leaflet-map-container .end-icon {
+            text-align: center;
+            font-size: 24px; /* Adjust size as needed */
+        }
+
+        .leaflet-container .leaflet-div-icon {
+            background: transparent; /* Ensure no background */
+            border: none; /* Remove any borders */
+        }
+    </style>
+</head>
+<body>
+
+<div class="leaflet-map-container">
+    <div id="map"></div>
+</div>
+
+<!-- Leaflet JS -->
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+<!-- Leaflet GPX Plugin -->
+<script src="https://unpkg.com/leaflet-gpx/gpx.js"></script>
+
+<script>
+    // Initialize the map
+    var map = L.map('map').setView([0, 0], 2); // Set initial view
+
+    // Add CartoDB Positron tiles for a black and white aesthetic
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+        maxZoom: 19,
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+        subdomains: 'abcd'
+    }).addTo(map);
+
+    // Load GPX file
+    var gpxFile = '{{ .gpxFile | relURL }}'; // Get the GPX filename from parameters
+    console.log("GPX File Path:", gpxFile); // Log the GPX file path for debugging
+
+    var gpxLayer = new L.GPX(gpxFile, {
+        async: true,
+        marker_options: {
+            startIcon: {
+                icon: new L.DivIcon({
+                    className: 'start-icon',
+                    html: '<div style="font-size: 24px;">🚀</div>', // Use a div for start icon
+                    iconSize: [30, 30],
+                    iconAnchor: [15, 30] // Center the icon
+                })
+            },
+            endIcon: {
+                icon: new L.DivIcon({
+                    className: 'end-icon',
+                    html: '<div style="font-size: 24px;">🏁</div>', // Use a div for end icon
+                    iconSize: [30, 30],
+                    iconAnchor: [15, 30] // Center the icon
+                })
+            }
+        }
+    }).on('loaded', function(e) {
+        console.log("GPX loaded successfully");
+        map.fitBounds(e.target.getBounds());
+    }).on('error', function(e) {
+        console.error("Error loading GPX:", e);
+    }).addTo(map);
+</script>
+
+</body>
+</html>

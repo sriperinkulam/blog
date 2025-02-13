@@ -1,7 +1,9 @@
 baseURL: "https://srikanthperinkulam.com/"
 title: Srikanth Perinkulam
-paginate: 10
+#paginate: 10
+pagination.pagerSize: 10
 theme: PaperMod
+#disableRSS: false
 
 rssLimit: 15
 ignoreLogs: ['warning-goldmark-raw-html']
@@ -36,7 +38,7 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
   ShowWordCount: true
-  ShowRssButtonInSectionTermList: true
+#  ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: true
   disableScrollToTop: false
@@ -46,15 +48,17 @@ params:
   showtoc: false
   tocopen: false
   social: true
+#  rss: "rss.xml"
+#  rss_micro: "rss_micro.xml"
 
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "https://srikanthperinkulam.com/images/favicon/favicon.ico"
+    favicon16x16: "https://srikanthperinkulam.com/images/favicon/favicon-16x16.png"
+    favicon32x32: "https://srikanthperinkulam.com/images/favicon/favicon-32x32.png"
+    apple_touch_icon: "https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png"
+#    safari_pinned_tab: "<link / abs url>"
 
   label:
     text: "Srikanth Perinkulam"
@@ -126,12 +130,24 @@ outputs:
     - HTML
     - RSS
     - JSON # necessary for search
+  section:
+    - HTML
+
 absoluteURLs: true
+
 outputFormats:
   RSS:
     Permalinkable: true
-  JSOn:
+  JSON:
     Permalinkable: true
+#  rss_micro:
+#    mediaType: application/rss+xml
+#    baseName: rss_micro
+#    isPlainText: false
+#  rss:
+#    mediaType: application/rss+xml
+#    baseName: rss
+#    isPlainText: false
 
 menu:
   main:
@@ -163,10 +179,15 @@ menu:
       name: Categories
       url: /categories/
       weight: 30
-    - identifier: tags
-      name: Tags
-      url: /tags/
+    - identifier: more
+      name: More
+      url: /more/
       weight: 40
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 40
+
 #    - identifier: example
 #      name: example.org
 #      url: https://example.org
@@ -191,3 +212,4 @@ taxonomies:
 
 permalinks:
   posts: "/:year/:month/:day/:title"
+  book-note: "/book-note/:title"

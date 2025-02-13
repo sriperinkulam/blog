@@ -27,6 +27,10 @@
       {{- partial "post_canonical.html" . -}}
     </div>
 
+	{{ if in .Params.categories "year-notes" }}
+	    {{ partial "effects/fireworks.html" . }}
+	{{ end }}
+
     <span hidden>Posted By:
       <a rel="author" class="p-author h-card" href="{{ "about" | relURL }}">
         {{ .Params.author }}
@@ -37,7 +41,8 @@
         <time class="dt-published">{{ .Date }}</time>
     </a> 
    </span> 
-    
+ 
+   
 {{- end }}
   </header>
   {{- $isHidden := (.Param "cover.hiddenInSingle") | default (.Param "cover.hidden") | default false }}
@@ -47,26 +52,52 @@
   {{- end }}
 
   {{- if .Content }}
-
   <div class="post-content e-content">
     {{- if not (.Param "disableAnchoredHeadings") }}
        {{- partial "anchored_headings.html" .Content -}}
     {{- else }}{{ .Content }}{{ end }}
+  
   </div>
+
+{{ if or .Params.gpxFile .Params.jsonFile }}
+
+<div class="overlay-container">
+    {{ if .Params.gpxFile }}
+        {{ $gpxfilepath := printf "%s%s" "/data/garmin/activities/gpx/" .Params.gpxFile }}
+        <div class="map-partial">
+            {{ partial "map.html" (dict "gpxFile" $gpxfilepath) }}
+        </div>
+    {{ end }}
+
+    {{ if .Params.jsonFile }}
+        {{ $p := printf "data/garmin/jsons/%s" .Params.jsonFile }}
+        <div class="summary-partial">
+            {{ with resources.Get $p }}
+                {{ $data := . | transform.Unmarshal }}
+                {{ partial "garmin_summary.html" (dict "garmindata" $data) }}
+            {{ else }}
+                {{ errorf "Unable to get resource %q" $p }}
+            {{ end }}
+        </div>
+    {{ end }}
+</div>
+{{ end }}
+
   {{- end }}
 
 <!--    <a rel="syndication" class="u-syndication" href={{ .Params.Syndication.Fediverse }}>&#x2744;</a>
     -->
-{{- partial "comments_isso.html" . -}}
-
 
   <footer class="post-footer">
+
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
     <ul class="post-tags">
       {{- range ($.GetTerms $tags) }}
       <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
       {{- end }}
     </ul>
+    {{- partial "comments_ntfy.html" . -}}
+
     {{- if (.Param "ShowPostNavLinks") }}
     {{- partial "post_nav_links.html" . }}
     {{- end }}
@@ -82,8 +113,8 @@
 
 
   {{- if (.Param "comments") }}
-  {{- partial "comments.html" . }}
-  {{- end }}
+<!--  {{- partial "comments.html" . }}
+-->  {{- end }}
 </article>
 
 {{- end }}{{/* end main */}}

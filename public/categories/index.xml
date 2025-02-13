@@ -6,113 +6,111 @@
     <description>Recent content in Categories on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
-    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
-    <lastBuildDate>Fri, 10 Jan 2025 21:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 20:30:00 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Reply</title>
-      <link>http://localhost:1313/categories/reply/index.xml</link>
-      <pubDate>Fri, 10 Jan 2025 21:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
-      <guid>http://localhost:1313/categories/reply/index.xml</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Travel</title>
-      <link>http://localhost:1313/categories/travel/index.xml</link>
-      <pubDate>Sun, 05 Jan 2025 21:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
-      <guid>http://localhost:1313/categories/travel/index.xml</guid>
+      <title>Hiking</title>
+      <link>http://localhost:1313/categories/hiking/index.xml</link>
+      <pubDate>Sat, 08 Feb 2025 20:30:00 -0500</pubDate>
+      <guid>http://localhost:1313/categories/hiking/index.xml</guid>
       <description></description>
     </item>
     <item>
       <title>Site</title>
       <link>http://localhost:1313/categories/site/index.xml</link>
-      <pubDate>Tue, 31 Dec 2024 21:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <pubDate>Wed, 05 Feb 2025 21:30:00 -0500</pubDate>
       <guid>http://localhost:1313/categories/site/index.xml</guid>
       <description></description>
     </item>
     <item>
       <title>Photos</title>
       <link>http://localhost:1313/categories/photos/index.xml</link>
-      <pubDate>Wed, 25 Dec 2024 21:21:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <pubDate>Sat, 01 Feb 2025 21:30:00 -0500</pubDate>
       <guid>http://localhost:1313/categories/photos/index.xml</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Travel</title>
+      <link>http://localhost:1313/categories/travel/index.xml</link>
+      <pubDate>Fri, 31 Jan 2025 21:30:00 -0500</pubDate>
+      <guid>http://localhost:1313/categories/travel/index.xml</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Activities</title>
+      <link>http://localhost:1313/categories/activities/index.xml</link>
+      <pubDate>Sun, 19 Jan 2025 21:30:00 -0500</pubDate>
+      <guid>http://localhost:1313/categories/activities/index.xml</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>http://localhost:1313/categories/technology/index.xml</link>
+      <pubDate>Mon, 13 Jan 2025 06:30:00 -0500</pubDate>
+      <guid>http://localhost:1313/categories/technology/index.xml</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reply</title>
+      <link>http://localhost:1313/categories/reply/index.xml</link>
+      <pubDate>Fri, 10 Jan 2025 21:30:00 -0500</pubDate>
+      <guid>http://localhost:1313/categories/reply/index.xml</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Year-Notes</title>
+      <link>http://localhost:1313/categories/year-notes/index.xml</link>
+      <pubDate>Tue, 31 Dec 2024 21:30:00 -0500</pubDate>
+      <guid>http://localhost:1313/categories/year-notes/index.xml</guid>
       <description></description>
     </item>
     <item>
       <title>Micro</title>
       <link>http://localhost:1313/categories/micro/index.xml</link>
-      <pubDate>Tue, 24 Dec 2024 21:31:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <pubDate>Tue, 24 Dec 2024 21:31:00 -0500</pubDate>
       <guid>http://localhost:1313/categories/micro/index.xml</guid>
       <description></description>
     </item>
     <item>
       <title>Listen</title>
       <link>http://localhost:1313/categories/listen/index.xml</link>
-      <pubDate>Mon, 16 Dec 2024 21:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <pubDate>Mon, 16 Dec 2024 21:30:00 -0500</pubDate>
       <guid>http://localhost:1313/categories/listen/index.xml</guid>
       <description></description>
     </item>
     <item>
       <title>Family</title>
       <link>http://localhost:1313/categories/family/index.xml</link>
-      <pubDate>Fri, 06 Dec 2024 00:36:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <pubDate>Fri, 06 Dec 2024 00:36:00 -0500</pubDate>
       <guid>http://localhost:1313/categories/family/index.xml</guid>
       <description></description>
     </item>
     <item>
       <title>Read</title>
       <link>http://localhost:1313/categories/read/index.xml</link>
-      <pubDate>Mon, 02 Dec 2024 22:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <pubDate>Mon, 02 Dec 2024 22:30:00 -0500</pubDate>
       <guid>http://localhost:1313/categories/read/index.xml</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
       <link>http://localhost:1313/categories/tech/index.xml</link>
-      <pubDate>Fri, 29 Nov 2024 22:41:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <pubDate>Fri, 29 Nov 2024 22:41:00 -0500</pubDate>
       <guid>http://localhost:1313/categories/tech/index.xml</guid>
       <description></description>
     </item>
     <item>
       <title>Misc</title>
       <link>http://localhost:1313/categories/misc/index.xml</link>
-      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/misc/index.xml</guid>
       <description></description>
     </item>
     <item>
       <title>Week-Notes</title>
       <link>http://localhost:1313/categories/week-notes/index.xml</link>
-      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/week-notes/index.xml</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Biking</title>
-      <link>http://localhost:1313/categories/biking/index.xml</link>
-      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
-      <guid>http://localhost:1313/categories/biking/index.xml</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Running</title>
-      <link>http://localhost:1313/categories/running/index.xml</link>
-      <pubDate>Sat, 28 Sep 2024 21:54:52 -0600</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
-      <guid>http://localhost:1313/categories/running/index.xml</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Status</title>
-      <link>http://localhost:1313/categories/status/index.xml</link>
-      <pubDate>Thu, 19 Sep 2024 22:01:10 -0600</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
-      <guid>http://localhost:1313/categories/status/index.xml</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Year-Notes</title>
-      <link>http://localhost:1313/categories/year-notes/index.xml</link>
-      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
-      <guid>http://localhost:1313/categories/year-notes/index.xml</guid>
       <description></description>
     </item>
   </channel>

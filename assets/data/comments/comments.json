@@ -1,0 +1,31 @@
+{
+    "posts": [
+        {
+            "permalink": "http://localhost:1313/2024/12/24/las-estacas/",
+            "comments": [
+                {
+                    "name": "Adam Badam",
+                    "website": "https://johndoe.com",
+                    "comment": "Lorem Ipsum dimsum.",
+                    "date": "2/5/25, 8:18 PM"
+                },
+                {
+                    "name": "Jumping Jason",
+                    "website": "https://janesmith.com",
+                    "comment": "That fine space between the letter and the period",
+                    "date": "2/3/25, 6:12 PM"
+                }
+            ]
+        },
+        {
+            "permalink": "https://example.com/another-post",
+            "comments": [
+                {
+                    "name": "Alice Johnson",
+                    "website": "https://alicejohnson.com",
+                    "comment": "I found this very helpful, looking forward to more posts!"
+                }
+            ]
+        }
+    ]
+}

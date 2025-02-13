@@ -11,6 +11,8 @@ tags:
 - micro
 title: Pico de Águila
 year: 2024
+gpxFile: "La Malinche.gpx"
+jsonFile: "2024-04-14 09:43:520:00_14905708622_summary.json"
 ---
 
 ![](images/signal-2024-04-14-17-12-24-029-2.jpg)

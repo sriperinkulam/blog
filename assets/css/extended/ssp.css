@@ -1,3 +1,30 @@
+.overlay-container {
+    position: relative; /* Establishes a positioning context for absolute positioning */
+    width: 100%; /* Adjust as needed */
+    height: 400px; /* Set a height for the container */
+}
+
+.map-partial {
+    position: relative; /* Keeps the map in the normal flow */
+    z-index: 1; /* Ensures the map is below the summary */
+}
+
+.summary-partial {
+    position: absolute; /* Allows the summary to overlay the map */
+    bottom: 0; /* Aligns the summary to the bottom */
+    left: 0; /* Aligns the summary to the left */
+    z-index: 2; /* Ensures the summary is above the map */
+    background: rgba(255, 255, 255, 0.8); /* Optional: adds a semi-transparent background */
+    padding: 10px; /* Optional: adds some padding */
+    border-radius: 5px; /* Optional: rounds the corners */
+    color: #333; /* Stronger text color (dark gray) */
+    font-weight: bold; /* Optional: makes the text bold */
+}
+
+.blur {
+    filter: blur(5px); /* Adjust the value for more or less blur */
+}
+
 /* Primarily for aligning photos */
 .no-indent {
     padding: 0; /* Remove padding */
@@ -107,3 +134,42 @@
 
   color: lighten($accent, 30%);
 }
+
+/* static/css/fireworks.css */
+body {
+    margin: 0;
+    overflow: hidden;
+    position: relative;
+}
+
+#fireworks-container {
+    position: fixed; /* Change to fixed to cover the viewport */
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none; /* Allow clicks to pass through */
+    z-index: 9999; /* Ensure it appears above other content */
+}
+
+.firework {
+    position: absolute;
+    bottom: 0;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    opacity: 0.8;
+    animation: explode 1s forwards;
+}
+
+@keyframes explode {
+    0% {
+        transform: translateY(0) scale(1);
+        opacity: 1;
+    }
+    100% {
+        transform: translateY(-200px) scale(3);
+        opacity: 0;
+    }
+}
+

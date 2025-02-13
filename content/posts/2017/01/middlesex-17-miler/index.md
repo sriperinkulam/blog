@@ -17,11 +17,11 @@ Finally got around visiting the Wrights tower! Despite visiting the fells severa
 
 <!--more-->
 
-![](images/32446594185_9035470f13_o-e1485036258624-768x1024.jpg)
+![](images/32446594185_9035470f13_o-e1485036258624.jpg)
 
 An amazing view of the Boston Skyline from the tower.
 
-![](images/32068547940_93da01e93a_o-1024x768.jpg)
+![](images/32068547940_93da01e93a_o.jpg)
 
 First long run for the season. Hey, also my first self supported half this year. With tomorrow's 9 miler, I'll be signing off with about 49 miles this week. Not a bad start! Miss Me's post run stretches have been quite instrumental in my injury free runs and I can't thank her enough to keep pushing me for those runs after a long day. Only hope she doesn't take her coach's responsibility too seriously and cuts me off the fries!
 

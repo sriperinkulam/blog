@@ -1,0 +1,188 @@
+<div class="comments">
+    <button id="toggle-comments" class="btn btn-primary" style="margin: 10px 0; padding: 10px 20px; font-size: 16px; border-radius: 5px;">
+        💬 Show Interactions and Comments
+    </button>
+    
+    <div id="comments-section" style="display: none;"> 
+
+    <form id="contactForm" class="form">
+        <input type="text" id="hiddenField" name="hiddenField" style="display: none;"> <!-- Hidden field for spam detection -->
+        
+        <div class="form-group">
+            <label for="message"></label>
+            <textarea id="message" name="message" class="form-control" placeholder="Type in your comment." rows="5" required style="background-color: #f0f8ff; border: 1px solid #007bff;"></textarea>
+        </div>
+        <div class="form-group" style="display: flex; justify-content: space-between;">
+            <div style="flex: 1; margin-right: 10px;">
+                <label for="name">Name</label>
+                <input type="text" id="name" name="name" class="form-control" placeholder="Or alias?" required style="background-color: #f0f8ff; border: 1px solid #007bff;">
+            </div>
+            <div style="flex: 1;">
+                <label for="email">E-mail</label>
+                <input type="email" id="email" name="email" class="form-control" placeholder="Will not be published" required style="background-color: #f0f8ff; border: 1px solid #007bff;">
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="website">Website (optional)</label>
+            <input type="url" id="website" name="website" class="form-control" placeholder="Your Website" style="background-color: #f0f8ff; border: 1px solid #007bff;">
+        </div>
+        <div class="form-group" style="text-align: right;">
+            <button type="submit" class="btn2 btn2-primary">Submit</button>
+        </div>
+    </form>
+    <div class="message" id="responseMessage" style="display: none;"></div>
+{{- partial "comments_display.html" (dict "PostPermalink" .Permalink) -}}
+</div>
+</div>
+
+
+<script>
+    // Function to sanitize input
+    function sanitizeInput(input) {
+        const element = document.createElement('div');
+        element.innerText = input; // Use innerText to escape HTML
+        return element.innerHTML; // Return the escaped HTML
+    }
+
+    document.getElementById('contactForm').addEventListener('submit', function(event) {
+        event.preventDefault(); // Prevent the default form submission
+
+        // Check if the hidden field is filled (spam bot check)
+        const hiddenField = document.getElementById('hiddenField').value;
+        if (hiddenField) {
+            document.getElementById('responseMessage').innerText = 'Submission rejected due to spam detection.';
+            return; // Stop the submission
+        }
+
+        // Gather and sanitize form data
+        const message = sanitizeInput(document.getElementById('message').value);
+        const name = sanitizeInput(document.getElementById('name').value);
+        const email = sanitizeInput(document.getElementById('email').value);
+        const website = sanitizeInput(document.getElementById('website').value);
+
+        // Get the title of the current post (assuming it's available in a variable)
+        const postTitle = document.title; // Use the document title as the post title
+        const postPermalink = window.location.href; // Get the current page URL as the post permalink
+
+        // Construct the message body in the desired format
+        const body = `${website ? `[@${name}](${website})` : `@*${name}*` } posted this comment on [${postTitle}](${postPermalink}): \n${message}. \nE-mail: ${email}`;
+
+        // Send the data to ntfy
+        const ntfyUrl = 'https://gtfy.srkn.org/hugosspcomments'; // Replace with your ntfy topic URL
+        
+        fetch(ntfyUrl, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'text/plain',
+                'Authorization': 'Bearer tk_phfhehnwzk2qi3hdydxo3rxgd193w', // Replace with your token
+                'Markdown': 'yes'            
+                },
+            body: body
+        })
+        .then(response => {
+            if (response.ok) {
+                showMessage('Thank you. Your comment has been received and will be published once moderated.');
+                document.getElementById('contactForm').reset(); // Reset the form
+            } else {
+                throw new Error('Network response was not ok.');
+            }
+        })
+        .catch(error => {
+            showMessage('There was a problem sending your message.');
+            console.error('There was a problem with the fetch operation:', error);
+        });
+    });
+
+
+    function showMessage(text) {
+        const responseMessage = document.getElementById('responseMessage');
+        responseMessage.innerHTML = text;
+        responseMessage.style.display = 'block';
+        responseMessage.classList.add('fade-in');
+        setTimeout(() => {
+            responseMessage.classList.remove('fade-in');
+        }, 10000); // Remove fade-in class after 10 seconds
+    }
+
+    document.getElementById('toggle-comments').addEventListener('click', function() {
+        var commentsSection = document.getElementById('comments-section');
+        if (commentsSection.style.display === 'none') {
+            commentsSection.style.display = 'block';
+            this.textContent = '💬 Hide Interactions and Comments';
+        } else {
+            commentsSection.style.display = 'none';
+            this.textContent = '💬 Show Interactions and Comments';
+        }
+    });
+</script>
+
+<style>
+    .btn {
+        background-color: #007bff; /* Bootstrap primary color */
+        color: white;
+        border: none;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+    .btn:hover {
+        background-color: #0056b3; /* Darker shade for hover effect */
+    }
+
+    .btn:focus {
+        outline: none; /* Remove outline on focus */
+    }
+
+    .container {
+        max-width: 600px;
+        margin: auto;
+        padding: 20px;
+        background-color: var(--bg-container);
+        border-radius: 8px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    }
+    .form-group {
+        margin-bottom: 15px;
+    }
+    .form-control {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid var(--border-color);
+        border-radius: 4px;
+        background: var(--input-bg);
+        color: black;
+    }
+    .form-control:focus {
+        outline: none;
+        border-color: #007bff; /* Highlight border on focus */
+        box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Highlight effect */
+    }
+    .btn2 {
+        padding: 10px 15px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+    .btn2-primary {
+        background-color: #007bff; /* Blue color */
+        color: white;
+    }
+    .btn2-primary:hover {
+        background-color: #0056b3; /* Darker blue on hover */
+    }
+    .message {
+        margin-top: 20px;
+        text-align: center;
+        padding: 15px;
+        border-radius: 5px;
+        background-color: #e7f3fe; /* Light blue background */
+        color: #31708f; /* Dark blue text */
+        border: 1px solid #bce8f1; /* Light blue border */
+        display: none; /* Initially hidden */
+        opacity: 0; /* Start with opacity 0 for fade effect */
+        transition: opacity 0.5s ease-in-out; /* Fade transition */
+    }
+    .fade-in {
+        opacity: 1; /* Fade in effect */
+    }
+</style>

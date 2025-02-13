@@ -11,4 +11,3 @@ title: Tranquility
 
 Reading be like... [breath](https://srikanthperinkulam.com/book-review/breath/)
 
-![](images/Imagepipe_0.jpg)

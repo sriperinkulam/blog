@@ -2,7 +2,7 @@
 {{- with site.Params.author }}
   {{- if reflect.IsMap . }}
     {{- with .email }}
-      {{- $authorEmail = . }}
+      {{- $authorEmail = "" }}
     {{- end }}
   {{- end }}
 {{- end }}
@@ -47,7 +47,7 @@
     {{- end }}
     {{- range $pages }}
     <item>
-      <title>{{ if in .Params.tags "micro" }}{{ .PublishDate.Format "2006-01-02 15:04:05" | safeHTML }}{{ else }}{{ .Title }}{{ end }}</title>
+      <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>
       <pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       {{- with $authorEmail }}<author>{{ . }}{{ with $authorName }} ({{ . }}){{ end }}</author>{{ end }}

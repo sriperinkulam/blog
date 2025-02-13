@@ -6,14 +6,12 @@
     <description>Recent content in Linkding on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
-    <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
     <lastBuildDate>Sat, 03 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/linkding/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2024-02-03 00:00:00</title>
+      <title>Bookmarks</title>
       <link>http://localhost:1313/2024/02/03/bookmarks/</link>
-      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/2024/02/03/bookmarks/</guid>
       <description>&lt;p&gt;Setup a &lt;a href=&#34;https://github.com/sissbruecker/linkding&#34;&gt;Linkding&lt;/a&gt; instance on the Moose for better managing my bookmarks. Not a huge fan of the name but it&amp;rsquo;s a great lightweight app doing just what it&amp;rsquo;s built for.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://github.com/Waboodoo/HTTP-Shortcuts&#34;&gt;HTTP Shortcuts&lt;/a&gt; app on FDroid is a decent partner app to share bookmarks from the phone.&lt;/p&gt;&#xA;</description>
     </item>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2017-09-06 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/date/2017-09-06-000000-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2017-09-06 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 06 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/date/2017-09-06-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What doesn&#39;t kill us</title>
+      <link>http://localhost:1313/book-note/what-doesnt-kill-us/</link>
+      <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/book-note/what-doesnt-kill-us/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

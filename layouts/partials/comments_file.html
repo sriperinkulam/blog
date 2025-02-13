@@ -1,0 +1,10 @@
+{{ $comments := readFile ".comments.md" }}
+{{ $lines := split $comments "\n" }}
+
+    {{ range $lines }}
+        {{ if and (ne . "") (not (hasPrefix . "-")) }}
+            <p>{{ . }}</p>
+        {{ else if hasPrefix . "-" }}
+            <p>{{ trim (replace . "-" "") }}</p>
+        {{ end }}
+    {{ end }}

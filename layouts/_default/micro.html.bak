@@ -18,29 +18,33 @@
 
     {{ $articles := .Site.RegularPages }}
     {{ range where $articles "Params.tags" "intersect" (slice "micro" "add-other-tags" ) }}
-    {{ $validKinds := slice "ThoughtReply" "StatusNote" "PhotoNote" }}
-
-    {{ if in $validKinds .Params.IWkind }}    
-    <a href="{{ .RelPermalink }}" class="is-photo"><u>{{.PublishDate.Format "02 Jan 2006"}}</u>:</a>
+    {{ $validKinds := slice "ReplyReply" "ThoughtReply" "StatusNote" "PhotoNote" }}
+    {{ $KindsClass := ""}}
+    {{ if eq .Params.IWkind "PhotoNote" }}
+     {{ $KindsClass = "is-photo" }}
+    {{ else if eq .Params.IWkind "StatusNote" }}
+     {{ $KindsClass = "is-note"  }}
+    {{ else if eq .Params.IWkind "ThoughtReply"}}
+     {{ $KindsClass = "is-reply"  }}
+    {{ else if eq .Params.IWkind "ReplyReply" }}
+     {{ $KindsClass = "is-reply" }}
+    {{ else }}
+     {{ $KindsClass = "is-note" }}
+    {{ end }}
+    <a href="{{ .RelPermalink }}" class="{{$KindsClass}} no-indent"><u>{{.PublishDate.Format "02 Jan 2006"}}</u>:</a>
         <div class="post-content">
         {{ $images := .Resources.ByType "image" }}
+	    <ol class="photo-list {{ if eq (len $images) 1 }}single-image{{ end }} no-indent">
+	        {{ range $images }}
+	            {{ with . }}
+	                <li><img src="{{ .RelPermalink }}" alt="{{ $.Description }}"></li>
+	            {{ end }}
+	        {{ end }}
+	    </ol>
+        {{ $contentWithoutImages := .Content | replaceRE "<img[^>]*>" "" }}
+        <div>{{ $contentWithoutImages | safeHTML }}</div>
+        </div>
 
-    <ol class="photo-list {{ if eq (len $images) 1 }}single-image{{ end }}">
-        {{ range $images }}
-            {{ with . }}
-                <li><img src="{{ .RelPermalink }}" alt="{{ $.Description }}"></li>
-            {{ end }}
-        {{ end }}
-    </ol>
-    {{ $contentWithoutImages := .Content | replaceRE "<img[^>]*>" "" }}
-    <div>{{ $contentWithoutImages | safeHTML }}</div>
-    </div>
-
-    {{ else }}
-    <a href="{{ .RelPermalink }}" class="is-note"><u>{{.PublishDate.Format "02 Jan 2006"}}</u>:</a> 
-        <div class="post-content">{{.Content}}</div>
-
-    {{ end }}
     {{ end }}
 
   </main>

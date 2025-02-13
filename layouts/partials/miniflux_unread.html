@@ -1,0 +1,61 @@
+<!-- layouts/partials/miniflux_unread.html -->
+<div id="unread-posts">
+    <h2>Latest Unread Posts</h2>
+    <ul id="unread-posts-list"></ul>
+</div>
+
+<script>
+    async function fetchUnreadPosts() {
+        const apiUrl = 'https://flux.srkn.org/v1/entries/unread'; // Replace with your Miniflux API URL
+        const apiToken = '80K95EPbcuXBsb-P2CpnMbV9xL4qwLh45Ox-dZnxLdc='; // Replace with your Miniflux API token
+
+        try {
+            const response = await fetch(apiUrl, {
+                headers: {
+                    'Authorization': `Bearer ${apiToken}`
+                }
+            });
+
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+
+            const data = await response.json();
+            const postsList = document.getElementById('unread-posts-list');
+
+            data.forEach(post => {
+                const listItem = document.createElement('li');
+                listItem.innerHTML = `<a href="${post.url}" target="_blank">${post.title}</a>`;
+                postsList.appendChild(listItem);
+            });
+        } catch (error) {
+            console.error('Error fetching unread posts:', error);
+        }
+    }
+
+    document.addEventListener('DOMContentLoaded', fetchUnreadPosts);
+</script>
+
+<style>
+    #unread-posts {
+        margin: 20px 0;
+    }
+
+    #unread-posts-list {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    #unread-posts-list li {
+        margin: 5px 0;
+    }
+
+    #unread-posts-list a {
+        text-decoration: none;
+        color: #007bff; /* Bootstrap primary color */
+    }
+
+    #unread-posts-list a:hover {
+        text-decoration: underline;
+    }
+</style>

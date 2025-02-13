@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2025-01-25 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>http://localhost:1313/date/2025-01-25-000000-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2025-01-25 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/date/2025-01-25-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Colophon</title>
+      <link>http://localhost:1313/colophon/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/colophon/</guid>
+      <description>&lt;p&gt;Over time I&amp;rsquo;ve incorporated quite a few moving blocks to bring this site to function the way it does. This page is an attempt to document those various facets. See &lt;a href=&#34;http://localhost:1313/sitelog&#34;&gt;sitelog&lt;/a&gt; for chronological updates made on this site.&lt;/p&gt;&#xA;&lt;h3 id=&#34;publishing-workflow&#34;&gt;Publishing workflow&lt;/h3&gt;&#xA;&lt;p&gt;I use the fabulous &lt;a href=&#34;https://github.com/gsantner/markor&#34;&gt;Markor app&lt;/a&gt; on my phone to draft posts on the go. Syncthing runs in the background to sync posts to my laptop. If the laptop is turned on, HUGO running via docker automatically picks up these new posts, a script builds the site, and then pushes these updates to github. To draft posts on the laptop, I use the &lt;a href=&#34;https://remarkableapp.github.io/linux.html&#34;&gt;Remarkable app&lt;/a&gt;. My templates directory in debian has pre-built templates for long and short articles which I can easily copy over when drafting posts on the laptop.&lt;/p&gt;&#xA;&lt;h3 id=&#34;comments&#34;&gt;Comments&lt;/h3&gt;&#xA;&lt;p&gt;I moved away from &lt;a href=&#34;https://github.com/isso-comments/isso/&#34;&gt;ISSO&lt;/a&gt; and setup my own custom comments system. Comments when submitted on posts and certain pages, now get pushed to my ntfy.sh server. There&amp;rsquo;s mild spam detection in place.&lt;/p&gt;&#xA;&lt;p&gt;At some point I would also like to integrate webmentions and pingbacks. The guts are ready but I haven&amp;rsquo;t seen the push to blend them in yet.&lt;/p&gt;&#xA;&lt;h3 id=&#34;garmin&#34;&gt;Garmin&lt;/h3&gt;&#xA;&lt;p&gt;I manually fetch the GPX files and summary from my Garmin account as needed. These are saved in the assets and static folders. If a specific post has front-matter set to point to those filenames, it shows an overlay of the stats on the gpx map. See &lt;a href=&#34;https://srikanthperinkulam.com/2025/01/19/la-malinche-hike/&#34;&gt;this post&lt;/a&gt; for example. Also a &lt;a href=&#34;http://localhost:1313/garmin&#34;&gt;Garmin&lt;/a&gt; page shows the summary of all activities. Could tweak this to show totals for a year etc. which I have not gotten to yet.&lt;/p&gt;&#xA;&lt;h3 id=&#34;rewind&#34;&gt;Rewind&lt;/h3&gt;&#xA;&lt;p&gt;I built the &lt;a href=&#34;http://localhost:1313/rewind&#34;&gt;Rewind&lt;/a&gt; page to coax me to read my older posts. In every build, this page essentially loads all posts within three days of the current date in the previous years.&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

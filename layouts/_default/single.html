@@ -27,6 +27,7 @@
       {{- partial "post_canonical.html" . -}}
     </div>
     {{- end }}
+
   </header>
   {{- $isHidden := (.Param "cover.hiddenInSingle") | default (.Param "cover.hidden") | default false }}
   {{- partial "cover.html" (dict "cxt" . "IsSingle" true "isHidden" $isHidden) }}
@@ -42,7 +43,11 @@
   </div>
   {{- end }}
 
-{{- partial "comments_isso.html" . -}}
+  {{- if (.Param "comments") }}
+<!--     {{- partial "comments.html" . }}
+ -->    {{- partial "comments_ntfy.html" . -}}
+  {{- end }}
+
 
   <footer class="post-footer">
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
@@ -60,8 +65,8 @@
   </footer>
 
   {{- if (.Param "comments") }}
-  {{- partial "comments.html" . }}
-  {{- end }}
+<!--   {{- partial "comments.html" . }}
+-->  {{- end }}
 </article>
 
 {{- end }}{{/* end main */}}

@@ -1,0 +1,22 @@
+<div class="comments"><h3> 💬 Comments </h3> 
+<script data-isso="https://isso.srikanthperinkulam.com/"
+                    data-isso-id="thread-id"
+                    data-isso-css="true"
+                    data-isso-lang="en"
+                    data-isso-reply-to-self="true"
+                    data-isso-reply-notifications="true"
+                    data-isso-require-author="true"
+                    data-isso-require-email="false"
+                    data-isso-max-comments-top="10"
+                    data-isso-max-comments-nested="5"
+                    data-isso-reveal-on-click="5"
+                    data-isso-avatar="false"
+                    data-isso-gravatar="true"
+                    data-isso-feed="false"
+                    data-isso-vote="true"
+                    src="https://isso.srikanthperinkulam.com/js/embed.min.js"></script>
+
+<section id="isso-thread">
+    <noscript>Javascript needs to be activated to view comments.</noscript>
+</section>
+</div>

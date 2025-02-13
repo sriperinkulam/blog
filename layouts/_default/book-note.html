@@ -1,0 +1,14 @@
+{{ define "main" }}
+<article>
+    <h1>Book Notes</h1>
+    <br><p>{{ .Description }}</p><br>
+    <ul style="list-style-type: none; padding: 0;">
+        {{ range where .Pages "Section" "book-note" }}
+            <li style="display: flex; justify-content: space-between; padding: 5px 0;">
+                <a href="{{ .RelPermalink }}" style="text-decoration: none;">{{ .Title }}</a>
+                <span>{{ .Date.Format "2006-01-02" }}</span>
+            </li>
+        {{ end }}
+    </ul>
+</article>
+{{ end }}

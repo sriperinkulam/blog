@@ -1,0 +1,43 @@
+<!-- layouts/partials/effects/fireworks.html -->
+<div id="fireworks-container"></div>
+<script>
+// static/js/fireworks.js
+document.addEventListener("DOMContentLoaded", function() {
+    const fireworksContainer = document.getElementById('fireworks-container');
+
+    function createFirework() {
+        const firework = document.createElement('div');
+        firework.classList.add('firework');
+
+        // Randomize the position
+        const randomX = Math.random() * window.innerWidth;
+        firework.style.left = `${randomX}px`;
+
+        // Randomize size
+        const size = Math.random() * 10 + 5; // Size between 5px and 15px
+        firework.style.width = `${size}px`;
+        firework.style.height = `${size}px`;
+
+        // Randomize color
+        const colors = ['red', 'blue', 'green', 'yellow', 'orange', 'purple', 'pink'];
+        firework.style.backgroundColor = colors[Math.floor(Math.random() * colors.length)];
+
+        fireworksContainer.appendChild(firework);
+
+        // Remove the firework after the animation ends
+        firework.addEventListener('animationend', () => {
+            firework.remove();
+        });
+    }
+
+    // Create multiple fireworks
+    function launchFireworks() {
+        for (let i = 0; i < 10; i++) {
+            setTimeout(createFirework, i * 200); // Stagger the fireworks
+        }
+    }
+
+    // Launch fireworks every few seconds
+    setInterval(launchFireworks, 3000); // Launch every 3 seconds
+});
+</script>

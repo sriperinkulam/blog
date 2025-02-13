@@ -1,0 +1,37 @@
+{{ $currentPermalink := .PostPermalink }}
+{{ $p := "data/comments/comments.json" }}
+{{ with resources.Get $p }}
+    {{ $comments := . | transform.Unmarshal }}
+    {{ $postComments := where $comments.posts "permalink" $currentPermalink }}
+    <div class="comments-display p-6 bg-gray-50 dark:bg-gray-900 rounded-lg shadow-md">
+        {{ if $postComments }}
+            <div class="comments-container space-y-4">
+                {{ $emojis := (slice "🏞️" "🏖️" "🏕️" "🏄‍" "🚴‍" "🌄" "🌅" "🌌" "🌈" "🌊") }}
+                {{ $counter := 0 }} <!-- Initialize a counter -->
+                {{ range (index $postComments 0).comments }}
+                    <div class="comment flex items-start p-4 border border-gray-200 rounded-lg bg-white dark:bg-gray-800 shadow-sm hover:shadow-lg transition-shadow duration-200">
+                        <div class="comment-content flex-1">
+                            <div class="flex items-center">
+                             <span class="text-3xl">
+                                    {{ index $emojis (mod $counter (len $emojis)) }}
+                                </span>
+                                <strong class="text-blue-600 dark:text-blue-400 mr-2 text-lg">
+                                    <a href="{{ .website }}" target="_blank">{{ .name }}:</a>
+                                </strong>
+                                <span style="font-size: 0.75rem; color: #a0aec0; font-style: italic;">
+                                    {{ .date  }} <!-- Format the date -->
+                                </span>
+                            </div>
+                            <p class="mt-1 text-gray-700 dark:text-gray-300">{{ .comment }}</p>
+                        </div>
+                    </div>
+                    {{ $counter = add $counter 1 }} <!-- Increment the counter -->
+                {{ end }}
+            </div>
+        {{ else }}
+            <p class="text-gray-500 dark:text-gray-400">No comments yet. Be the first to comment!</p>
+        {{ end }}
+    </div>
+{{ else }}
+    {{ errorf "Unable to get resource %q" $p }}
+{{ end }}
